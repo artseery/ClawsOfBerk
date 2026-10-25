@@ -1487,6 +1487,11 @@ hash = "09054e41e2913d8b627adcbb3c1bc1dcfa59275303cb1fbf37f6c8a369da6c69"
 metafile = true
 
 [[files]]
+file = "mods/fastquit-3-0-2-1-18-2forge-cdaee6cdf3d7.pw.toml"
+hash = "bb2a607080d7c2ccce7bb44d8a39206eec4c3b5bf7e0a7808ba336230183bb7e"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite-1-18-2-3-0-2-094877c11e15.pw.toml"
 hash = "1acd85b4dd0cc90d2badd9014d4b9cd2e9117c99a26d9177e14dfab9ffd51794"
 metafile = true

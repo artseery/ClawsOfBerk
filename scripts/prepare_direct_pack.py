@@ -12,7 +12,6 @@ ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "pack"
 ARTIFACTS = ROOT / "artifacts"
 SOURCE_FILES = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
-OPTIONAL = {"Fastquit-3.0.2+1.18.2forge.jar"}
 
 
 def main() -> None:
@@ -29,8 +28,7 @@ def main() -> None:
         directory = ARTIFACTS / folder
         files = sorted(p for p in directory.iterdir() if p.is_file() and p.suffix.lower() in {".jar", ".zip"})
         actual = {p.name for p in files}
-        required = set(expected) - OPTIONAL
-        missing = required - actual
+        missing = set(expected) - actual
         extra = actual - set(expected)
         if missing or extra:
             parser.error(f"{folder}: missing {sorted(missing)}, unexpected {sorted(extra)}")

@@ -8,15 +8,9 @@ and resource pack binary is served directly from the same Pages site under
 ## Files in this repository
 
 The source CurseForge export contains no mod JARs. `artifacts/` now contains
-142 exact mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. Their SHA-1
+143 exact mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. Their SHA-1
 values are checked against `scripts/source_files.json`, which records the
 original pack's file hashes. The map is already included under `pack/saves/`.
-
-The original pack also lists `Fastquit-3.0.2+1.18.2forge.jar`. Chrome blocked
-that download as suspicious, so this optional client optimization is omitted
-from the current distribution. If you obtain and trust the exact file, place
-it in `artifacts/mods/`; the build will include it only when its SHA-1 matches
-the original pack.
 
 ## Publish
 

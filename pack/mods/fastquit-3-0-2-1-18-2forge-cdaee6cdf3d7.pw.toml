@@ -1,0 +1,8 @@
+name = "Fastquit-3.0.2+1.18.2forge"
+filename = "Fastquit-3.0.2+1.18.2forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Fastquit-3.0.2%2B1.18.2forge.jar"
+hash-format = "sha256"
+hash = "cdaee6cdf3d7150d88a85ad7aa021a5f8f9ed1445b95089085691a4a4fd0cd94"

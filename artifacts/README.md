@@ -1,6 +1,6 @@
 Direct GitHub Pages downloads for the Prism pack live here:
 
-- `mods/`: 142 required `.jar` files; FastQuit can be added optionally
+- `mods/`: 143 `.jar` files
 - `shaderpacks/`: 6 `.zip` files
 - `resourcepacks/`: 3 `.zip` files
 
