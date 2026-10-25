@@ -1,0 +1,186 @@
+{
+    "name": "ShatteredSpark",
+    "icon": "isleofberk:night_fury_egg{VariantName:shattered_alpha}",
+    "category": "patchouli:hybrids_plus",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shattered_alpha}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "ShatteredSpark"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:shattered_alpha}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:shattered_alpha}",
+            "text": "$(4)Spawn Locations$():<br>- Ice Spikes<br>- Frozen Ocean<br><br>$(3)Variants$():<br>- ShatteredSpark has 19 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:business_whale}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:business_whale}",
+            "name": "Business Whale"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:charcoal}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:charcoal}",
+            "name": "Charcoal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:defeated}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:defeated}",
+            "name": "Defeated"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:false_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:false_death}",
+            "name": "False Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:golden_orca}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:golden_orca}",
+            "name": "Golden Orca"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:icy_shield}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:icy_shield}",
+            "name": "Icy Shield"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:koi_stripes}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:koi_stripes}",
+            "name": "Koi Stripes"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:lavender_ice}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:lavender_ice}",
+            "name": "Lavender Ice"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:nights_lullaby}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:nights_lullaby}",
+            "name": "Nights Lullaby"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:ocean_calls}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:ocean_calls}",
+            "name": "Ocean Calls"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:ocean_dweller}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:ocean_dweller}",
+            "name": "Ocean Dweller"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shattered_alpha}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:shattered_alpha}",
+            "name": "Shattered Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:void_prince}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:void_prince}",
+            "name": "Void Prince"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:whale_song}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:whale_song}",
+            "name": "Whale Song"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:citrus_pop}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:citrus_pop}",
+            "name": "Citrus Pop"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:cosmic_dust}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:cosmic_dust}",
+            "name": "Cosmic Dust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:hidden_stars}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:hidden_stars}",
+            "name": "Hidden Stars"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:nova_threat}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:nova_threat}",
+            "name": "Nova Threat"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:overgrown_log}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:overgrown_log}",
+            "name": "Overgrown Log"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:scarred_spark}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:scarred_spark}",
+            "name": "Scarred Spark"
+        } 
+    ]
+}

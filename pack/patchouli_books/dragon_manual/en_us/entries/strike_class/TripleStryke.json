@@ -1,0 +1,419 @@
+{
+    "name": "Triple Stryke",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:sleuther}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:sleuther}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Triple Stryke"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:sleuther}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Beef<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:sleuther}",
+            "text": "$(4)Spawn Locations$():<br>- Badlands<br>- Wooded Badlands<br>- Desert<br><br>$(3)Variants$():<br>- Triple Stryke has 53 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:albino_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_stryke}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:albino_alpha_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_alpha_stryke}",
+            "name": "Albino alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:blue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue}",
+            "name": "Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:blue_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blue_alpha}",
+            "name": "Blue alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:boreas}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:boreas}",
+            "name": "Boreas"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:champion}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champion}",
+            "name": "Champion"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:champion_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:champion_alpha}",
+            "name": "Champion alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:common}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common}",
+            "name": "Common"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:common_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:common_alpha}",
+            "name": "Common alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deepsky}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deepsky}",
+            "name": "Deepsky"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:dg}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg}",
+            "name": "DG"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:eclipser}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclipser}",
+            "name": "Eclipser"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:eclipser_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eclipser_alpha}",
+            "name": "Eclipser alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:indo}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo}",
+            "name": "Indo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:indo_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:indo_alpha}",
+            "name": "Indo alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:ketillkott}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketillkott}",
+            "name": "Ketillkott"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:ketillkott_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ketillkott_alpha}",
+            "name": "Ketillkott alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:melanistic_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_stryke}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:melanistic_alpha_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_alpha_stryke}",
+            "name": "Melanistic alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:nikora_triple_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora_triple_stryke}",
+            "name": "Nikora"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:nikora_triple_stryke_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:nikora_triple_stryke_alpha}",
+            "name": "Nikora alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:regnbue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:regnbue}",
+            "name": "Regnbue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:rosethorn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rosethorn}",
+            "name": "Rosethorn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:rosethorn_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:rosethorn_alpha}",
+            "name": "Rosethorn alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:scorpius}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpius}",
+            "name": "Scorpius"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:scorpius_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorpius_alpha}",
+            "name": "Scorpius alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:sleuther}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuther}",
+            "name": "Sleuther"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:sleuther_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sleuther_alpha}",
+            "name": "Sleuther alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:spyro}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro}",
+            "name": "Spyro"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:spyro_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:spyro_alpha}",
+            "name": "Spyro alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:starstreak}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starstreak}",
+            "name": "Starstreak"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:starstreak_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:starstreak_alpha}",
+            "name": "Starstreak alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:stone_mother}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_mother}",
+            "name": "Stone mother"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:stone_mother_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:stone_mother_alpha}",
+            "name": "Stone mother alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:triple_stryke}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple_stryke}",
+            "name": "Triple stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:triple_stryke_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple_stryke_alpha}",
+            "name": "Triple stryke alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:blankyt}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blankyt}",
+            "name": "Blankyt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:cancer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cancer}",
+            "name": "Cancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:fire_trigger}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:fire_trigger}",
+            "name": "Fire Trigger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:glorious_purpose}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:glorious_purpose}",
+            "name": "Glorious Purpose"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:lush}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:lush}",
+            "name": "Lush"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:triple_sunset}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:triple_sunset}",
+            "name": "Triple Sunset"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:warped}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:warped}",
+            "name": "Warped"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:singularity}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:singularity}",
+            "name": "Singularity"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:amethesian}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:amethesian}",
+            "name": "Amethesian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:dirt}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dirt}",
+            "name": "Dirt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:jelly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:jelly}",
+            "name": "Jelly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:petal}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:petal}",
+            "name": "Petal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:toxicity}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:toxicity}",
+            "name": "Toxicity"
+        } 
+    ]
+}
+

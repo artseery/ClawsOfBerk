@@ -1,0 +1,244 @@
+{
+    "name": "Hobblegrunt",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:hobblegrunt}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:hobblegrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Hobblegrunt"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:hobblegrunt}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>$(6)Taming Requirements$():<br>- Fire resistance effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:hobblegrunt}",
+            "text": "$(4)Spawn Locations$():<br>- Bamboo Jungle<br>- Jungle<br>- Sparse Jungle<br><br>$(3)Variants$():<br>- Hobblegrunt has 26 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:albinogrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albinogrunt}",
+            "name": "Albinogrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:blind}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blind}",
+            "name": "Blind (A)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:blind2}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blind2}",
+            "name": "Blind (B)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:cheesegrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cheesegrunt}",
+            "name": "Cheesegrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:chromo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:chromo}",
+            "name": "Chromo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:cookie_monster}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cookie_monster}",
+            "name": "Cookie Monster"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:crimson_gruntgutter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:crimson_gruntgutter}",
+            "name": "Crimson Gruntgutter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:crookedbellow}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:crookedbellow}",
+            "name": "Crooked Bellow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:dawn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dawn}",
+            "name": "Dawn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:demongrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:demongrunt}",
+            "name": "Demongrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:doomsday_blue}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:doomsday_blue}",
+            "name": "Doomsday Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:eclipse}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:eclipse}",
+            "name": "Eclipse"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:galaxygrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:galaxygrunt}",
+            "name": "Galaxygrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:grunty_zippleback}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:grunty_zippleback}",
+            "name": "Grunty Zippleback"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:hobblegrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hobblegrunt}",
+            "name": "Hobblegrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:lemongrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lemongrunt}",
+            "name": "Lemongrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:leucistgrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucistgrunt}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:light_grunter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:light_grunter}",
+            "name": "Light Grunter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:luminigrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luminigrunt}",
+            "name": "Luminigrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:melangrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melangrunt}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:monstrous_grunter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:monstrous_grunter}",
+            "name": "Monstrous Grunter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:night_grunter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:night_grunter}",
+            "name": "Night Grunter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:seagrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:seagrunt}",
+            "name": "Seagrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:slavicgrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:slavicgrunt}",
+            "name": "Slavicgrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:snowgrunt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:snowgrunt}",
+            "name": "Snowgrunt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:stardust}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stardust}",
+            "name": "Stardust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:sunrise}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:sunrise}",
+            "name": "Sunrise"
+        } 
+    ]
+}
+
+

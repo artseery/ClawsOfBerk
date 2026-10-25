@@ -1,0 +1,202 @@
+{
+    "name": "Wolf-Fang",
+    "icon": "isleofberk:speed_stinger_egg{VariantName:cyan_wolf_fang}",
+    "category": "patchouli:tracker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:cyan_wolf_fang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Wolf-Fang"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:cyan_wolf_fang}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Eggs",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:cyan_wolf_fang}",
+            "text": "$(4)Spawn Locations$():<br>- Wolf-Fang Nest<br><br>$(3)Variants$():<br>- Wolf-Fang has 24 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:albino_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:albino_wolf_fang}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:ashen_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:ashen_wolf_fang}",
+            "name": "Ashen"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:bluepurple_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:bluepurple_wolf_fang}",
+            "name": "Bluepurple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:bolteater}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:bolteater}",
+            "name": "Bolteater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:brown_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:brown_wolf_fang}",
+            "name": "Brown"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:browntan_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:browntan_wolf_fang}",
+            "name": "Browntan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:chestnut_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:chestnut_wolf_fang}",
+            "name": "Chestnut"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:cyan_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:cyan_wolf_fang}",
+            "name": "Cyan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:desert_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:desert_wolf_fang}",
+            "name": "Desert"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:golden_wolflord}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:golden_wolflord}",
+            "name": "Golden Wolflord"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:greenbrown_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:greenbrown_wolf_fang}",
+            "name": "Greenbrown"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:grey_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:grey_wolf_fang}",
+            "name": "Grey"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:lupus_boreas}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:lupus_boreas}",
+            "name": "Lupus Boreas, Dominator of Wolf-Fangs"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:melanistic_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:melanistic_wolf_fang}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:purplegold_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:purplegold_wolf_fang}",
+            "name": "Purplegold"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:purplered_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:purplered_wolf_fang}",
+            "name": "Purplered"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:rimebiter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:rimebiter}",
+            "name": "Rimebiter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:rockfond_rifthound}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:rockfond_rifthound}",
+            "name": "Rockfond Rift-Fang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:rusty_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:rusty_wolf_fang}",
+            "name": "Rusty"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:thundercraven_rifthound}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:thundercraven_rifthound}",
+            "name": "Thundercraven Rift-Fang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:turquoise_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:turquoise_wolf_fang}",
+            "name": "Turquoise"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:yellow_wolf_fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:yellow_wolf_fang}",
+            "name": "Yellow"
+        } 
+    ]
+}

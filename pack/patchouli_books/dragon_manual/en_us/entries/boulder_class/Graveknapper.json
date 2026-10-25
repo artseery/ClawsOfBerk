@@ -1,0 +1,98 @@
+{
+    "name": "Graveknapper",
+    "icon": "isleofberk:nadder_egg{VariantName:graveknapper}",
+    "category": "patchouli:boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:graveknapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Graveknapper"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:graveknapper}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Bone Feed Bundle<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:graveknapper}",
+            "text": "$(4)Spawn Locations$():<br>- Whispering Death Nests with the Wild Aggression effect<br><br>$(3)Variants$():<br>- Graveknapper has 10 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:graveknapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:Graveknapper}",
+            "name": "Graveknapper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:bush}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bush}",
+            "name": "Bush"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:cobalt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cobalt}",
+            "name": "Cobalt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:goldenmarrow}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:goldenmarrow}",
+            "name": "Golden Marrow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:radiant}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:radiant}",
+            "name": "Radiant"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:serene}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:serene}",
+            "name": "Serene"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:spooky}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:spooky}",
+            "name": "Spooky"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:stonecold}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:stonecold}",
+            "name": "Stonecold"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:whisps}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:whisps}",
+            "name": "Whisps"
+        } 
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "Zipple Stryke",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:cattail}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:cattail}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Zipple Stryke"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:cattail}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Beef<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:cattail}",
+            "text": "$(4)Obtained By$():<br>- Breeding a Triple Stryke and Zippleback<br><br>$(3)Variants$():<br>- Zipple Stryke has 7 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:cattail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:cattail}",
+            "name": "Cattail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:pistill}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:pistill}",
+            "name": "Pistill"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:belladonna}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:belladonna}",
+            "name": "Belladonna"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:hamfeist}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:hamfeist}",
+            "name": "Hamfeist"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:zirp_and_zorp}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:zirp_and_zorp}",
+            "name": "Zirp and Zorp"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:wintermelon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:wintermelon}",
+            "name": "Wintermelon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:terms_and_conditions}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:terms_and_conditions}",
+            "name": "Terms and Conditions"
+        } 
+    ]
+}
+

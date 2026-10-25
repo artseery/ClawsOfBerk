@@ -1,0 +1,330 @@
+{
+    "name": "Deadly Nadder",
+    "icon": "isleofberk:nadder_egg{VariantName:stormfly}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:stormfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Deadly Nadder"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:stormfly}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Chicken<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:stormfly}",
+            "text": "$(4)Spawn Locations$():<br>- Bamboo Jungle<br>- Birch Forest<br>- Jungle<br>- Old Growth Birch Forest<br>- Sparse Jungle<br>- River<br><br>$(3)Variants$():<br>- Deadly Nadder has 38 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:albino_nadder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:albino_nadder}",
+            "name": "Albino Nadder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:barklethorn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:barklethorn}",
+            "name": "Barklethorn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:bork_week}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bork_week}",
+            "name": "Bork Week"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:cane}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:cane}",
+            "name": "Cane"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:deadly_nadder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:deadly_nadder}",
+            "name": "Deadly Nadder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:dippedberry}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:dippedberry}",
+            "name": "Dipped Berry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:flystorm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:flystorm}",
+            "name": "Flystorm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gamma}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gamma}",
+            "name": "Gamma"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:hjaldr}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hjaldr}",
+            "name": "Hjaldr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:hjarta}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:hjarta}",
+            "name": "Hjarta"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:kingstail}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:kingstail}",
+            "name": "Kingstail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:lethal_lancebeak}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:lethal_lancebeak}",
+            "name": "Lethal Lancebeak"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:melanistic_nadder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:melanistic_nadder}",
+            "name": "Melanistic Nadder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:pinata}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pinata}",
+            "name": "Pinata"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:rodan}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:rodan}",
+            "name": "Rodan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:runic_nadder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:runic_nadder}",
+            "name": "Runic Nadder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:scardian}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:scardian}",
+            "name": "Scardian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:seedling_stormpest}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:seedling_stormpest}",
+            "name": "Seedling Stormpest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:springshedder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:springshedder}",
+            "name": "Springshedder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:stormfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:stormfly}",
+            "name": "Stormfly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:bloody_galeslash}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bloody_galeslash}",
+            "name": "Bloody Galeslash"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:nebula}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:nebula}",
+            "name": "Nebula"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:tropical_reef}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tropical_reef}",
+            "name": "Tropical Reef"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:neo}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:neo}",
+            "name": "Neo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:glacier}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:glacier}",
+            "name": "Glacier"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:deadliest}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:deadliest}",
+            "name": "Deadliest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:charred}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:charred}",
+            "name": "Charred"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:azu}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:azu}",
+            "name": "Azu"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:sylvara}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:sylvara}",
+            "name": "Sylvara"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:lotuscurrent}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:lotuscurrent}",
+            "name": "Lotuscurrent"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:virelune}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:virelune}",
+            "name": "Virelune"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:greyish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:greyish}",
+            "name": "Greyish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:lavender}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:lavender}",
+            "name": "Lavender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:iceborn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:iceborn}",
+            "name": "Iceborn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:abomination}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:abomination}",
+            "name": "Abomination"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:peapod}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:peapod}",
+            "name": "Peapod"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:bearded_vulture}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bearded_vulture}",
+            "name": "Bearded Vulture"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:silver_macaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:silver_macaw}",
+            "name": "Silver Macaw"
+        } 
+    ]
+}

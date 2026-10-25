@@ -1,0 +1,251 @@
+{
+    "name": "Pygmy Death",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:pygmy_death}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:pygmy_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Pygmy Death"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:pygmy_death}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Marinated Feed<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- Fire resistance effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:pygmy_death}",
+            "text": "$(4)Spawn Locations$():<br>- Stony Peaks<br>- Jagged Peaks<br>- Grove<br>- Taiga<br>- Snowy Taiga<br>- Old Growth Spruce Taiga<br>- Old Growth Pine Taiga<br>- Jungle<br>- Dark Forest<br>- Woodled Badlands<br><br>$(3)Variants$():<br>- Pygmy Death has 29 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:albino_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_death}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:blood_belly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blood_belly}",
+            "name": "Blood Belly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:boogie_bomb}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:boogie_bomb}",
+            "name": "Boogie Bomb"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:compass}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:compass}",
+            "name": "Compass"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:melanistic_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_death}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:pygmy_death_mistreated}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pygmy_death_mistreated}",
+            "name": "Mistreated"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:orca_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:orca_death}",
+            "name": "Orca"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:purple_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:purple_death}",
+            "name": "Purple Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:pygmy_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pygmy_death}",
+            "name": "Pygmy Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:red_death}",
+            "name": "Red Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:stalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:stalker}",
+            "name": "Stalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:violent_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:violent_death}",
+            "name": "Violent Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:violet_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:violet_death}",
+            "name": "Violet Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:volcan}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:volcan}",
+            "name": "Volcan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:blood_belly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blood_belly}",
+            "name": "Blood Belly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:beigedeath}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:beigedeath}",
+            "name": "Beigedeath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:bloodied}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bloodied}",
+            "name": "Bloodied"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:comic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:comic}",
+            "name": "Comic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:confetti}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:confetti}",
+            "name": "Confetti"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:coppered}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:coppered}",
+            "name": "Coppered"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:iceddeath}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:iceddeath}",
+            "name": "Iceddeath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:lavapool}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lavapool}",
+            "name": "Lavapool"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:leucism}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucism}",
+            "name": "Leucism"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:lilacdeath}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lilacdeath}",
+            "name": "Lilacdeath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:prowler}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:prowler}",
+            "name": "Prowler"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:sapphire}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:sapphire}",
+            "name": "Sapphire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:tealdeath}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tealdeath}",
+            "name": "Tealdeath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:toxo}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:toxo}",
+            "name": "Toxo"
+        } 
+    ]
+}
+

@@ -1,0 +1,210 @@
+{
+    "name": "Indo Stinger",
+    "icon": "isleofberk:stinger_egg{VariantName:indoraptor}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indoraptor}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Indo Stinger"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:indoraptor}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Marinated Feed<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:indoraptor}",
+            "text": "$(4)Spawn Locations$():<br>- Abandoned Testing Facility Structure<br><br>$(3)Variants$():<br>- Indo Stinger has 23 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indoraptor}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indoraptor}",
+            "name": "Indoraptor"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:amazon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:amazon}",
+            "name": "Amazon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:champlain}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:champlain}",
+            "name": "Champlain"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:gambia}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:gambia}",
+            "name": "Gambia"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:grape}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:grape}",
+            "name": "Grape"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:great_sandy}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:great_sandy}",
+            "name": "Great Sandy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indo_stinger_albino}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indo_stinger_albino}",
+            "name": "Indo Stinger Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indo_stinger_melanistic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indo_stinger_melanistic}",
+            "name": "Indo Stinger Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indoraptor_gen2}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indoraptor_gen2}",
+            "name": "Indoraptor Gen2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:limpopo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:limpopo}",
+            "name": "Limpopo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:lux}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:lux}",
+            "name": "Lux"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:lvl_40}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:lvl_40}",
+            "name": "Lvl 40"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:mangrove}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:mangrove}",
+            "name": "Mangrove"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:qillian}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:qillian}",
+            "name": "Qillian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:salar}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:salar}",
+            "name": "Salar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:sonara}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:sonara}",
+            "name": "Sonara"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:svalbard}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:svalbard}",
+            "name": "Svalbard"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:tear_blood}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:tear_blood}",
+            "name": "Tear Blood"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:valley_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:valley_death}",
+            "name": "Valley Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:yukon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:yukon}",
+            "name": "Yukon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:redneck}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:redneck}",
+            "name": "Redneck"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:chamgo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:chamgo}",
+            "name": "Chamgo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:mortalodon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:mortalodon}",
+            "name": "Mortalodon"
+        }
+    ]
+}

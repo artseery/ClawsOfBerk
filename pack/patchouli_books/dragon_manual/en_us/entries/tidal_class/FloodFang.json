@@ -1,0 +1,90 @@
+{
+    "name": "FloodFang",
+    "icon": "isleofberk:gronckle_egg{VariantName:floodfang}",
+    "category": "patchouli:tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "FloodFang"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:floodfang}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Tropical Fish<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:floodfang}",
+            "text": "$(4)Spawn Locations$():<br>- Beach<br>- River<br><br>$(3)Variants$():<br>- FloodFang has 8 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:floodfang}",
+            "name": "Floodfang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang_orc}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:floodfang_orc}",
+            "name": "Floodfang Orc"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:kyogre}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:kyogre}",
+            "name": "Kyogre"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:lugia}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:lugia}",
+            "name": "Lugia"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang_purple}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:floodfang_purple}",
+            "name": "Floodfang Purple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang_red}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:floodfang_red}",
+            "name": "Floodfang Red"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:momoo}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:momoo}",
+            "name": "Momoo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:floodfang_green}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:floodfang_green}",
+            "name": "Floodfang Green"
+        } 
+    ]
+}

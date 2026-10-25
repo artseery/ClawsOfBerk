@@ -1,0 +1,2 @@
+# Packwiz verifies exact bytes. Keep the archive's original line endings.
+pack/** -text

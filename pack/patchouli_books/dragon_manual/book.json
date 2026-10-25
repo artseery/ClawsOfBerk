@@ -1,0 +1,7 @@
+{
+    "id": "patchouli:dragon_manual",
+    "name":"Dragon Manual",
+    "landing_text":"A guide for dragon taming and breeding within this Modpack.<br><br>$(2)Fun Fact$():<br>- There are exactly 132 different Dragon Species<br>- There are exactly 2786 documented variants in this Manual!<br><br>$(3)Important$():<br>- Please refer to the README.txt for this books licence",
+    "version": 22,
+    "use_resource_pack":true
+}

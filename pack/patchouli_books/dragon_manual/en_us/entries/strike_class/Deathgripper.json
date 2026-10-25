@@ -1,0 +1,347 @@
+{
+    "name": "Deathgripper",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:deathgripper}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathgripper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Deathgripper"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:deathgripper}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Bottle<br>- Dragon Blood Marinated Feed<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:deathgripper}",
+            "text": "$(4)Spawn Locations$():<br>- Bamboo Jungle<br>- Sparse Jungle<br>- Sawmp<br><br>$(3)Variants$():<br>- Deathgripper has 49 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:dg_albino}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_albino}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:aloidurix}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:aloidurix}",
+            "name": "Aloidurix"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:banan}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:banan}",
+            "name": "Banan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:barkgripper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:barkgripper}",
+            "name": "Barkgripper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:blood}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:blood}",
+            "name": "Blood"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathgripper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathgripper}",
+            "name": "Deathgripper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathknight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathknight}",
+            "name": "Death Knight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deserter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deserter}",
+            "name": "Deserter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:ender}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ender}",
+            "name": "Ender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:executie}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:executie}",
+            "name": "Executie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:eyeball}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:eyeball}",
+            "name": "Eyeball"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:fenrirs_eviscereaper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:fenrirs_eviscereaper}",
+            "name": "Fenrir's Eviscereaper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:flamin_hot}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:flamin_hot}",
+            "name": "Flamin' Hot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:gilded}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:gilded}",
+            "name": "Gilded"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:grim_hornettle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:grim_hornettle}",
+            "name": "Grim Hornettle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:heatlamp}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:heatlamp}",
+            "name": "Heatlamp"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:inexorable_end}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:inexorable_end}",
+            "name": "Inexorable End"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:leu}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:leu}",
+            "name": "Leu"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:maelstrom}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:maelstrom}",
+            "name": "Maelstrom"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:dg_melanistic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dg_melanistic}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:miasmic_deathgripper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:miasmic_deathgripper}",
+            "name": "Miasmic Deathgripper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:midnatt}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:midnatt}",
+            "name": "Midnatt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:monarch}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:monarch}",
+            "name": "Monarchic Murderfly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:sappheral}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sappheral}",
+            "name": "Sappheral"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:scorch}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:scorch}",
+            "name": "Scorch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:shepherds_delight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:shepherds_delight}",
+            "name": "Shepherd's Delight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:snowy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:snowy}",
+            "name": "Snowy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:sunset}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:sunset}",
+            "name": "Sunset"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:yala}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:yala}",
+            "name": "Yala"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathgripper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathgripper}",
+            "name": "Deathgripper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alps}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alps}",
+            "name": "Alps"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:chewey}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:chewey}",
+            "name": "Chewey"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:dragonproof}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:dragonproof}",
+            "name": "Dragonproof"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:ender}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:ender}",
+            "name": "Ender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:frosted}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:frosted}",
+            "name": "Frosted"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:frozen}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:frozen}",
+            "name": "Frozen"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:green}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:green}",
+            "name": "Green"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:lightblue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:lightblue}",
+            "name": "Lightblue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:melon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melon}",
+            "name": "Melon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:pink}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:pink}",
+            "name": "Pink"
+        } 
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "name": "Triple Stryke Companions",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:havardr_and_dg}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:havardr_and_dg}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Triple Stryke Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:havardr_and_dg}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Beef<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:havardr_and_dg}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Triple Stryke Companion has 3 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:havardr_and_dg}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:havardr_and_dg}",
+            "name": "Havardr & Dg"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:grizz_and_rune}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:grizz_and_rune}",
+            "name": "Grizz & Rune"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:tristan_and_moonshade}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:tristan_and_moonshade}",
+            "name": "Tristan & Moonshade"
+        } 
+    ]
+}

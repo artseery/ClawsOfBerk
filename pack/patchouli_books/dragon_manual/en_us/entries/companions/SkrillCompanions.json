@@ -1,0 +1,74 @@
+{
+    "name": "Skrill Companions",
+    "icon": "isleofberk:skrill_egg{VariantName:mako_and_skrill}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:mako_and_skrill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Skrill Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:mako_and_skrill}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:mako_and_skrill}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Skrill Companion has 5 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:mako_and_skrill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:mako_and_skrill}",
+            "name": "Mako & Skrill"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:scully_and_kakashi}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:scully_and_kakashi}",
+            "name": "Scully & Kakashi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:fire_and_abyss}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:fire_and_abyss}",
+            "name": "Fire & Abyss"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:fire_and_shattered_abyss}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:fire_and_shattered_abyss}",
+            "name": "Fire & Shattered Abyss"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:fire_and_shatter_storm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:fire_and_shatter_storm}",
+            "name": "Fire & Shattered Storm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skoll_and_hyades}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:skoll_and_hyades}",
+            "name": "Skoll & Hyades"
+        } 
+    ]
+}

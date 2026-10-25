@@ -1,0 +1,202 @@
+{
+    "name": "Indominus Stinger",
+    "icon": "isleofberk:stinger_egg{VariantName:indominus}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Indominus Stinger"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:indominus}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Marinated Feed<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:indominus}",
+            "text": "$(4)Spawn Locations$():<br>- Abandoned Testing Facility Structure<br><br>$(3)Variants$():<br>- Indominus Stinger has 22 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indominus}",
+            "name": "Indominus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:amazon_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:amazon_i_rex}",
+            "name": "Amazon I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:champlain_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:champlain_i_rex}",
+            "name": "Champlain I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:creative}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:creative}",
+            "name": "Creative"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:death_valley_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:death_valley_i_rex}",
+            "name": "Death Valley I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:gambia_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:gambia_i_rex}",
+            "name": "Gambia I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus_stinger_albino}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indominus_stinger_albino}",
+            "name": "Indominus Stinger Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus_stinger_melanistic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indominus_stinger_melanistic}",
+            "name": "Indominus Stinger Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus_wildroar}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indominus_wildroar}",
+            "name": "Indominus Wildroar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:limpopo_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:limpopo_i_rex}",
+            "name": "Limpopo I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:mangrove_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:mangrove_i_rex}",
+            "name": "Mangrove I-Rex"
+        }, 
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:minus_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:minus_rex}",
+            "name": "Minus Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:qillian_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:qillian_i_rex}",
+            "name": "Qillian I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:qillian_pelo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:qillian_pelo}",
+            "name": "Qillian Pelo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:quadraginta}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:quadraginta}",
+            "name": "Quadraginta"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:rain}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:rain}",
+            "name": "Rain"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:salar_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:salar_i_rex}",
+            "name": "Salar I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:sandy_great_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:sandy_great_i_rex}",
+            "name": "Sandy Great I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:sonara_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:sonara_i_rex}",
+            "name": "Sonara I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:svalbard_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:svalbard_i_rex}",
+            "name": "Svalbard I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:yukon_i_rex}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:yukon_i_rex}",
+            "name": "Yukon I-Rex"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indom_v2}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indom_v2}",
+            "name": "Indom_v2"
+        } 
+    ]
+}

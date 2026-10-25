@@ -1,0 +1,234 @@
+{
+    "name": "Speed Stinger",
+    "icon": "isleofberk:speed_stinger_egg{VariantName:speed_stinger}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:speed_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Speed Stinger"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:speed_stinger}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Chicken<br>- Raw Salmon<br>- Raw Rabbit<br>$(6)Taming Requirements$():<br>- Must be a baby",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:speed_stinger}",
+            "text": "$(4)Spawn Locations$():<br>- Speed Stinger Nests<br><br>$(3)Variants$():<br>- Speed Stinger has 26 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:albino_speed_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:albino_speed_stinger}",
+            "name": "Albino Speed Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:blue}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:blue}",
+            "name": "Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:charlie}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:charlie}",
+            "name": "Charlie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:delta}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:delta}",
+            "name": "Delta"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:echo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:echo}",
+            "name": "Echo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:exotic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:exotic}",
+            "name": "Exotic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:floutscout}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:floutscout}",
+            "name": "Floutscout"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:floutscout_leader}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:floutscout_leader}",
+            "name": "Floutscout Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:ghost}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:ghost}",
+            "name": "Ghost"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:hallucination}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:hallucination}",
+            "name": "Hallucination"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:ice_breaker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:ice_breaker}",
+            "name": "Ice Breaker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:ice_breaker_leader}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:ice_breaker_leader}",
+            "name": "Ice Breaker Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:lightstrike}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:lightstrike}",
+            "name": "Lightstrike"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:lightstrike_alpha}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:lightstrike_alpha}",
+            "name": "Lightstrike Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:melanistic_speed_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:melanistic_speed_stinger}",
+            "name": "Melanistic Speed Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:panthera}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:panthera}",
+            "name": "Panthera"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:red}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:red}",
+            "name": "Red"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:speed_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:speed_stinger}",
+            "name": "Speed Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:speed_stinger_leader}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:speed_stinger_leader}",
+            "name": "Speed Stinger Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:sweet_sting}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:sweet_sting}",
+            "name": "Sweet Sting"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:sweet_sting_leader}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:sweet_sting_leader}",
+            "name": "Sweet Sting Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:tiger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:tiger}",
+            "name": "Tiger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:timberprickle}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:timberprickle}",
+            "name": "Timberprickle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:timberprickle_alpha}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:timberprickle_alpha}",
+            "name": "Timberprickle Leader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:titan}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:titan}",
+            "name": "Titan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:crimson_chaser}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:crimson_chaser}",
+            "name": "Crimson Chaser"
+        } 
+    ]
+}

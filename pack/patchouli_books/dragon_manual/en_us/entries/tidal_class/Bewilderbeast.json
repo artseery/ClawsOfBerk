@@ -1,0 +1,215 @@
+{
+    "name": "Bewilderbeast",
+    "icon": "isleofberk:gronckle_egg{VariantName:bewilderbeast}",
+    "category": "patchouli:tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:bewilderbeast}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- Across the lands of HTTYD you can find these dragons in various structures",
+            "name": "Bewilderbeast"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:bewilderbeast}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Frozen Seal Meat<br>$(6)Taming Requirements$():<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:bewilderbeast}",
+            "text": "$(4)Bewilderbeast Nest$():<br>- Deep Frozen Ocean<br><br>$(4)Valka's Sanctuary$():<br>- Deep Frozen Ocean<br>- Deep Ocean",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:bewilderbeast}",
+            "text": "$(4)Berserker Island$():<br>- Deep Cold Ocean<br><br>$(4)Titan Bewilderbeast Sanctuary$():<br>- Deep Cold Ocean<br>- Deep Frozen Ocean<br>- Deep Ocean",
+            "title": "Information Page 3"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:bewilderbeast}",
+            "text": "$(4)Hunters Camp$():<br>- Forest<br>- Taiga<br>- Ice Spikes<br>- Snowy Taiga<br>- Old Growth Spruce Taiga<br><br>$(3)Variants$():<br>- Bewilderbeast has 22 variants",
+            "title": "Information Page 4"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:bewilderbeast}",
+            "name": "Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:valka_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:valka_bewilderbeast}",
+            "name": "Valka’s Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:drago_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:drago_bewilderbeast}",
+            "name": "Drago’s Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:titan_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:titan_bewilderbeast}",
+            "name": "Titan Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:blue_evolved_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:blue_evolved_bewilderbeast}",
+            "name": "Blue Evolved Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:pink_evolved_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:pink_evolved_bewilderbeast}",
+            "name": "Pink Evolved Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:midnight_shriek}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:midnight_shriek}",
+            "name": "Midnight Shriek"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:deepsea_king}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:deepsea_king}",
+            "name": "Deepsea King"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:pink_boio}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:pink_boio}",
+            "name": "Pink Boio"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:elephant_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:elephant_bewilderbeast}",
+            "name": "Elephant Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:blackice_steps}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:blackice_steps}",
+            "name": "Blackice Steps"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:dusted_ender}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:dusted_ender}",
+            "name": "Dusted Ender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:woolly_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:woolly_bewilderbeast}",
+            "name": "Woolly Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:ebony_woolly_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:ebony_woolly_bewilderbeast}",
+            "name": "Ebony Woolly Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:elderfrost}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:elderfrost}",
+            "name": "Elderfrost"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:berserkerbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:berserkerbeast}",
+            "name": "Berserkerbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:melenastic_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:melenastic_bewilderbeast}",
+            "name": "Melenastic Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:albino_bewilderbeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_bewilderbeast}",
+            "name": "Albino Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:aurorabeast}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:aurorabeast}",
+            "name": "Aurora Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:green_boi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:green_boi}",
+            "name": "Green Boi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:orange_boi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:orange_boi}",
+            "name": "Orange Boi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:red_boi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:red_boi}",
+            "name": "Red Boi"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Mushroom Razorwhip",
+    "icon": "isleofberk:nadder_egg{VariantName:mushwhip}",
+    "category": "patchouli:mushrooms",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mushwhip}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Mushroom Razorwhip"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:mushwhip}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Chicken<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:mushwhip}",
+            "text": "$(4)Spawn Locations$():<br>- Mushroom Island<br><br>$(3)Variants$():<br>- Mushroom Razorwhip has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mushwhip}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mushwhip}",
+            "name": "Mushwhip"
+        } 
+    ]
+}

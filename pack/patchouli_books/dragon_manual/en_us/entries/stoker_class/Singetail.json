@@ -1,0 +1,259 @@
+{
+    "name": "Singetail",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:singetail}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:singetail}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Singetail"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:singetail}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Icetail Pike<br>$(6)Taming Requirements$():<br>- Fire resistance effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:singetail}",
+            "text": "$(4)Spawn Locations$():<br>- Desert<br>- Eroded Badlands<br>- Savanna<br><br>$(3)Variants$():<br>- Singetail has 30 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:albino_singetail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albino_singetail}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:aske}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:aske}",
+            "name": "Aske"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:dragonfruit}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:dragonfruit}",
+            "name": "Dragonfruit"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:finis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:finis}",
+            "name": "Finis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:green}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:green}",
+            "name": "Green"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:infernier}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:infernier}",
+            "name": "Infernier"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:juniper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:juniper}",
+            "name": "Juniper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:melanistic_singetail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanistic_singetail}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:novatail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:novatail}",
+            "name": "Novatail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:purple}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:purple}",
+            "name": "Purple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:red}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:red}",
+            "name": "Red"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:singetail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:singetail}",
+            "name": "Singetail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:spotless}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:spotless}",
+            "name": "Spotless"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:terrestris}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:terrestris}",
+            "name": "Terrestris"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:yellow}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:yellow}",
+            "name": "Yellow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:blue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:blue}",
+            "name": "Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:brownies}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:brownies}",
+            "name": "Brownies"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:clematis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:clematis}",
+            "name": "Clematis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:crushedlapis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:crushedlapis}",
+            "name": "Crushed Lapis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:fang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:fang}",
+            "name": "Fang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:firedup}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:firedup}",
+            "name": "Firedup"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:hibiscus}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hibiscus}",
+            "name": "Hibiscus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:lapisquartz}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:lapisquartz}",
+            "name": "Lapis Quartz"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:mario}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:mario}",
+            "name": "Mario"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:petalis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:petalis}",
+            "name": "Petalis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:redsand}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:redsand}",
+            "name": "Red Sand"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:tealthistle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tealthistle}",
+            "name": "Tealthistle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:trip}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:trip}",
+            "name": "Trip"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:mintie}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:mintie}",
+            "name": "Mintie"
+        } 
+    ]
+}
+

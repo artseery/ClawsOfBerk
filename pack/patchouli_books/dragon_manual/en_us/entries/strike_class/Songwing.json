@@ -1,0 +1,226 @@
+{
+    "name": "Songwing",
+    "icon": "isleofberk:night_fury_egg{VariantName:songwing}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:songwing}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Songwing"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:songwing}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:songwing}",
+            "text": "$(4)Spawn Locations$():<br>- Badlands<br>- Eroded Badlands<br>- Savanna<br><br>$(3)Variants$():<br>- Songwing has 26 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:albino_songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_songwing}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:autumnsong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:autumnsong}",
+            "name": "Autumnsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blueflame_songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:blueflame_songwing}",
+            "name": "Blueflame"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:cheesesong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:cheesesong}",
+            "name": "Cheesesong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:copperwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:copperwing}",
+            "name": "Copperwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:dragonfruitwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:dragonfruitwing}",
+            "name": "Dragonfruitwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:endereye}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:endereye}",
+            "name": "Endereye"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:flourishsong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:flourishsong}",
+            "name": "Flourishsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:leucistic_songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:leucistic_songwing}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:lullabywing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:lullabywing}",
+            "name": "Lullabywing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melanistic_songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_songwing}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:midsummersong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:midsummersong}",
+            "name": "Midsummersong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:mothra}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:mothra}",
+            "name": "Mothra"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:northsong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:northsong}",
+            "name": "Northsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:prism_songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:prism_songwing}",
+            "name": "Prism"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:scarletsong}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:scarletsong}",
+            "name": "Scarletsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:solarflare}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:solarflare}",
+            "name": "Solarflare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:songdeath}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:songdeath}",
+            "name": "Songdeath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:songwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:songwing}",
+            "name": "Songwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:vaporwave}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:vaporwave}",
+            "name": "Vaporwave"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:voidwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:voidwing}",
+            "name": "Voidwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:wastewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:wastewing}",
+            "name": "Wastewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:watermelonwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:watermelonwing}",
+            "name": "Watermelonwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:aurorae}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:aurorae}",
+            "name": "Aurorae"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:lunarwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:lunarwing}",
+            "name": "Lunarwing"
+        } 
+    ]
+}

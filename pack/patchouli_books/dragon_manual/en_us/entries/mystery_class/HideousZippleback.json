@@ -1,0 +1,274 @@
+{
+    "name": "Hideous Zippleback",
+    "icon": "isleofberk:zippleback_egg{VariantName:pistill}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:pistill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Hideous Zippleback"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:pistill}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Salmon<br>- Raw Cod<br>$(6)Taming Requirements$():<br>- Strength potion effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:pistill}",
+            "text": "$(4)Spawn Locations$():<br>- Flower Forest<br>- Old Growth Birch Forest<br>- Forest<br><br>$(3)Variants$():<br>- Hideous Zippleback has 31 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:albino_zipple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:albino_zipple}",
+            "name": "Albino Zipple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:barf_n_belch}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:barf_n_belch}",
+            "name": "Barf & Belch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:brachi}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:brachi}",
+            "name": "Brachi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:exiled}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:exiled}",
+            "name": "Exiled"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:fart_n_smella}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_smella}",
+            "name": "Fart & Smella"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:fart_n_sniff}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:fart_n_sniff}",
+            "name": "Fart & Sniff"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:gilded_zippleback}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:gilded_zippleback}",
+            "name": "Gilded Zippleback"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:glitter_n_light}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:glitter_n_light}",
+            "name": "Glitter & Light"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:hamfeist}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:hamfeist}",
+            "name": "Hamfeist"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:hjarta}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:hjarta}",
+            "name": "Hjarta"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:hodd}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:hodd}",
+            "name": "Hodd"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:kandy_n_kane}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:kandy_n_kane}",
+            "name": "Kandy & Kane"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:leaf_n_bark}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:leaf_n_bark}",
+            "name": "Leaf & Bark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:melanistic_zipple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:melanistic_zipple}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:pistill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:pistill}",
+            "name": "Pistill"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:poison_n_dart}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:poison_n_dart}",
+            "name": "Poison & Dart"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:purple_n_nurple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:purple_n_nurple}",
+            "name": "Purple & Nurple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:sandr}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:sandr}",
+            "name": "Sandr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:sparkles_n_sparks}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:sparkles_n_sparks}",
+            "name": "Sparkles & Sparks"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:water_n_melon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:water_n_melon}",
+            "name": "Water & Melon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:whip_n_lash}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:whip_n_lash}",
+            "name": "Whip & Lash"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:bloodstone}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:bloodstone}",
+            "name": "Bloodstone"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:blueblood}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:blueblood}",
+            "name": "Blueblood"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:frosted}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:frosted}",
+            "name": "Frosted"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:melon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:melon}",
+            "name": "Melon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:minted}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:minted}",
+            "name": "Minted"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:pinky}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:pinky}",
+            "name": "Pinky"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:purplated}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:purplated}",
+            "name": "Purplated"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:sakura}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:sakura}",
+            "name": "Sakura"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:seaweed}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:seaweed}",
+            "name": "Seaweed"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:wisteria}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:wisteria}",
+            "name": "Wisteria"
+        } 
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "name": "Woolly Howl",
+    "icon": "isleofberk:night_fury_egg{VariantName:woolly_howl}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:woolly_howl}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Woolly Howl"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:woolly_howl}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Mutton<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:woolly_howl}",
+            "text": "$(4)Spawn Locations$():<br>- Grove<br>- Snowy Plains<br>- Snowy Taiga<br><br>$(3)Variants$():<br>- Woolly Howl has 20 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:woolly_howl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:woolly_howl}",
+            "name": "Woolly Howl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:celestial}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:celestial}",
+            "name": "Celestial"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:albino_howl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_howl}",
+            "name": "Albino Woolly Howl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blueberry}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:blueberry}",
+            "name": "Blueberry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:frostfire}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:frostfire}",
+            "name": "Frostfire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:fuzzbucket}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:fuzzbucket}",
+            "name": "Fuzzbucket"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:grape}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:grape}",
+            "name": "Grape"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melanistic_howl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_howl}",
+            "name": "Melanistic Woolly Howl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:mystic_wing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:mystic_wing}",
+            "name": "Mystic Wing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:polaris}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:polaris}",
+            "name": "Polaris"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:woodwind}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:woodwind}",
+            "name": "Woodwind"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:wulf}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:wulf}",
+            "name": "Wulf"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:maple_moth}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:maple_moth}",
+            "name": "Rosy Maple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:appa}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:appa}",
+            "name": "Appa"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:elk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:elk}",
+            "name": "Elk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:sakura_elk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:sakura_elk}",
+            "name": "Sakura Elk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:frostbite_elk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:frostbite_elk}",
+            "name": "Frostbite Elk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melanistic_elk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_elk}",
+            "name": "Melanistic Elk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:nightmare_oc}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:nightmare_oc}",
+            "name": "Nightmare oc"
+        } 
+    ]
+}

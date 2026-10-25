@@ -1,0 +1,34 @@
+{
+    "name": "Hotburple",
+    "icon": "isleofberk:gronckle_egg{VariantName:grump}",
+    "category": "patchouli:boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:grump}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Hotburple"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:grump}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Cobblestone<br>- Raw Iron<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:grump}",
+            "text": "$(4)Spawn Locations$():<br>- Forest<br>- Flower Forest<br>- Sunflower Plains<br><br>$(3)Variants$():<br>- Hotburple has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:grump}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:grump}",
+            "name": "Grump"
+        } 
+    ]
+}

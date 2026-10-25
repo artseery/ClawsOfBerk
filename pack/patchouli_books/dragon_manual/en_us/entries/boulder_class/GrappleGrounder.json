@@ -1,0 +1,138 @@
+{
+    "name": "Grapple Grounder",
+    "icon": "isleofberk:skrill_egg{VariantName:grapple_grounder}",
+    "category": "patchouli:boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:grapple_grounder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Grapple Grounder"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:grapple_grounder}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Pork<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:grapple_grounder}",
+            "text": "$(4)Spawn Locations$():<br>- Forest<br>- Flower Forest<br>- Wooded Badlands<br><br>$(3)Variants$():<br>- Grapple Grounder has 14 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:grapple_grounder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:grapple_grounder}",
+            "name": "Grapple Grounder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:exotic_grapple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:exotic_grapple}",
+            "name": "Exotic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_grapple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino_grapple}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_grapple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_grapple}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:fierce_piercer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:fierce_piercer}",
+            "name": "Fierce Piercer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:floeshot}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:floeshot}",
+            "name": "Floeshot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:lurchador}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:lurchador}",
+            "name": "Lurchador"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:measuringworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:measuringworm}",
+            "name": "Measuringworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:voltvyrm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:voltvyrm}",
+            "name": "Voltvyrm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:petros}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:petros}",
+            "name": "Petros"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_grapple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_grapple}",
+            "name": "Titan"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:foul_howler}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:foul_howler}",
+            "name": "Foul Howler"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:swampscrapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:swampscrapper}",
+            "name": "Swampscrapper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:sour_grapple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:sour_grapple}",
+            "name": "Sour Grapple"
+        } 
+    ]
+}

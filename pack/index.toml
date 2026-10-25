@@ -1,0 +1,2311 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/CoroUtil/General.toml"
+hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
+
+[[files]]
+file = "config/Inferno.toml"
+hash = "b2e2b64c27bc3cab2d44de3440a661458bd0aace8305d3f4e5f9f66a8133d0ac"
+
+[[files]]
+file = "config/YungsBridges-forge-1_18.toml"
+hash = "afc678e7a1eaf70b3b2c361ad9a8089309c1e0b341999f9e67678e4c984b596d"
+
+[[files]]
+file = "config/YungsExtras/README.txt"
+hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
+
+[[files]]
+file = "config/YungsExtras/forge-1_18/README.txt"
+hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
+
+[[files]]
+file = "config/YungsExtras/forge-1_18/wishing_wells.json"
+hash = "7873ba7c1614546859aea24d5821961356531326e28127783665e569f91fffcf"
+
+[[files]]
+file = "config/YungsExtras-forge-1_18.toml"
+hash = "13517ca16a972f9958448ec9e8a1a98fbd0f65310e10263858a45832a85a7808"
+
+[[files]]
+file = "config/advancementplaques-common.toml"
+hash = "13b0dff400334cfa667eaf8fa3222e860ff6ea51e30da6e233fb52df6e8f4020"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
+
+[[files]]
+file = "config/archipelagoadditions-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/archipelagoadditions-common.toml"
+hash = "55e72d51a22abad0bbcb16ef60eb65560a068a83048dfbf634e3d0448d27ac46"
+
+[[files]]
+file = "config/artifacts-client.toml"
+hash = "8a28fe0918bba4f5ab89ff5323317e91bac415c2782cc39ea966f4a763272535"
+
+[[files]]
+file = "config/artifacts-common.toml"
+hash = "64cb3a2ee7c1497c992ed85d07456ec0d6bdaa1cb9fc9576fa9867e641e22295"
+
+[[files]]
+file = "config/bettercombat/client.json5"
+hash = "775fa0ed0b90d50b90a85f0594769d3da9f7450b390b28b62a1787d4ab848c67"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "8e27eebabd54f29d7dfa5a3fb961ab9dffda4325c4280f420408aa0604deeac7"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "88e873eaa6c1b82beea2e4deb736c30088c4bf1241f138405515d2a6c609f358"
+
+[[files]]
+file = "config/betterdungeons-forge-1_18.toml"
+hash = "3f8dd2fb71dd75ead3e5d4361ecb5015c296e058a5d09c52cb7a77bd73d37384"
+
+[[files]]
+file = "config/bettermineshafts/README.txt"
+hash = "05d0ea6f43b09d5deffe914611f32551a103248e1152bfe7660ca94c671a5a6d"
+
+[[files]]
+file = "config/bettermineshafts/forge-1_18_2/README.txt"
+hash = "9a19891b5669b7601c2602e3fd2949ba894a656409aee973a719c22f2039e167"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_18.toml"
+hash = "bff9cd062e1efe5bf0434ed36675b5cef07cbb1f255980f8ee595617ba8ea125"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18_2/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18_2/armorstands.json"
+hash = "aca42c9f056caf5078ad202b79f2e4073046d02681f8a1fb3e4f273bcfbd8a0c"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18_2/itemframes.json"
+hash = "37ed4e18bd8daee5668ba6e6bcb2fb5df45f03c1eb2c2a9255d0491df621e1c1"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18_2/ores.json"
+hash = "d29d31832b284b43138691875f8a853934d7944b57e70ea81a2349c3278c7c97"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_18_2/rareblocks.json"
+hash = "5ec52e961abc38fc0624386c89f0f159aa99d9bce529adc1a9b26c3c7d0ec02c"
+
+[[files]]
+file = "config/betterstrongholds-forge-1_18.toml"
+hash = "0283130d2fd0840325cd604ece09e2b722e8b7bc2f2b8da8d22372c11908e143"
+
+[[files]]
+file = "config/bettervillage_1.properties"
+hash = "7ff78ef856c84b32d84467c3d4e1df79df0904ac360473da79b10a635c12fd2a"
+
+[[files]]
+file = "config/bhmenu-client.toml"
+hash = "c3e1fac3eb644d4c6e3955715421431399e51284333f4576a270ac63c8e5ca04"
+
+[[files]]
+file = "config/canary.properties"
+hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "737c6f33b53eceb7ca503ac8f8fd96c0d186d820568b92919cb0040ea82006eb"
+
+[[files]]
+file = "config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/connectiblechains-client.toml"
+hash = "dea0f257b5c1f9cca5b6cba1f7e630884bd6a06fbe5722566dce064cce739234"
+
+[[files]]
+file = "config/connectiblechains-common.toml"
+hash = "c09476250e1befca103c336c8f21fb3f6fb88a23e24517a21189aa6ac4fece0e"
+
+[[files]]
+file = "config/corpsecurioscompat-common.toml"
+hash = "8f1ac9f26c48f68802853018ae1e71a19e4b3cb6430da0fffd67bd5923b2a7d3"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "23e0f46cf6a7144bfa4ffda4b9301a009217422c540890eaba8fdf1ace4c850b"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
+hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "f47f7542d1f92fd1a1ee062e436dd4fd83bae3effac9786f4f0e2773185116e4"
+
+[[files]]
+file = "config/crash_assistant/scripts/log_analysis/example.jexl"
+hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl"
+hash = "71ffa9f2c841af90829789ff7f0df29c926a03f23a1e63fcb7ec811b1658ef5f"
+
+[[files]]
+file = "config/crash_assistant/scripts/startup/example.jexl"
+hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.toml"
+hash = "8d63b88d381083d8f1b31ed1586ffb713b52da4370be51f8f1096971f9f3b2d6"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "9008f98d50173493ff7a7058a4d4cd9b0d7f9d984245b715cd273ce4afc763b1"
+
+[[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "149f6a17dca7fee24a5667e175a2cf130dc2b142e2f1654882c6465fe475e881"
+
+[[files]]
+file = "config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json"
+hash = "12ad39a570ec3b63938096b42f0a4f7a75af6311205e2af53ea2294930df5290"
+
+[[files]]
+file = "config/easy_npc/preset/cat/cat.npc.nbt"
+hash = "68587efab24f5a1304c113951aee9a5733942b471e723fe2b6b8f623aac320c5"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/Drago.npc.nbt"
+hash = "3d3d96de4d8741bb8f317dc385700f6c82428a430259fca62b117f673be0e59a"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/Drago2.npc.nbt"
+hash = "adc6a35af02ee365c5eeea19627eb6f33e0ad7aff28c9e91c659fe08a87c83c7"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/aa15108d-2ec7-4e6f-bd76-777a2d67fcf1.npc.nbt"
+hash = "9f5d5fc94cab563c5b30a5c941f2082ff65a248af21c08c1c06e7fd6fbf9ada9"
+
+[[files]]
+file = "config/easy_npc/preset/humanoid/valka.npc.nbt"
+hash = "c459f86da95bb64efda9031a7ffd6efb56c7fe891b8d7df338ea08f53a14246e"
+
+[[files]]
+file = "config/easy_npc/render_entity_type_support.cfg"
+hash = "dce08cc71dcf29595a1bacdb752d1a4f624cff2361439a07ab8938d977c3af3d"
+
+[[files]]
+file = "config/easy_npc/skin/allay/allay_template.png"
+hash = "5851df322e03f8c7d4ccd5875a7b8f38b692d6484cd9a8a34ca3ba2e51bcde1a"
+
+[[files]]
+file = "config/easy_npc/skin/cat/bear.png"
+hash = "4b2a4eb5716551541ad8736561e13f690867a6dfe17493b9dbb0f0b87cae1f25"
+
+[[files]]
+file = "config/easy_npc/skin/cat/bear_sweater.png"
+hash = "8f7e21c8842ce6ec299aa50bf9145e21be07479eaad0314ebfab9f13b5a60023"
+
+[[files]]
+file = "config/easy_npc/skin/cat/cat_template.png"
+hash = "c9c22851b6ce2a97d731b4e476423abcfc4911acd9e29ae157b8be5b42088364"
+
+[[files]]
+file = "config/easy_npc/skin/cat/dusty.png"
+hash = "722c4e5d7b331c79579587767f9d0006b074cde3eb01dcb978e10cf39c35ddd1"
+
+[[files]]
+file = "config/easy_npc/skin/cat/dusty_sweater.png"
+hash = "2156a5878516029f8a46514b9ed986a788a76e1ef6e0875d1d568d8a25fcde6c"
+
+[[files]]
+file = "config/easy_npc/skin/cat/lilbit.png"
+hash = "2b93cf53ac5ad87902afddadfc1bc53864bf264c4961548d6521624c127fd67c"
+
+[[files]]
+file = "config/easy_npc/skin/cat/lilbit_sweater.png"
+hash = "e462f62f04534b9f3d271cca9c45e4dc54778c525fc997307f875f80c6a70508"
+
+[[files]]
+file = "config/easy_npc/skin/cat/poppet.png"
+hash = "d9ef9ac516aa01f140df61a199339dd19edef7a16c07279fa7c07556278ec790"
+
+[[files]]
+file = "config/easy_npc/skin/cat/poppet_sweater.png"
+hash = "9133705eed3a0cf09670503afc687f420b47084e172c33758e676a957ae527e1"
+
+[[files]]
+file = "config/easy_npc/skin/cat/saber.png"
+hash = "b597feb672f56233df6913a1d63737d07f7afd0ed5e25e908b9ec958ff98bb56"
+
+[[files]]
+file = "config/easy_npc/skin/cat/saber_sweater.png"
+hash = "bc1c79f5a4babf96ce5ab50284c8f9c6e171e40e54b65d317cc4532e920e566e"
+
+[[files]]
+file = "config/easy_npc/skin/cat/tiger.png"
+hash = "6c22d4078faa8f4784c033f311c019dd1047aea9c75a81d58abda6aa98fad699"
+
+[[files]]
+file = "config/easy_npc/skin/cat/tiger_sweater.png"
+hash = "4754195096eca0062ee2546e39c9662ab3a5c99b3968519aa3a8b1c92fb87b0e"
+
+[[files]]
+file = "config/easy_npc/skin/chicken/chicken_template.png"
+hash = "c9a5d1a53f844f32e2d530103540b4a91cfe8d53861c7b70bcae950742c50422"
+
+[[files]]
+file = "config/easy_npc/skin/fairy/fairy_template.png"
+hash = "db071fe581827f3a195df8344909bafb243cbf54c8931dc60a7785285946d1bb"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Astrid-on-planetminecraft-com.png"
+hash = "8d2aa5b13a95d629ce6bd4d5db17f924bf50999c4c80c72b7fbccbe533f5e301"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Cloudfall 1 villager.png"
+hash = "815ed11f6998f67c1cf10a98d3b545bb50b5e06cc6496b012f6d474a385c5e56"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Cloudfall 2 villager.png"
+hash = "5956768a4fc5df2e2c1d40e059002ea07bfdc8fb5d7d85ec778bf36e0d605171"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Cloudfall villager5.png"
+hash = "e2deee95b731646ebfca0127ccd5c0a2547e016c8b5ec8b6698a7b7911d7f284"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Frostborne villager.png"
+hash = "53999390686b81aaba9f4e581e63afdfd341e48c0ba8cce4d3993f9c3cdfa8e3"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Frostborne villager2.png"
+hash = "604594d19887f535d6fac5ea4075a04d58e8b99af8aef1ee327d0ffd566ab510"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Frostborne villager5.png"
+hash = "92070cd8285d69a37bb44866c9da5de739626215f9bb77ead9b7ea7d7c59f85f"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Frostborne_leader.png"
+hash = "3e750b7129c66fc124dcf5c81a11352224ea21263e3bbb0a3399f1b4b1b4d596"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Hiccup-Httyd2-on-planetminecraft-com.png"
+hash = "54e187c7bb552b303be738943e0863eef2da389f28a9e07874330a26c1b38dc6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Stoick-the-Vast-From-HTTYD-Without-helmet-on-planetminecraft-com.png"
+hash = "8a4e8f3a99860c32979ae5f3de18dd93ec64229466388e4b9b58fb6a5c453667"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Violetborne 1 villager.png"
+hash = "d26cfc297f98794082ae0e2081cf0342eb250b7fecda68e317f51dcad58df1e6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/Violetborne 2 villager.png"
+hash = "85c9c1d8d1a2163eb41cde3b472faf7e26083f0a1e657411a285507e6fda25b6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/alex-slim-arms-planetminecraft-com-14073197.png"
+hash = "7445ae7e7c849a17ea0efeacfb4d5e06c076cd1c3c3b992b367f9ad2d23aa888"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/cloudfall_leader.png"
+hash = "59ae16fd1c38f85533b079b0155dc26f839437189d6933008530e2145c017977"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/dagur-de-drages-corrida-a-t-o-limite.png"
+hash = "99ede7e121b30fe29d6bae94f0201b790e238b3af45c426a8661535e847efbd1"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/drago skin.png"
+hash = "51e0ce3300df38da6d6a66cad1349e2ffedd835dfea9b57b796f7d523e4ef243"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/dragon_hunter_random.png"
+hash = "2b94220cf4a6e37d93f333ce8e6a991042daf53347555b5f1de3cf7c6148e0e0"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/fishlegs.png"
+hash = "a503a2acf13941c53eab725aa036e4f5ff013ce16b3b561e1d53d5edaf4e5ad6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/heather-httyd.png"
+hash = "b9f5e593f357fb39492e083c0fa4803bdcd9a454ed6f20acaaf2b8165fc1c1a6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/humanoid_template.png"
+hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/Cloudfall 1 villager.png"
+hash = "815ed11f6998f67c1cf10a98d3b545bb50b5e06cc6496b012f6d474a385c5e56"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/Cloudfall 2 villager.png"
+hash = "5956768a4fc5df2e2c1d40e059002ea07bfdc8fb5d7d85ec778bf36e0d605171"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/Cloudfall villager5.png"
+hash = "e2deee95b731646ebfca0127ccd5c0a2547e016c8b5ec8b6698a7b7911d7f284"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/Wise One.png"
+hash = "b70feb5559f5bab22810caf6d7b37f5ad4acb96ce8239b806ea5d9eaecbdf233"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/cloudfall_leader.png"
+hash = "59ae16fd1c38f85533b079b0155dc26f839437189d6933008530e2145c017977"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/heather-httyd.png"
+hash = "b9f5e593f357fb39492e083c0fa4803bdcd9a454ed6f20acaaf2b8165fc1c1a6"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+hash = "1c194da6ebe3a991146b0ef04a6000451789887a62bf7ee2d8a49b50b4bec6dd"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/tova.png"
+hash = "fb67db30214fa1ea0ca4321440cd4f3f6c313d6f022f19963fff7f9b6d164118"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid_slim/valka skin.png"
+hash = "7445ae7e7c849a17ea0efeacfb4d5e06c076cd1c3c3b992b367f9ad2d23aa888"
+
+[[files]]
+file = "config/easy_npc/skin/illager/illager_template.png"
+hash = "d3a9f1a01c6b711bb3ca70f598f14f3cfde8017542a8a48f93f8489b514dc03c"
+
+[[files]]
+file = "config/easy_npc/skin/iron_golem/iron_golem_template.png"
+hash = "2fadcece746b8a921130968a567296e63d4dbdfd1282e21d71fbd278994a4fe6"
+
+[[files]]
+file = "config/easy_npc/skin/orc/orc_template.png"
+hash = "1469eab5ffabb32f3b8ed9965de819db03ee6b0bd950885ad88fc5c517eaf817"
+
+[[files]]
+file = "config/easy_npc/skin/pig/pig_template.png"
+hash = "e1d27259fbaab2ae6924d5fc73ed462215395f08f79ef1518005ee0f73f2a81a"
+
+[[files]]
+file = "config/easy_npc/skin/piglin/piglin_template.png"
+hash = "9d2dfd8515332c4ac529e51599ee89b8a4c359617a225d15a5147020034870a5"
+
+[[files]]
+file = "config/easy_npc/skin/skeleton/skeleton_template.png"
+hash = "aa91f44a9c36bea6c14537e4f73ab69a4b50d4406370577a7a0d63af4783a8c6"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_template.png"
+hash = "ee42acf22b0f8df770510a77e1c0988af96bb4f24e3b82a32b3364be021c760c"
+
+[[files]]
+file = "config/easy_npc/skin/villager/villager_without_hat_template.png"
+hash = "d24d599378f1fb54f343926c2d39c078c81021cab7da6337f7a688621327cac5"
+
+[[files]]
+file = "config/easy_npc/skin/wolf/wolf_template.png"
+hash = "47833f4690766423c63905c6950224b77867e1c30833fd9a7cdcc0d6455d743a"
+
+[[files]]
+file = "config/easy_npc/skin/zombie/zombie_template.png"
+hash = "e9a38d8b1980d1390575658004f1a8274d57e5f14afaff9a2c7dc06315d01f54"
+
+[[files]]
+file = "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+hash = "fdeea612041dc4c5137675bfb656ff570cad4b33fffa995746f1e56290614516"
+
+[[files]]
+file = "config/easy_npc/spawner_type.cfg"
+hash = "054e1b7988b7cf775926bc36bf356b318ee881f8f848a051d5e8cff62b42745c"
+
+[[files]]
+file = "config/eatinganimation-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "113df4084a0fefa2638b77c3d4374a69f802f3e4a9a2259529fcbd7e16af81b6"
+
+[[files]]
+file = "config/entity_model_features.json"
+hash = "0103610444b018e2af9c622a4750df5dcc8fc020ff5b80b497345c689325023a"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "697d27b3e0bd2dd6f2cdf8c286dad9a4970f9a4c6c5e993ee48e619b7cab6ffb"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/fairylights-client.toml"
+hash = "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e"
+
+[[files]]
+file = "config/fairylights-common.toml"
+hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
+
+[[files]]
+file = "config/fallingleaves-client.toml"
+hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
+
+[[files]]
+file = "config/fancymenu/assets/1x/bg.png"
+hash = "d9567ab8e2ab41f7d4778a7a203055cdadd1c14ddca8e58f6713f74e3ca5b3ac"
+
+[[files]]
+file = "config/fancymenu/assets/1x/m.png"
+hash = "1cfa0e847e880a33c5f3e3e7360a733aae0f7a1bc2849806d8daab481058d4ed"
+
+[[files]]
+file = "config/fancymenu/assets/1x/mh.png"
+hash = "a235364411dabbf3459053fd3a7908cafa50c912d879093943ee71d8384d40b0"
+
+[[files]]
+file = "config/fancymenu/assets/1x/mod.png"
+hash = "994362efdb89d7179e7d454aa162c8774dbb4c1316367ba3b12bdce46a204516"
+
+[[files]]
+file = "config/fancymenu/assets/1x/modh.png"
+hash = "98da55a799dc70221f9901fabd8c6647409062e5ea1f973cb9cb096716813dfe"
+
+[[files]]
+file = "config/fancymenu/assets/1x/o.png"
+hash = "92a70fda48fedaedc6fd2c71d9b31fd7336eca827408ed7a873a8574451bd55d"
+
+[[files]]
+file = "config/fancymenu/assets/1x/oh.png"
+hash = "e42d7fb58b399600d7297d0822d0b3899ef5830158b5c0658e6d125313267089"
+
+[[files]]
+file = "config/fancymenu/assets/1x/qg.png"
+hash = "30cabbd89ac47c2ccbeacb8abd0a59e1d4d73985d8ef3ebbd824644aec8bc676"
+
+[[files]]
+file = "config/fancymenu/assets/1x/qgh.png"
+hash = "d244f12179fb5bf00122ac353a83c64cda6fb79585b185e6cf5b66b511197286"
+
+[[files]]
+file = "config/fancymenu/assets/1x/rs.png"
+hash = "2fcfb6da3b00ef1fae26bf0406b442e76550429641b234b267479abf6fca78c8"
+
+[[files]]
+file = "config/fancymenu/assets/1x/rsh.png"
+hash = "9b126abf9d2b5bcd0a13b0a8fe47f25ca917876952868db6479355f050f34091"
+
+[[files]]
+file = "config/fancymenu/assets/1x/s.png"
+hash = "074794d27adc09dd63705a626241752ead0d48a56b91925ed6033fd9919f8652"
+
+[[files]]
+file = "config/fancymenu/assets/1x/sh.png"
+hash = "12ccc8dc25e12f29493df21f564e8b3ee9bf2a2adc46158a10f5e3c3704734ed"
+
+[[files]]
+file = "config/fancymenu/assets/curseforge.png"
+hash = "c4b49625da1b08db283fc189507c683cc9ecf2ab0427394a43b52454caeb560d"
+
+[[files]]
+file = "config/fancymenu/assets/discord.png"
+hash = "a8e9326b90e2c40102300bf3938e6fcaa2971cef67a661858064d0e157133897"
+
+[[files]]
+file = "config/fancymenu/assets/kofi.png"
+hash = "ac9a080a5c700008d89e7dbbec8758a4f3a770efc4808d25295e58ca3a5cda78"
+
+[[files]]
+file = "config/fancymenu/assets/modrinth.png"
+hash = "5a3c13b181e4c5317842b6f3bb9864055bd5e16fe4646164379bad832a498249"
+
+[[files]]
+file = "config/fancymenu/assets/youtube.png"
+hash = "b102788bec29b984b3f08a605b42836e9a8804c7b250c3a4d9037a606cc159df"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "bded8039f2256219c333e49ad523a2423ed5dd3d94988ff112551016a275bad9"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "e59eb904bd21d313539675b7acaa63bd5e82e28faaddd83f59d4b5f09bc3cb21"
+
+[[files]]
+file = "config/fancymenu/customization/fm_claws_of_berk.txt"
+hash = "7763013bb1511fb29fa08e2c36e4817c5fd138bc87d213d178bc7fc3776c5145"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "3a0cd8e2ca66e6fe06d89d57fc71fd75f4b5650e9844aed7b3e2633fd2fa9b18"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "606608c618d771147d089d0f18fc6a3c52a0c646de0a1d339bf7c07de6541eba"
+
+[[files]]
+file = "config/farsight-common.toml"
+hash = "ae7533e9a074ffea96991df37d1c52f3e70262ad5e15f10d1ddf2c897d13466e"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "2fe06fdc2b6e2bbf93e5ed045d6f029d7365967e1d63ceda8ac77a7c64bd02f5"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "e85f39867513fe26179ba3cf7a00d343e9642ceaa96e7ea3cde6a1c3aa69dd4e"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "890500f812a05a26b22fcaebb8bb19116371f60ec479ee5156550d8cdd95ae64"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "dcb84ac5f254daa320c10e120407806c28b277d8a7eef86b7fa903cc3020c4b9"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "f988b7fb237bba0f93e950532f93d7e55f93f07f502516f57852c0c5400b746b"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
+
+[[files]]
+file = "config/friendlyfire.json"
+hash = "4cd92b247c2adf950b0b79507d295ff0d8e00082bb65dd1e0bb428363428ce64"
+
+[[files]]
+file = "config/guardvillagers-client.toml"
+hash = "b4babda91c3d6c00fb78eadaec92fccf24bc576e13b4666519e7ebeb7cc18f34"
+
+[[files]]
+file = "config/guardvillagers-common.toml"
+hash = "474ac95afc90ce6ec87d10c21043a4316c6d5354835c5309441592aecbe1daec"
+
+[[files]]
+file = "config/inventoryprofilesnext/Island of Berk from HTTYD 1/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "835db83d8c99ef5642b83bc49ed4f3cd2108f7f93fe447ab6bf5161f20971227"
+
+[[files]]
+file = "config/inventoryprofilesnext/localhost/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/iob_variant_loader-client.toml"
+hash = "854188ab782dd44e393bf61f8798047697227ddf611547782daa5d3d2b27d8a2"
+
+[[files]]
+file = "config/iob_variant_loader.toml"
+hash = "268531da35efea97095ef94bfe3d867fa1973ff8ff9322215fdb835e817aea93"
+
+[[files]]
+file = "config/iobaddons-common.toml"
+hash = "64bb95be879eea64aac7c9179ad6365372d84cc6d8bf4d1446b20b3397fab436"
+
+[[files]]
+file = "config/iobaddons-spawns.json"
+hash = "99258996d8ac2ecd0d967d4afd70fefa5d84944f0ba10c1a582534960cf18f19"
+
+[[files]]
+file = "config/isleofberk-client.toml"
+hash = "2fb84d095c15e402f42582fbed3cbf21c9477e1ff69ff0bed756924a55d5f12a"
+
+[[files]]
+file = "config/isleofberk-hatch-times.toml"
+hash = "a29ff406f868460e9600c9e94a5aedd715e59e2387564f053940deda5b195fb5"
+
+[[files]]
+file = "config/isleofberk-spawns.toml"
+hash = "7390b27c3eb1c71c6df180e76e305dd7254b17906609181ca0c4b338b1c76b11"
+
+[[files]]
+file = "config/isleofberkperformance.toml"
+hash = "b97d3656356c97b5971a9adc33fe6c5d7503afea3b713beaf334f83f4e91f9f0"
+
+[[files]]
+file = "config/ixeris.toml"
+hash = "ad09911f86c78894cb82db7829299a4542f0479746525e646d150d48e3a7d959"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "82a022760c1ca91894bc3b1184664cf65e16ba39dc17a4aa2fc482c4fe4df581"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "ef55ba74f80173b1fb90f4f3e6eafcddc8fd3ab50fece8741a3dd5751b1a6108"
+
+[[files]]
+file = "config/jade/jade_plugins.json"
+hash = "fd6c6a6aa2310b20ab98836db5339e01ba1076ebd643734980428ab72164146b"
+
+[[files]]
+file = "config/jade-addons.toml"
+hash = "45993539b53c598bb5a856d7b3345e64a404105002fb85c18d33f8b5da8611f7"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "09eb7f7f7dd33bc71d5c24c7f215127a65860505ce1ae308fe67f75aab1ca1ce"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "98a2671e0d20307762b74277870d9ba72716bcfc611447ed1ea620bc99f226d4"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "8bb0722d480964720a1500654493b5be225c74f7ff3f94e8658e39db5ab098ad"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "3758cc24546f8b239bcc19aac6b2353b299ca4aa1f58a18d95cb1fb345b6d039"
+
+[[files]]
+file = "config/jei/world/local/New World/lookupHistory.ini"
+hash = "dd767d03b2ea1729696d60a46b65b7bf1700bc1921d0fa28b2fd5794e0dbc56d"
+
+[[files]]
+file = "config/justzoom/config.txt"
+hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
+
+[[files]]
+file = "config/kiwi-client.toml"
+hash = "83ae385e1246c4d41053efb7bac40af34752329938728e655141045835dbbade"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "b2d8f61b74837a52c344b308032a66c32bb01b4fdb2959a3ec87eb5ac6e06514"
+
+[[files]]
+file = "config/letmedespawn.json"
+hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
+
+[[files]]
+file = "config/libraryferret_1.properties"
+hash = "6bdb65e76109450a3858f5b8445b5a11eecf7a32a3ee13dd827eda4ab5aec2df"
+
+[[files]]
+file = "config/mobtimizations/features-customization.toml"
+hash = "2ba670fef691202db7e94de1a2d26baaa311303f48575b897234d5794c7df0da"
+
+[[files]]
+file = "config/mobtimizations/features.toml"
+hash = "9a2ab051f884b97467ce5d03e6debc3ce9796a73625f768df00cb3449bb56d42"
+
+[[files]]
+file = "config/modelfix-client.toml"
+hash = "08df5fba6cecf5ede0b4aa1a0767445a1c23fec1528366e64d9fd175d9c2d602"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "fd43d45df0a43da122a38f542efa996e5e6e9e97adb8fd35ea5301a487c09368"
+
+[[files]]
+file = "config/nightconfigfixes.toml"
+hash = "2ada1b459f579952dbf79e8e607a74eebab2bbe0827fc35ad650080b78f1ac33"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "7b4069c06bd5d41ab5ded7c44fd3bd3d8311103c010a41d863bd05fb27f4795a"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "6fc9d09432db33f17f95a046f7f6de2ed23e306f247b718fb4309967eceb0b28"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "11bb84f9a2636f5f1efbfe53906d2804ec3d8652a8d970434f471f32570139ec"
+
+[[files]]
+file = "config/paxi/datapacks/Dragon Manual Recipe.zip"
+hash = "dfc8325f26e8287e9ea440462dc0eef26b5a9a10fdd6a276ea499bbf091c2cbc"
+
+[[files]]
+file = "config/paxi/datapacks/Morrigan Greenhouse Data V2.zip"
+hash = "1ff829a1d836fe45f9f471bdb899f17eaf0a3a8a0149687f4ce67e08378cd7d8"
+
+[[files]]
+file = "config/paxi/datapacks/Morrigan's data V2.0.4.zip"
+hash = "c183a28099173d7ae4b1dac20bdaf8326dbc9e923ee2f93ed42a1804976772fd"
+
+[[files]]
+file = "config/paxi/datapacks/Mqze's Custom Furies Datapack.zip"
+hash = "39344fdd7ecb3bea4b101116baeb9e38ef91979f63d0feb3680df732ca949b54"
+
+[[files]]
+file = "config/paxi/datapacks/Mushroom Dragons Data (Modified By Kesselot).zip"
+hash = "52a7805c0f55ecf1206d1932daf99b1d778083c06cd01e180a194c0d86acd5f0"
+
+[[files]]
+file = "config/paxi/datapacks/ShadowWings_textures_datapack.zip"
+hash = "5b5813709669deef1cafc20ac85d8d653608509f660b121edad5fd31ead00d9d"
+
+[[files]]
+file = "config/paxi/datapacks/ShadowWings_textures_datapack_crates_bugfix.zip"
+hash = "290e29add3a370fb6d90f627411f19ae28c791e51103acf888c600297bd9e07c"
+
+[[files]]
+file = "config/paxi/datapacks/Viking-Homes-v1.zip"
+hash = "0ee8f7e305ca8e5e83fed6e62846716d886e4cbe603f444e057dae7e194b8618"
+
+[[files]]
+file = "config/paxi/datapacks/WTTW.zip"
+hash = "b90b8d23f9be95124021bacf5e3cb8eea9ce3a556fb6ec164469b3a1bff85b73"
+
+[[files]]
+file = "config/paxi/datapacks/furysdatapack-AA-v1.10.zip"
+hash = "991d7d049956cb901d35358080d4ab20d42a20bed629d495e0e39e42d2258a1a"
+
+[[files]]
+file = "config/paxi/datapacks/hybrids+ off the grid eggcrate patch datapack v1.0.zip"
+hash = "d394295b091733c2fa3e52692849e6b4648b286c1bfb50e84d4286fdc11817c8"
+
+[[files]]
+file = "config/paxi/datapacks/tectonic-datapack-v2.2.2.zip"
+hash = "af3d7044f3a80681c216106707fdaf0bc31a3ef4813a7e2505f7dfc2c30288b8"
+
+[[files]]
+file = "config/paxi/datapacks/visuals_dragons.zip"
+hash = "1f63cac39ecb17f46d7085ec78f9f38f7a622b2ee80a49c95c372f4f911ddfd2"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "76743930186e00b959601796e6218c3ad063c40d8e628616bd91829e23ce0177"
+
+[[files]]
+file = "config/paxi/resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip"
+hash = "91c2549cb3a462ca3d493a72a0ab478dc5fa74b047ac1b2a664d86a0f6f51f2d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Dragon_Classes_v1.2.zip"
+hash = "af108d8d2737b26ab4b75c04b5bc03f206bb27f2f70dd53fb09c5071e5e8eff6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Dragon_Hunters_V3.zip"
+hash = "68ee6d65335b063191918e4c7c7dd40b3af15b79b854715ba16b67359d3852e0"
+
+[[files]]
+file = "config/paxi/resourcepacks/EatAnimation Farmer's Delight's Compat 1.20-26.x.zip"
+hash = "4e6c99aded78479deee33dd73ed46a2849c44ae6d1f0e23d3e45929c93ff0edb"
+
+[[files]]
+file = "config/paxi/resourcepacks/FreshAnimations_v1.7.zip"
+hash = "0df2b833a2265cc5a412fde9c39d768d475068780ce7802eeaf07fedfb932c14"
+
+[[files]]
+file = "config/paxi/resourcepacks/HTTYDBoars.zip"
+hash = "9c8b478da87c7e6ed7931d66040eeb3042ee5bf69ec48b5c1ab788075ff141a2"
+
+[[files]]
+file = "config/paxi/resourcepacks/HTTYDFranchisePaintings-[1.0.1].zip"
+hash = "688e2f8af5b289335fbdd789a3f4ee2998073acb1405dc514d1e4152e9b49e01"
+
+[[files]]
+file = "config/paxi/resourcepacks/Inferno_Fixes-1.2.0.zip"
+hash = "0fb33d1bb3dce5e61a16e6f99fe0e00212353d8c30de16834e3d5bc650657614"
+
+[[files]]
+file = "config/paxi/resourcepacks/IsleofBerkAdvancementPlaques-[1.0.2].zip"
+hash = "eea1dccc18764c09d66e27f11a6c8d75fa328261a55da011a81ebe0602547663"
+
+[[files]]
+file = "config/paxi/resourcepacks/IsleofBerkXaero'sMinimapIcons-[1.0.2].zip"
+hash = "525f583eac6a61896579445a8ac038e42696593a3f79b6cf96555d093e493afe"
+
+[[files]]
+file = "config/paxi/resourcepacks/Morrigan's Greenhouse V2.1.0.zip"
+hash = "b7881015e2c09a458b8c3f84e98f306d54a10ac06419c878fa904e5c49f899c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Mqze's Custom Furies Resources.zip"
+hash = "e2f618817933aff81cca304a9c5e108f4c6206b6d06e4e533d53e72cc2ca3fc9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Mushroom Dragons (Modified By Kesselot).zip"
+hash = "8f96f71bcca574c367a6a2f9494c0dca99c830f4a83f599c539cdfa8ab18e462"
+
+[[files]]
+file = "config/paxi/resourcepacks/ShadowWings_Pack.zip"
+hash = "34258b83882e914417007a7e7d6331360ac8d889f7fcff6e73f0ad4cded96fd5"
+
+[[files]]
+file = "config/paxi/resourcepacks/berkian_cattle_v1.zip"
+hash = "1b14b72aa83e0fa95daaf450492504107efa707ed101292eaba36145538c326e"
+
+[[files]]
+file = "config/paxi/resourcepacks/furysresourcepack-AA-v1.10.zip"
+hash = "62bffc6645f34ff76b04c2d076fc8ff58d557beeef26adfe056af578eefdb4c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/visuals_dragons.zip"
+hash = "7b41056f5d10948e1a021db510ea3f320cca75c26fd9ed09fe97011e814c3db6"
+
+[[files]]
+file = "config/paxi/resourcepacks/Â§aToothless Â§6Totem.zip"
+hash = "50d97a32b724a84544671a9dbf652e90e51cde23c105462bac167dcb17e7bc88"
+
+[[files]]
+file = "config/radium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/reforgium-renderer.properties"
+hash = "8ee899ec36c3a8e283858aa7e27cfdc899ec23485748ab6f343373ff7e356e1f"
+
+[[files]]
+file = "config/rightclickharvest.toml"
+hash = "5c4c186994cfda2bcf0f983251f3a09f33ade756e4f6894de638d39a5b5f6a6d"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/saturn-optimizations.toml"
+hash = "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "89a35e793e5ede93c8233d7c9d9c17fb89645f78edb66d31126d7a3b8639bd56"
+
+[[files]]
+file = "config/simplyswords/backupconfig.json"
+hash = "ceaa2b977a936bda7ea127ff19c821e3bc8925c9cea8ed0d52892eb7ae711815"
+
+[[files]]
+file = "config/simplyswords/booleans.json5"
+hash = "82b9a64f03518bbef8abae0fc7e62a16c308002fe9aedaed6f2db106d81ca3ea"
+
+[[files]]
+file = "config/simplyswords/effects_config.json5"
+hash = "4d1429e07e783c86008e7a98c07f33004aff6dd1190dc8de278914ff635333a8"
+
+[[files]]
+file = "config/simplyswords/general_config.json5"
+hash = "c96171f3c7c672e66d27913ef4fb721d74a6688e556334d6e286eeb9458f1f13"
+
+[[files]]
+file = "config/simplyswords/weapon_attributes.json5"
+hash = "1e5395dea554151f6dede2fa2510c56e0824433576bc1091c1424a4a990ff184"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
+
+[[files]]
+file = "config/snowrealmagic-client.toml"
+hash = "3f5933692142b06f8c65e1a421a4eb1bc21ffb065e95662eb3b6987a9b35da1c"
+
+[[files]]
+file = "config/snowrealmagic-common.toml"
+hash = "0bf46e9e748cd8280530f46afab646779f73da357a18f1554d0fa8d621fd1d59"
+
+[[files]]
+file = "config/snowundertrees-common.toml"
+hash = "c554d592cbfb283aefeee5de67b89d84c51fdd305712d329b153beb7c9a7068a"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "12231219ac7ca7b3d7570c7d8dbed2e9bee56c899c60e0dc2a1cf47af97b9fce"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "06813199751af809ce5043408f99066b30dccfa72b2597d74543dfa6b64e8d36"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "1dcaa2ba13332aaa65c68bcbfac267999407b7e58c483e7d036edbadf2d6d4b9"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "1fbc9a261290e64aad2c6b3c8204e9917e35d46f999d8be53832acd8ce46d499"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "e27a401a3164341c506a11bf23478f7d3ce6bddb02eae27cc835e44f8397aaaf"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "ad46c0640cd54e602b35e9c927ad2b182f25b7e609bf4873f84e3b81ead57728"
+
+[[files]]
+file = "config/starterkit/starterkit-old.txt"
+hash = "d0bf760d1c1d17136fc8e9cf2db05cc81b121965756de0ac9fc345bc5ff06181"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "5b6dad5d8a704d7b1a88c9d6a09336246fe6526f350ae0f98cc3c744777ae0b8"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "02d581e68085012db59934cd2e6ed80b55be9f06a480c0a0ba2a46bfc0fc24fd"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "0b29c4cd136065c0c8995846128dfff8bc7adaf6391071233b941058b537275b"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "1ee66e202491624b18b3a642955a97852750f15ffcd3c9b09cfe88d1ca3dd179"
+
+[[files]]
+file = "config/torohealth.json"
+hash = "fad317188e6d186523b348d70461e4d432f0343fed90e0205d51105fd6280965"
+
+[[files]]
+file = "config/towns_and_towers/resources/t_and_t_waystones_patch_1.18.2.zip"
+hash = "7ae80c52232cf312170f09c18984de78d37040904b09de4e9d5e426836febc65"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable.json5"
+hash = "18b5542e887ad26b3194392bd8acbbf7cb229b4dadab530d12eccef7b2e71629"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity.json5"
+hash = "52cf62798fcdeb73fb5a4ec6fe6013e9ba8e23221516f8f83b7204fcf159ed07"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "1f95145a8f6c51588d48aa29b54686c20bb9459e3b08f83109e06ebb68a581ac"
+
+[[files]]
+file = "config/visuality/client.toml"
+hash = "9465a2957675bcd66719ff97f6446b7836c067c3d810098e7acd40bfbb2369e4"
+
+[[files]]
+file = "config/visuality/particle_emitters/block/ambient.json"
+hash = "8d0dbac74ffa3c2e437c8e9c00f4cdc1e2ccf8fe052590508e1e36f6a577a6af"
+
+[[files]]
+file = "config/visuality/particle_emitters/block/step.json"
+hash = "d5945bf5ef5d74c7a7e92c0afe2b04ae07d72607586f534fc3a995bc76c1e8f5"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity/armor.json"
+hash = "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity/hit.json"
+hash = "b2f592766faf5a914c4eaff02e5ec99ab5041a03ed6aa91b891ab62c2f88781c"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
+
+[[files]]
+file = "config/weaponmaster_ydm-common.toml"
+hash = "59f767b3fd495f95c80167247a559a2507c280237e3ddb6b925104c5548d9742"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "68c15559cb9e2a55f0974aef688247be4c55767928d6b81025ba4a17497d7dec"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5a0ce3ed4abd3c692291d13a07a9ec8b919c9bf1c656d3d9229696ae78419cf6"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "dceedd02dcf411a403fde227cba9f08b210471b9908e424fae2f5762ddda567d"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "patchouli_books/README.txt"
+hash = "2e97fa91e4574fdc85a153e867280177de34bc454f8f160deb4793199869b111"
+
+[[files]]
+file = "patchouli_books/dragon_manual/book.json"
+hash = "3c59f9df9189f610f7e497b414696220236cd3a4733f9ec343c4d5fede171991"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/boulder_class.json"
+hash = "f4a0d12481ab7fd10c6239620a7b0528c8313597d037d2f9f2848bbb4550e14e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/companions.json"
+hash = "aed5840c16b7b6130530a04c40b0cc6ab5bb000beb49a29f6831e0209c977bb4"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/hybrids_plus.json"
+hash = "9798e256e7a6baaa960d6e8e53976ef96c49deac01b74f5aeb803a6ecb955204"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/mushrooms.json"
+hash = "b1011eef414def2db5526c2d54d40bc8ecaeadcc28b7bd6afca43a168fc563b0"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/mystery_class.json"
+hash = "c30462c7fddb513f6464eb629df7d520d3b1992c010427c36fd007a5627ea82b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/off_the_grid.json"
+hash = "7fbd8327012a08e314ee0953b80feb0df1a80c791105079ae307992d3c7a7b46"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/sharp_class.json"
+hash = "08505ad2ab62e0a36d0102deeb75c0492ced2ddd2a745c16f54d9c4e7548a0b8"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/stoker_class.json"
+hash = "ee18f871d1af9ce34f947b79a4e1007d60148558ac7ee5cbe4c277d1c55f4a14"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/strike_class.json"
+hash = "9f2cc307e19080baf7726782e7137e13fdb27665e12c912757e000537e9412ff"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/tidal_class.json"
+hash = "f137057d68e6ddf445dcd3e780da5ada2be77829056849c8cab5ba714952840b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/categories/tracker_class.json"
+hash = "2a06f6104505b0b7163c83aed39d1edf0eea22c253258c06f6795292a84019df"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/CatastrophicQuaken.json"
+hash = "10b3b4ae83646c9301a2634d5c93aa10d16be11e03b0500f189c470fb9167548"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/CrimsonGoregutter.json"
+hash = "437f6001a924711877b30e381e93556445ba864a965d742ee37d1ecfc3bd062b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Eruptodon.json"
+hash = "419e12399a6c4d288b86504b0359dfd02c3c2c28ba5e985cc5a02e9fb00b8889"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/GrappleGrounder.json"
+hash = "fe253e974f15e74aa8c5d148775612645644df7b397d40d2670b412211442bd9"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Graveknapper.json"
+hash = "4516ec0c2b8fcc66dfe27b38b51dfb0d4bc6d731d5dd36a4198f91eb6fc874f1"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Gronckle.json"
+hash = "ed0deb0c7db4ca1976e8284ed7f8c1548c27c93d786f8dae5c05d2ce2fcf141f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Hotburple.json"
+hash = "a2c0523c23e01808d497154a976bb3cc98a3e90605e8864117070c84629541e1"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Hushboggle.json"
+hash = "b7232cf2cd43e2c34c1788317d22ffdbc9fb4531473f9e69bbc058d08130a938"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/ScreamingDeath.json"
+hash = "0a45f7144b769aae0db604e78fbc67d0d8eb151bbaca64cfb45d9c95d4b9b244"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Sentinel.json"
+hash = "30e17b61ca0cfca450e57743fddda89bc7cc9f839ab7eb38be3160fa72baae17"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/Thunderbottom.json"
+hash = "e3d93415ef122c1a3d9f7dc6f4af818abe462ba030856b20586f4c71ae54ee70"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/boulder_class/WhisperingDeath.json"
+hash = "e01b7d1fe5bdbf457fa84527bee8abffcc958ceb1f516a8953aa785c100bd806"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/ArmorwingCompanions.json"
+hash = "0a99e16bc69fa8c02ebd0a8f29049a4ab61b0fa6b52f0dc7b6838e4a883c8321"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/BewilderBeastCompanions.json"
+hash = "c6bc4d7cc9d37cdf21724d27679a1322b434681fb1db2cd5b172b891849b532f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/DeadlyNadderCompanions.json"
+hash = "05399c9cce05caf8a0ddbcc503883b77d8d04c8641e60f0207e3568ded76273c"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/DivineStepperCompanions.json"
+hash = "46a0f4d96711933aad2107c55d64a669f476f41290903553cb30767497ee09b8"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/ForeverwingCompanions.json"
+hash = "3b302213b28838043d4abc151ef676e48bc8e8f3033db02f42cba66a1a9d6e2b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/GaleChaserCompanions.json"
+hash = "83e4038bc87f512fb64f22760eddd6f12086c85278434a0a6141f71ccc2ce672"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/HobblegruntCompanions.json"
+hash = "56e85e174ade458d8e5af6fe0a4b175c6502690ab2a6e82b03104382b552d3ef"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/LightFuryCompanions.json"
+hash = "62d67a91e13d8e586aad57b7ea0eac2c6a89bcd3be19585ae6d90fda9d24aed5"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/MonstrousNightmareCompanions.json"
+hash = "78d5f53e425c61933d6d4988ea83e4ed34f70225ef84ad1f3f30f463b17d2d11"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/NightFuryCompanions.json"
+hash = "11040e3c2c4622d316351de4d26d8c2da0bbee6d7b74688786e4f434e671bc71"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/NightLightCompanions.json"
+hash = "8aca052dd0c24e9d6d705b0a1ce7c4c5166f5f943b5de2d301f06366fe64aab7"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/RazorwhipCompanions.json"
+hash = "4259340173dc798e4020232ab048073b437ae6cca450f441ae6061cd5f3ebc21"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/RumblehornCompanions.json"
+hash = "76cf1246adcaa6296a67b5d54a8704a0a3a3027670e07f2cf0232bd18b0fab9d"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/SilverPhantomCompanions.json"
+hash = "9e682daf04ac9d3b94038b973450e14b24fca3aa03b84a6c09ccee2013311c6f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/SkrillCompanions.json"
+hash = "07c718599a209dfe0a695babfdfd4cc3cbe99ff6a5405749d9c06636871fb2e6"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/companions/TripleStrykeCompanions.json"
+hash = "d9a1a2a8b5ed58dcb92125a1a7e3db8ea8321cc9478c4dcba7f2587f55ac0b38"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/DivineStepper.json"
+hash = "437ad62c50cefd9760381c0fd889bb7187301494d80beeba63c30096efeed458"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/GaleChaser.json"
+hash = "01abca651a5a7454d8698eb7c772350d396b3feec069d61ccb61d536c7e71fe6"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/SeethingHowl.json"
+hash = "977af90197e6f7398a529e210629571ac00f5aa7a2152a72c3155a30edcaed8e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/ShadowSnatcher.json"
+hash = "e6afac9f7286cec19574b5fa8d09d6b00d07e577c42f374d50a78af9b67f637f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/ShatteredSpark.json"
+hash = "3697ea7fbd0575bb3378d2b477767f06ddc025b65002a34ee98cd50b5736fd92"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/StalkingBloom.json"
+hash = "e516288b2c1d91063f916d549f947a8802db016e7b927c725b9af8d7e209c7b2"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/VoidWalker.json"
+hash = "3cb571d895dc93d0e3ad3239dc65187df67b629870fe810d4a2ef4453475f16e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/hybrids_plus/WaveRender.json"
+hash = "badfae95c80b09450eba4fedb145b1fe7e92e30517667d3053d41fa4fc3e77d1"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomAncientGrovewing.json"
+hash = "76d2254bb0bf5ccd47130043d7abe1be75b925d79125e07aa83f5c56f3b037d4"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomDeadlyNadder.json"
+hash = "be1fb15050519ea0a5bfa8630b87ccb4cf7164e7a59f60b446f83ad707b7163a"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomGronckle.json"
+hash = "692da9ba3fe35ec3ce552f7b52c623b0c01285751cb4d373c72cbec0ed38ad1c"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomHideousZippleback.json"
+hash = "398ec3c606beb988275011bf6d85ceeaeaf6ca1714a24cfb755f71579730b9f8"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomMonstrousNightmare.json"
+hash = "453d99d24628237755680de02db2cf6adc653969b7c9bf436dfd4e9c31f8c2ff"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomNightFury.json"
+hash = "8d8603d87cc05e76c5222b8491f106164b39d460e929042fcf7c47fd5a829ecc"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomRazorwhip.json"
+hash = "9c1d60d9d279b3f928f312e731f19f8ee2657df4d3c046fe45d9f215c60d9bcc"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomSandwraith.json"
+hash = "6ec7af9632a028bb8fb9cd9b1f6c6a8692434ffb6ba2cf917aec2071dc344b1e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomSentinel.json"
+hash = "acca443514cde0575994c2e467b23a9f84530683a7dbe14e9cd2df31d24fdda0"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomSkrill.json"
+hash = "d8544faa21dd610d7de0ad78f1932d68d7b8c014b60448281b190ed630cd2af7"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomStinger.json"
+hash = "7dd11941f42445785e0d9b78f33470bfa4f488279b9fc55b0e06effa4a9c4701"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomTerribleTerror.json"
+hash = "278b8af91b88ba31d96c0480a3e935d68325aaa69ccfae60f772bc4287742699"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mushrooms/MushroomTripleStryke.json"
+hash = "bb6d0da64987734254038f23ef73df742539d2fa35a1e5d542e9027db6c113a2"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/AncientGrovewing.json"
+hash = "94ca782dfca246a756e76f04d8dde98902dfc25c853ce400ff8212c0569ed3ba"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Armorwing.json"
+hash = "0ca4767d242b682b616efdbf136b37cd63c303cd19f331f583d6dc06b3f2799f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Boneknapper.json"
+hash = "60006b89a2de084efb87cbd146a8f47d471a64b6f7d3921990c3d6523984beb6"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/CavernCrasher.json"
+hash = "4ff855961916cea24eab10dc9e49cbccae04fd7af6460c7ab3c87e2a2cad57a1"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Changewing.json"
+hash = "300f1e97f44d20e7f705fca5e05847c3c62d009280429d2a471725930cfc928e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/DeathSong.json"
+hash = "31cc16eb678c57c9d645fd6eff2b810d473ab7d2cfcab0b95970d69a07a1fcec"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Dramillion.json"
+hash = "49938b81afb208a115f038f72fe942b86cc0d1199c91cf3eebed85c6b1803222"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Flightmare.json"
+hash = "be5460c622a3181bdb4b930e3de1616d29fe65b6cd943d03a6acbdaa0d33cbbc"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Foreverwing.json"
+hash = "803b5bee95d9ed27b1a4e5a4e84609d231adb31831d1af8017c308cee62e33a9"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/HideousZippleback.json"
+hash = "0351304c086493aa376df5e93104a4f9d4f8ff6585cd4c2517839198d929b7a2"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Prickleboggle.json"
+hash = "ba4264e6c94ecd38855e3c2a12e3d12215cb7eb646896bff1486d71f9d6120bd"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Slitherwing.json"
+hash = "25026bd29cd727cdd70487b55a628ad495a4b6d9035e4a9359e504eaac249803"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/SmotheringSmokebreath.json"
+hash = "86260af25c40034da7f71ccc8cb318d3e494da5669e8912439bdecb9464943ff"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/mystery_class/Snaptrapper.json"
+hash = "be1e1a0027f64b600f035b1761f2329bbd6aec4c43e9c2ea94bf83bb309bdd08"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/DistortusStinger.json"
+hash = "68bd947a0c576c1a56412b1b4db7f45fec05a046e1329b6a3e16e55667458e89"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/FrostRavengar.json"
+hash = "5f26ce037b4240be1db8c9ed8976a5e7d8d858b5e9ae336e4dfadef6df4bb526"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/GulletGulper.json"
+hash = "28d4d4f4c5322372b05d314a2ecccddfe40942c390b78cec5e6799098c921e3a"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/Hootwing.json"
+hash = "79313bc6dd78f0b614d79207ee4a266bf04b74b18ade71743663bc950ee779b4"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/IndoStinger.json"
+hash = "5c629bd19230ab39b18512e40738ddd6a64e284670717761dd03e7a89a733a33"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/IndominusStinger.json"
+hash = "4a167a7b1d88733f258ea7351d5987bb5e5b3fd9383891f89f16df9831072edb"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/Nadderdon.json"
+hash = "7dd837a8658ba65bcb2cf4886978d911cc5d36b1dc4981c2f61b428cfbd1f2aa"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/SilverKeeper.json"
+hash = "1c3ab1b20845f40dc0a56403cb0bfecdbbd82aa5d74d45931b252deed539f2c9"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/Spearrow.json"
+hash = "38328f895ffa5d5a903f61a03e8cbf904531f80274199256d83df8035151dd70"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/StingerZilla.json"
+hash = "ccfc5655579b3f23d42cbdbf04f93c52ef533223f073cc14f8138026b0d5a7cd"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/Timberlung.json"
+hash = "00d5f5d07688188d2968decd82cfb7c14946f274a2a3bdfd97d0ee40888e6fe3"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/TripleBolt.json"
+hash = "a20a876067fba151712b21c9f9bc6f59971de571e54a22e1e787ea5000dc550c"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/TripleStinger.json"
+hash = "9a663a13ff50f6b19d2a62f35963a16fcee2d3677b8665f9f032bd64cda0c240"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/off_the_grid/TundraGutter.json"
+hash = "f9c20d64e219fc9e188af6c6fe5382e8e6184ccb9edce22bfe381dfc9c08c3ea"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/AlphaSpeedStryke.json"
+hash = "bbca8fb5d564b36e193ae1d577bb1c3fafe9ee792432fcaafe468070108efd1a"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/DeadlyNadder.json"
+hash = "fae6ef1a29b0cfac0b917643bd913f3cf089cd4b66226d054695548b58a7b901"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/DeathlyGaleslash.json"
+hash = "32e5a8581844d4510356e4e688ecb69b4cec785b2fed66e3e0f16ab8a3f12a0e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/DevilishDervish.json"
+hash = "a276f255df37efa102fc448d5c7620aa288d557a7c3c7967e01a0ed13f09a223"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Hacktoo.json"
+hash = "b5ad2ad3d5680bc1235080a072faefcb589dc2fa1eb64f3e32a4bc6f48bce9cf"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Razorwhip.json"
+hash = "9cd80f1aa6876644d72cec13454f0e2a05a3775aef5451f6de9bca4d47e8107f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Scuttleclaw.json"
+hash = "33161822cf97308126984f4a68c4b464b09161a02917b313b77ab4c525949427"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/SpeedStinger.json"
+hash = "a2fc21d86f0df064301af69b77e5ea29f653855e9e92cb53bf77de099432e69b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/SpeedStryke.json"
+hash = "1ae9daed824c6827c962e8ae4d2feff1d4b14bd859df0bf45a0053cdd753a922"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Stinger.json"
+hash = "c94d67f78a320fe487e6df586d73e1f8353a672466c5ccfa6d7b9b4a5ba5914e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Stormcutter.json"
+hash = "f50c67951657ede3e67965456fd34e2764cfd7a61f44e5e31a1e0bba4ae7d522"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/sharp_class/Timberjack.json"
+hash = "e4d3debb98f745e55b4edfc131058d3818a840deb537901f91dfa54194432468"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/Firefang.json"
+hash = "ee555e68018a3722809609c0babd1e7cb00ee009e346caaf1c5910c8fc0094e4"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/Fireworm.json"
+hash = "e672330571611549cf1601accb7a9ed417dd4f19d925214cc5b6d0e827b5a3c6"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/FirewormQueen.json"
+hash = "3caf4ea70661fb183dcbf4a45dd480224e043c5313519c6fac1df7dc15c18d9e"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/FlameWhipper.json"
+hash = "a3312238a2f2e2c394a2f9c07a8122ae386da292f6885f1ae4fae61a377a9e96"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/Hobblegrunt.json"
+hash = "a9e75fe82977cbcdeb5c98a2465ca04a33dda6dcacbfb4617722fec4c1ac37b0"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/MagmaBreather.json"
+hash = "cff4eddfbb5a2a4957131511a6c36eb9ba94fefa0250bb03182e55dbb3589f08"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/MonstrousNightmare.json"
+hash = "af0d19c82627bb2c5b862289740e8343678fb10647a607c69c979e13db2bd616"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/NightTerror.json"
+hash = "200d38a3776fb7098f2d57511f68e57ef498286e9b9f67de98cdc1c5b0fc0424"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/PygmyDeath.json"
+hash = "e2fe032eff7aaa3459ed4be6dbcd2ad1241dbfe31650c1e903fa3b4bd8fdd1c0"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/RedDeath.json"
+hash = "4804ef028ff94adea6d7e0c254a84440040b3442e37c1873adf48e7a7306a2d2"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/SilverPhantom.json"
+hash = "7871e87e373cdbb89628043a96f2847aeaaad0c8eeef3648abec729c1274a829"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/Singetail.json"
+hash = "e3329cd20274fd368ec5ba8151e5590f4c17867a2c5868510d491c8448a71b7f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/StormingNightmare.json"
+hash = "d5a5637b0a5a83b7d9aa917e144006304c1c555849e89e503fbece865723407f"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/TerribleTerror.json"
+hash = "ee1304fdcd7ea8b6686e67e73ae8fbfa0663b347dcb6a17d638e82b88a3d7554"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/ThreadTail.json"
+hash = "476e5d1573356bc0b825750850016fbea5fd79e8a0c1d9cc98833ed13174fc29"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/stoker_class/Typhoomerang.json"
+hash = "39e85426cadc33a607a136abd393ccb722a6a9210ddc0834125f3b0af6ac97cf"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Deathgripper.json"
+hash = "db92ede515f484a2c6d121d5520fe5d31dbcae396397c6f5f22feb29a8e36207"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Helstryke.json"
+hash = "3274060cbbde7bdeb683486081130fca1d99616b7fc74df37ddd7c5be48cdf67"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/LightFury.json"
+hash = "b6cacfbde95615fae0ddd5cf7d0ae96a557c072b79b9a62e3f8feed3a1455fa0"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/LightNight.json"
+hash = "60b47b41d8a404cdd3ee7f0abe3e6c91a46ce571baf85952c9d756887140c03b"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/NightCutter.json"
+hash = "29d5dbf3ebe29f29636c0d12389c325e8ec5899fd3b26582a26689b078ea4b86"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/NightFury.json"
+hash = "4050712611adfeafe6c41808896f0aab6342fd73a1f30792f2d2285d3dfdbf84"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/NightLight.json"
+hash = "23bc128a6b381dc4435cf8e717f682d1db53829e4cb250f3c77039a8779af167"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Skrill.json"
+hash = "9705528db98dfc4ebdb45d6f73285f1f0ee15cc360780f6c475b7ae2c530ac91"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Skrillcutter.json"
+hash = "b1ec679f8e122c22e3a4cfe376fd100559b095fe511448615b396208f1988fd6"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Skrillknapper.json"
+hash = "5fd27013343ae8901f7eab1bd15ebf13afb31a4016ab1ec83e1ee3929b304f0d"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/SnowWraith.json"
+hash = "02aaf120ef19048c6c88cf1a8f155e974e5f0ac334d36d4d929d5d5bcd1872f2"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/Songwing.json"
+hash = "34929a7e8b2d9ca41744c8767566e1141dbae4febcc04463f190bca1ac8c9040"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/TripleStryke.json"
+hash = "4a0df422e8cc11ccdf2e7a011d8e589d52db58b1e72dd0d19e5a0d42c4803262"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/WoollyHowl.json"
+hash = "41ffd2a6c1e8c9ffceb8fa2fe730f6f6ec68699f0608ec66209d56194693d5ae"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/strike_class/ZippleStryke.json"
+hash = "21908bc312ff0c7e04257a80d773d77b460e318f69337f7fd6565a9e7d2dba10"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Bewilderbeast.json"
+hash = "a6aa9ed661e59b900ce2fc778206d9adfd0559d9cf1602bd6897cafb1d914184"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/FloodFang.json"
+hash = "5aff57020eb824baa743270920bf8ae3dac6c7ee6ecece637ae1a25237287cb3"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Purpledeath.json"
+hash = "7896a8d5a2263c75d4f46eac3787c847f8d7bb575daaa14fd67ea514b3ee3362"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Sandwraith.json"
+hash = "f30dfad680fd012d407740d060a19a45b708e20da9e8a1dc2cd628709123dc33"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Scauldron.json"
+hash = "31453ccc9cb2c2b5a77448bdd239fc3d1920f424b04cf70e5ae6100f1887b145"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/SeaShocker.json"
+hash = "7c9a075a1af9ed9206c1776f1fa6ac24197e1214739ed99b8b4050b43c4629e7"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Shockjaw.json"
+hash = "a483fc33291d354b534bd757f8cdb81d7de19bfd76ce6fb1d6da5cababeb27ff"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tidal_class/Windwalker.json"
+hash = "8dd7e784725ca67927f4b4c3f200c30c02304af9072614d415bdc8a464071914"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tracker_class/Butterflywing.json"
+hash = "e6f3f8efdfaee6d10a683fa59369b389ff996873261890a65789f69b262157a8"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tracker_class/EightLeggedNadder.json"
+hash = "90f7b3dde84b3eb9cc663726a3b78173f6751763560eee6e75530bf690c68ccd"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tracker_class/Rumblehorn.json"
+hash = "5f7dd2f29ce1cf2381db159908b9fb5479e83423dee802fe9a11e3e8da0c3381"
+
+[[files]]
+file = "patchouli_books/dragon_manual/en_us/entries/tracker_class/WolfFang.json"
+hash = "d40ca08ab51d363ebab94b449b3c7f4bd421d68441ded11fdef657f11fe6b895"
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/DIM-1/data/capabilities.dat"
+hash = "564935a523b18b55504fb19c66391615c548fd69a03a84e7828059884742ac1e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/DIM-1/data/raids.dat"
+hash = "9d8f98a0e5eb103942d276f66605fde6126e9d876ff3ef44882e3cae6747d63c"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/DIM1/data/capabilities.dat"
+hash = "564935a523b18b55504fb19c66391615c548fd69a03a84e7828059884742ac1e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/DIM1/data/raids_end.dat"
+hash = "9d8f98a0e5eb103942d276f66605fde6126e9d876ff3ef44882e3cae6747d63c"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/advancements/833d41ff-3393-4edf-a738-22fef1868625.json"
+hash = "178d3c331ea541af34ea38433db69e72440c8ec8fb2ee741589309d3f0cbfcc1"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/advancements/93d9cef1-1b7b-4e51-a6b8-875a420bd815.json"
+hash = "1854c4af18b063ae717f902970bf9c3179a0964d28f10d41e5e4cbb41818721b"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/Village.dat"
+hash = "f94699687c5ec990ae45e746089b6c16bbb5da96dbeb2a49eb2be80be74da994"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/capabilities.dat"
+hash = "564935a523b18b55504fb19c66391615c548fd69a03a84e7828059884742ac1e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/idcounts.dat"
+hash = "d8ff57bca61bf0aa14509b8f7c0a0c818abe4c80df141286b32b1a15bd3be673"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/inferno_worldvars.dat"
+hash = "2ee0aa020f7bbc2d42dccbba399152bd8fd4f9163698996bf6c2f803266e29b0"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/map_0.dat"
+hash = "9bed54608005a9facffde92fe5b350094a0cfcece5e8e03141d85638259152f3"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/map_1.dat"
+hash = "93ef286656b49c6f0099f9484953267e404f72fa642a56e693f469f44b6462b0"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/mfix_strongholds.dat"
+hash = "1808737866428f26327c6415feae9f9c95154160b617ddba3ec17df921f291c2"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/raids.dat"
+hash = "9d8f98a0e5eb103942d276f66605fde6126e9d876ff3ef44882e3cae6747d63c"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/scoreboard.dat"
+hash = "7c3c58e7b8f469cfc7d10543b29d0eb7e1eee8285d7cdadaced77f60ea2a0d98"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/villages.dat"
+hash = "dead00bf0a9f54c05422e874af88de9d63d2ffc735fd905b617d012f3f17cde3"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/villages_end.dat"
+hash = "e69fa8a5ef52ba78bb5c1f1a5711a70e556e4f416d2f137448d870408891b522"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/data/villages_nether.dat"
+hash = "e69fa8a5ef52ba78bb5c1f1a5711a70e556e4f416d2f137448d870408891b522"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.1.0.mca"
+hash = "d32e02557c4179811bcd996991bdae582d924da5d99044c694623669257b9baa"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.1.1.mca"
+hash = "296cc07f5ab3d25d869d43a0981a847ba07aa3886b6bf8d401667471e231a060"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.1.2.mca"
+hash = "328ecfec838696af5c64a55b20b31aa3e8d7d6eb2a0f09a6ac132dd49f44c645"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.1.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.2.0.mca"
+hash = "bcbc97905943bcb0272f2461c8fef0d300692f8d613e83c9080bd426996df737"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.2.1.mca"
+hash = "edf8b73985a97900bcd3d141a39035e62a6f50faa22e124966db92dda4be02ad"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.2.2.mca"
+hash = "ed144a4b2de73b59b0718d0918c4d517e10594fb0a1820cd29f93a943c79d782"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.2.3.mca"
+hash = "4e8ba814283ffa85b5f18d21b147b6a756a33b673d97756af49cdfa2e75bfdcf"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.3.0.mca"
+hash = "6b10be8a603add9b972555f6d53b62c3cfab8a806f7c99702cd48838299e6b39"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.3.1.mca"
+hash = "b6aa8b741e28161f374384be65fa9df44a5319ee5f8d3ca05b93d959ba47d3cc"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.3.2.mca"
+hash = "ea4a2673dac8ac56069b2ecdfff152cf5ae24c500d395efb550e130a866ab7fb"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.3.3.mca"
+hash = "e7375297e2808874157da5ad933ad928f8e7b5f22eb6433cbd3fcc85a8c6679c"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.4.1.mca"
+hash = "157a930a708c939eb7f76523b1c4fad6ccf7a8423bc36cb92294996285ebcf10"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/entities/r.4.2.mca"
+hash = "579e60f6704cb97020bd01ab9b709bfd1500f0e16185f76535769daea0e29bfd"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/icon.png"
+hash = "9f310843094d3cb30a501e91eb53e5b60ec42a3f77b3fbbc71ddb200cab60f13"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/level.dat"
+hash = "cb0fc4ed81f726af38dc444af9f0f33394cbfe08025140d49245ceca9dac027e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/level.dat_old"
+hash = "45949c1cbd76980691a10988e9194cacc0c926f9101eabfc98205be8bceebc58"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/playerdata/833d41ff-3393-4edf-a738-22fef1868625.dat"
+hash = "c06fd8b646c1911b44d6186d207f648efd826bad63a168bc2d5db7126cca8185"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/playerdata/833d41ff-3393-4edf-a738-22fef1868625.dat_old"
+hash = "c06fd8b646c1911b44d6186d207f648efd826bad63a168bc2d5db7126cca8185"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/playerdata/93d9cef1-1b7b-4e51-a6b8-875a420bd815.dat"
+hash = "b11c2c9ceb1ed1862710b5c8f784054c173e02fc5f8d3c4f41b077770aeb9062"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/playerdata/93d9cef1-1b7b-4e51-a6b8-875a420bd815.dat_old"
+hash = "b11c2c9ceb1ed1862710b5c8f784054c173e02fc5f8d3c4f41b077770aeb9062"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/players/gulerod4.dat"
+hash = "c294d4886fc10313d3e625558f0df5af6048a6e1f5d2d79945cd2c72a6bbc957"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.-1.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.1.0.mca"
+hash = "9b0549b3bec3674c4c9939ab4f2124752b132da8dc80ab21dd2f2758605effe8"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.1.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.1.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.2.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.2.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.2.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.2.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.3.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.3.1.mca"
+hash = "8ed2fe24c288db18d67f323e637d6099ca96dabfac055c47f0ba977a82557752"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.3.2.mca"
+hash = "b78ad76072360dda6cc14aabc937388a68150bbd6319fc8cb3981fdbee02f9a4"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.3.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/poi/r.4.2.mca"
+hash = "3db92b3bd908665128db74d57c57d5d68a2dec7fcb08ffbcc8f6d85abe71f5ae"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.-1.-1.mca"
+hash = "7867d60662de3622a940059c9779687630536398ecf0cdb43dee2bf910cc92db"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.-1.0.mca"
+hash = "ff10e11d81754bc6727f4d5cd1eddd8fcc0f66465d671dd0e4b048b3b56b8332"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.-1.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.-1.mca"
+hash = "e3f1cecb307cb1f94cc9c1d5229bd602d8ed2fa704ee8a2329d9fb19084c17db"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.0.mca"
+hash = "2cd3c8b3735d1ebab4ac4db1cea31849ff43850aa05485cf4bafb1f3e2f7d6ca"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.3.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.0.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.-1.mca"
+hash = "4bb678705bb6d2b6a6cd44600091f0ac6da2adbf7ba09bd2f65489047f9a1501"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.0.mca"
+hash = "c347b3eff413a3c0aee611f71c53a744132ba6f8badab2a29377ca616f6e7331"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.1.mca"
+hash = "32b8050f92d9b21ef9460bafdff9133839c6e7f7626daa33b1acf1818b21fce9"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.2.mca"
+hash = "569f44bf74e4a206fb88eccc0571e363bd29c6811e4153adccaaaeb12360c310"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.3.mca"
+hash = "0d35517b4fb7968caafeecdd7ec2ce185833311f225ef62aa44761fb5eca3ff0"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.1.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.-1.mca"
+hash = "ef0c289db118b9a9fb673add2a13c65ad0842b49318b7e39be12ad08abd0a1c2"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.0.mca"
+hash = "39e5d4217e009ddac68353f1b686bddb8038f2c7c66926d8314787f6931d7fb5"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.1.mca"
+hash = "8cbeffcb96c22ea0bb45645a0ecbf66a61cce226796b6995ee61dab759da9f74"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.2.mca"
+hash = "435b599ebdae6860fb7714b04b73577228755e1d45562f2be24d5936c47b3d6e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.3.mca"
+hash = "0cee2766fadc8795985460061fc265c09a524dce4802b33f1d7f3d2d41057cb2"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.2.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.0.mca"
+hash = "4546c658d88e895d20999a0e39d9d3c5fbb8658591215dd1dda71c8b9bc4682f"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.1.mca"
+hash = "9302a5324015ef0b92d599f86bbc78f066bd3027968293f2247c8d862e65b1db"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.2.mca"
+hash = "30ad2d2c2c5614e96fe97f3cdf7e749c9c4295b0364c36ca4f6e6a9edb9f754b"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.3.mca"
+hash = "23d17fbc0ea4d17c45d17dd0e3011ea25501d86ebb6dd866c893c053b7769cf1"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.3.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.0.mca"
+hash = "b18ffbe78ea2bd96b4299bfb99586e2237fafa82f9ad626473ee515c0815b9c9"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.1.mca"
+hash = "1aece84896b2d8aebaf1472a1b366828aa07f159946cbc2b29718f75d47a31ed"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.2.mca"
+hash = "5505605ea8085adc2382568903c49a369ee968541ed47ef89da813ed1bd80ac8"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.3.mca"
+hash = "7b3b46e1995b76bba5cc6cd6dd727c73e57421710494d74c995790ba91d46e7e"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/region/r.4.4.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/curios-server.toml"
+hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/forge-server.toml"
+hash = "ffed5b2982cc7c19bb181f3771907a7bb074d6bf9a42b8ef84af7354fb5772e1"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/gravestone-server.toml"
+hash = "7fea52da1ef8fa3bdf66b97b64f90ca95faf39dbd3e81c5bcdada9b79fefba59"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/inventorysorter-server.toml"
+hash = "ac5d6ce2db6a288ac7fad0be30857f5b01e1a5f3d6d4952ca56ecb958c64952f"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/jei-server.toml"
+hash = "9736d42f228f95c96c96b90b79b0988931caf7e1b6d455c982c1441371031979"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/serverconfig/veinmining-server.toml"
+hash = "e3324deb83e8d12c648ff16e03e06ab32f360f76f662b0248ed7643ebadcc227"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/session.lock"
+hash = "b32112386944874b6441e6f586673324298a40a016ed99f5c9b21a07221a8d22"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/stats/833d41ff-3393-4edf-a738-22fef1868625.json"
+hash = "e1b79416b36869b6d75a378f96baa745c4c21652b4c840e5bbce1abdb8daf9a5"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/stats/93d9cef1-1b7b-4e51-a6b8-875a420bd815.json"
+hash = "da74351b17758f4f88365feaaeed58d42664d7cf115f315dcc62837679aeb41a"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/stats/gulerod4.json"
+hash = "bced04bdb2aa8013a3a47722113e3d85738674bc5735f7d3145b629c16f02bcf"
+preserve = true
+
+[[files]]
+file = "saves/Isle of Berk HTTYD Berk Island/xaeromap.txt"
+hash = "b5a650bf0114c7e5fe63dfb7df87f894d240cad816e7d1c20dbbf572848f5297"
+preserve = true
+
+[[files]]
+file = "scripts/rune_dupe_patch.zs"
+hash = "429fe1b5c42f18a45525752cfa59586d07b2c038b3187b9461f4992ff9a00777"

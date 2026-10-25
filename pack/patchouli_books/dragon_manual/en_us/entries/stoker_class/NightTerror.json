@@ -1,0 +1,187 @@
+{
+    "name": "Night Terror",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:night_terror}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_terror}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Night Terror"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:night_terror}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:night_terror}",
+            "text": "$(4)Spawn Locations$():<br>- Dark Forest<br>- Forest<br>- Old Growth Pine Taiga<br><br>$(3)Variants$():<br>- Night Terror has 21 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_albino}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_albino}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bronze_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bronze_terror}",
+            "name": "Bronze"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:darkvarg}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:darkvarg}",
+            "name": "Darkvarg"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:dusk_mite}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dusk_mite}",
+            "name": "Dusk Mite"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eclipse_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eclipse_terror}",
+            "name": "Eclipse Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:fire_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fire_terror}",
+            "name": "Fire Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:golden_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:golden_terror}",
+            "name": "Gold"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:hailstorm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:hailstorm}",
+            "name": "Hailstorm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:heartwarmer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:heartwarmer}",
+            "name": "Heartwarmer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_leucist}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_leucist}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_melan}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_melan}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:midnight_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:midnight_terror}",
+            "name": "Midnight Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_cheese}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_cheese}",
+            "name": "Night Cheese"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_swarm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_swarm}",
+            "name": "Night Swarm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:night_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:night_terror}",
+            "name": "Night Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:nightwatch}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:nightwatch}",
+            "name": "Nightwatch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:silver_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:silver_terror}",
+            "name": "Silver"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:smidvarg}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:smidvarg}",
+            "name": "Smidvarg"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:sunrise_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sunrise_terror}",
+            "name": "Sunrise"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:wasted_love}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:wasted_love}",
+            "name": "Wasted Love"
+        } 
+    ]
+}
+

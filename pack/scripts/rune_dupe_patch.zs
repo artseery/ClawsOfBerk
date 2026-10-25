@@ -1,0 +1,1 @@
+craftingTable.removeByName("hybridsplus:ancient_token_to_emerald");

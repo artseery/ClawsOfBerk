@@ -1,0 +1,146 @@
+{
+    "name": "Triple Stinger",
+    "icon": "isleofberk:stinger_egg{VariantName:triple_stinger}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Triple Stinger"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:triple_stinger}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Mutton<br>- Raw Beef<br>$(6)Taming Requirements$():<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:triple_stinger}",
+            "text": "$(4)Spawn Locations$():<br>- Taiga<br>- Old Growth Pine Taiga<br><br>$(3)Variants$():<br>- Triple Stinger has 15 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:triple_stinger}",
+            "name": "Triple Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:boxer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:boxer}",
+            "name": "Boxer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:dg_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:dg_stinger}",
+            "name": "DG Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:kanga}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:kanga}",
+            "name": "Kanga"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:mimi}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:mimi}",
+            "name": "Mimi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:pika}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:pika}",
+            "name": "Pika"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:roo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:roo}",
+            "name": "Roo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:seastrike}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:seastrike}",
+            "name": "Seastrike"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:stryke_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:stryke_stinger}",
+            "name": "Stryke Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_dg}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:triple_dg}",
+            "name": "Triple DG"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_stinger_albino}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:triple_stinger_albino}",
+            "name": "Triple Stinger Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_stinger_melanistic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:triple_stinger_melanistic}",
+            "name": "Triple Stinger Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:triple_wildroar}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:triple_wildroar}",
+            "name": "Triple Wildroar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:consecrated_scorpion}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:consecrated_scorpion}",
+            "name": "Consecrated Scorpion"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:moonshade}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:moonshade}",
+            "name": "Moonshade"
+        }
+    ]
+}

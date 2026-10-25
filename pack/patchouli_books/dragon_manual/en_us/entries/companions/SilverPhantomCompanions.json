@@ -1,0 +1,34 @@
+{
+    "name": "Silver Phantom Companions",
+    "icon": "isleofberk:night_fury_egg{VariantName:melody_and_galestorm}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melody_and_galestorm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Silver Phantom Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:melody_and_galestorm}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:melody_and_galestorm}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Silver Phantom has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melody_and_galestorm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:melody_and_galestorm}",
+            "name": "Melody & Galestorm"
+        } 
+    ]
+}

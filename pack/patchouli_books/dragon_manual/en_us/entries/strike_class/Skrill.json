@@ -1,0 +1,411 @@
+{
+    "name": "Skrill",
+    "icon": "isleofberk:skrill_egg{VariantName:skrill}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skrill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Skrill"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:skrill}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:skrill}",
+            "text": "$(4)Spawn Locations$():<br>- Frozen Peaks<br>- Frozen Ocean<br>- Deep Frozen Ocean<br><br>$(3)Variants$():<br>- Skrill has 48 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:blue_dragon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:blue_dragon}",
+            "name": "Blue Dragon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bowpain}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bowpain}",
+            "name": "Bowpain"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:butter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:butter}",
+            "name": "Butter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:crimson}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:crimson}",
+            "name": "Crimson"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:electrostatic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:electrostatic}",
+            "name": "Electrostatic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:fryrir}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:fryrir}",
+            "name": "Fryrir"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:icebane}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:icebane}",
+            "name": "Icebane"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:leucistic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:leucistic}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_skrill}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_skrill}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:moonshock}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:moonshock}",
+            "name": "Moonshock"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:nemesis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:nemesis}",
+            "name": "Nemesis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:pickle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:pickle}",
+            "name": "Pickle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skrill}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:skrill}",
+            "name": "Skrill"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:spark}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:spark}",
+            "name": "Spark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:spoopy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:spoopy}",
+            "name": "Spoopy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:spring_storm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:spring_storm}",
+            "name": "Spring Storm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:stormshadow}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:stormshadow}",
+            "name": "Stormshadow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:tempest}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:tempest}",
+            "name": "Tempest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:thunder_manifestation}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:thunder_manifestation}",
+            "name": "Thunder Manifestation"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:zen}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:zen}",
+            "name": "Zen"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:zephyr}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:zephyr}",
+            "name": "Zephyr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:acid}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:acid}",
+            "name": "Acid"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:ametrine}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:ametrine}",
+            "name": "Ametrine"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:faded_gloss}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:faded_gloss}",
+            "name": "Faded Gloss"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:frosted}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:frosted}",
+            "name": "Frosted"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:monochrome}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:monochrome}",
+            "name": "Monochrome"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:morning_cloud}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:morning_cloud}",
+            "name": "Morning Cloud"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:nightwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:nightwing}",
+            "name": "Nightwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:rose_quartz}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:rose_quartz}",
+            "name": "Rose Quartz"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:rusty}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:rusty}",
+            "name": "Rusty"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:siverius}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:siverius}",
+            "name": "Siverius"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:teal}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:teal}",
+            "name": "Teal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:rubberhose}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:rubberhose}",
+            "name": "Rubberhose"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:monkshood}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:monkshood}",
+            "name": "Monkshood"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:greyscale}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:greyscale}",
+            "name": "Greyscale"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:cherryblossom}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:cherryblossom}",
+            "name": "Cherry Blossom"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:chollas}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:chollas}",
+            "name": "Chollas"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:ruby}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:ruby}",
+            "name": "Ruby"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:lapis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:lapis}",
+            "name": "Lapis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:groundbeetle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:groundbeetle}",
+            "name": "Ground Beetle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:violetgroundbeetle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:violetgroundbeetle}",
+            "name": "Violet Ground Beetle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:morpho}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:morpho}",
+            "name": "Morpho"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bluebottle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bluebottle}",
+            "name": "Bluebottle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:malachite}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:malachite}",
+            "name": "Malachite"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:purple_mystery}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:purple_mystery}",
+            "name": "Purple Mystery"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:rosy_maple}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:rosy_maple}",
+            "name": "Rosy maple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:forgotten_dreams}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:forgotten_dreams}",
+            "name": "Forgotten Dreams"
+        } 
+    ]
+}
+

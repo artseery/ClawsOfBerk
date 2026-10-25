@@ -1,0 +1,154 @@
+{
+    "name": "Nadderdon",
+    "icon": "isleofberk:nadder_egg{VariantName:mutadon}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mutadon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Nadderdon"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:mutadon}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Marinated Feed<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:mutadon}",
+            "text": "$(4)Spawn Locations$():<br>- Abandoned Testing Facility Structure<br><br>$(3)Variants$():<br>- Nadderdon has 16 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mutadon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mutadon}",
+            "name": "Mutadon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:jp}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:jp}",
+            "name": "JP"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:1997_f}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:1997_f}",
+            "name": "1997 F"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:1997_m}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:1997_m}",
+            "name": "1997 M"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:2001_f}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:2001_f}",
+            "name": "2001 F"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:2001_m}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:2001_m}",
+            "name": "2001 M"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:blue}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:blue}",
+            "name": "Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:Cassowary}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:Cassowary}",
+            "name": "Cassowary"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:charlie}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:charlie}",
+            "name": "Charlie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:delta}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:delta}",
+            "name": "Delta"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:echo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:echo}",
+            "name": "Echo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:moomoo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:moomoo}",
+            "name": "Moomoo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:nadderdon_albino}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:nadderdon_albino}",
+            "name": "Nadderdon Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:nadderdon_melanistic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:nadderdon_melanistic}",
+            "name": "Nadderdon Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:peafowl}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:peafowl}",
+            "name": "Peafowl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:vitiligo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:vitiligo}",
+            "name": "Vitiligo"
+        } 
+    ]
+}

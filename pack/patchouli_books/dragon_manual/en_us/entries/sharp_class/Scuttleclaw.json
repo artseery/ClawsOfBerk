@@ -1,0 +1,226 @@
+{
+    "name": "Scuttleclaw",
+    "icon": "isleofberk:gronckle_egg:{VariantName:scuttleclaw}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:scuttleclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Scuttleclaw"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg:{VariantName:scuttleclaw}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Chicken<br>- Raw Cod<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg:{VariantName:scuttleclaw}",
+            "text": "$(4)Spawn Locations$():<br>- Snowy Plains<br>- Snowy Slopes<br>- Snowy Beach<br><br>$(3)Variants$():<br>- Scuttleclaw has 25 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:scuttleclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:scuttleclaw}",
+            "name": "Scuttleclaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:lovinit}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:lovinit}",
+            "name": "Lovinit"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:melanistic_scuttleclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:melanistic_scuttleclaw}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:swampclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:swampclaw}",
+            "name": "Swampclaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:dandelionfield}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:dandelionfield}",
+            "name": "Dandelionfield"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:biter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:biter}",
+            "name": "Biter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:cookie_n_coffee}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:cookie_n_coffee}",
+            "name": "Cookie'n'Coffee"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:chomper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:chomper}",
+            "name": "Chomper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:budbite}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:budbite}",
+            "name": "Budbite"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:hl_ice}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:hl_ice}",
+            "name": "Hl Ice"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:cherry_pie}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:cherry_pie}",
+            "name": "Cherry Pie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:slushclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:slushclaw}",
+            "name": "Slushclaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:muckruck}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:muckruck}",
+            "name": "Muckruck"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:skyfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:skyfly}",
+            "name": "Skyfly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:gressjester}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:gressjester}",
+            "name": "Gressjester"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:cheerleader}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:cheerleader}",
+            "name": "Cheerleader"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:foamy_beach}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:foamy_beach}",
+            "name": "Foamy Beach"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:king}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:king}",
+            "name": "King"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:albino_scuttleclaw}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_scuttleclaw}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:clever_crisper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:clever_crisper}",
+            "name": "Clever Crisper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:mossy_wood}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:mossy_wood}",
+            "name": "Mossy Wood"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:evolved}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:evolved}",
+            "name": "Evolved"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:dark_puddin}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:dark_puddin}",
+            "name": "Dark Puddin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:orange}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:orange}",
+            "name": "Orange"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:sunny_stone}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:sunny_stone}",
+            "name": "Sunny Stone"
+        }
+    ]
+}

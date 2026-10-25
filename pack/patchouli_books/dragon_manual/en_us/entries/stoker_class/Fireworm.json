@@ -1,0 +1,114 @@
+{
+    "name": "Fireworm",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:bonefire}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bonefire}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Fireworm"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:bonefire}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Honeycomb<br>- Firecomb Gel<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:bonefire}",
+            "text": "$(4)Spawn Locations$():<br>- Badlands<br>- Eroded Badlands<br>- Savanna<br><br>$(3)Variants$():<br>- Fireworm has 11 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bonefire}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bonefire}",
+            "name": "Bonefire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:copperworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:copperworm}",
+            "name": "Copperworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:fearsome_flamellion}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fearsome_flamellion}",
+            "name": "Fearsome Flamellion"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:fireworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:fireworm}",
+            "name": "Fireworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:rob_fireworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:rob_fireworm}",
+            "name": "Fireworm (Rise of Berk)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:iceworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:iceworm}",
+            "name": "Iceworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:indiumworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:indiumworm}",
+            "name": "Indiumworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:ironworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ironworm}",
+            "name": "Ironworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:lithiumworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lithiumworm}",
+            "name": "Lithiumworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:metalicworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:metalicworm}",
+            "name": "Metallicworm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:verdigriffworm}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:verdigriffworm}",
+            "name": "Verdigriffworm"
+        } 
+    ]
+}

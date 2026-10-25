@@ -1,0 +1,778 @@
+{
+    "name": "Light Fury",
+    "icon": "isleofberk:light_fury_egg{VariantName:light_fury}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:light_fury}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Light Fury"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:light_fury}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:light_fury}",
+            "text": "$(4)Spawn Locations$():<br>- Birch Forest<br>- Old Growth Birch Forest<br><br>$(3)Variants$():<br>- Light Fury has 95 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:aether}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:aether}",
+            "name": "Aether"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:albino_light_fury}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_light_fury}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:albino_alpha_light_fury}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:albino_alpha_light_fury}",
+            "name": "Albino Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:bandit}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:bandit}",
+            "name": "Bandit"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:bubbly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:bubbly}",
+            "name": "Bubbly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:concept}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:concept}",
+            "name": "Concept"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:drottinn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn}",
+            "name": "Drottinn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:drottinn_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_alpha}",
+            "name": "Drottinn Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:drottinn_grogaldr}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_grogaldr}",
+            "name": "Drottinn Grogaldr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:drottinn_grogaldr_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:drottinn_grogaldr_alpha}",
+            "name": "Drottinn Grogaldr Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:faerie}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:faerie}",
+            "name": "Faerie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:grogaldr}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr}",
+            "name": "Grogaldr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:grogaldr_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:grogaldr_alpha}",
+            "name": "Grogaldr Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:light_fury}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fury}",
+            "name": "Light Fury"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:light_fury_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:light_fury_alpha}",
+            "name": "Light Fury Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:melanistic_light_fury}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_light_fury}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:melanistic_alpha_light_fury}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_alpha_light_fury}",
+            "name": "Melanistic Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:mollis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:mollis}",
+            "name": "Mollis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:moondust}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:moondust}",
+            "name": "Moondust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:moonlit}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:moonlit}",
+            "name": "Moonlit"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:refraction}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:refraction}",
+            "name": "Refraction"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:stella}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:stella}",
+            "name": "Stella"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sveinn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn}",
+            "name": "Sveinn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sveinn_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_alpha}",
+            "name": "Sveinn Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sveinn_grogaldr}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_grogaldr}",
+            "name": "Sveinn Grogaldr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sveinn_grogaldr_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sveinn_grogaldr_alpha}",
+            "name": "Sveinn Grogaldr Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:vampiric_lust}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:vampiric_lust}",
+            "name": "Vampiric Lust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:violet}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:violet}",
+            "name": "Violet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:violet_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:violet_alpha}",
+            "name": "Violet Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:hearts}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:hearts}",
+            "name": "Hearts"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:amaterasu}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:amaterasu}",
+            "name": "Amaterasu"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:moondust_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:moondust_alpha}",
+            "name": "Moondust Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:wisdom}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:wisdom}",
+            "name": "Wisdom"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:luck}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:luck}",
+            "name": "Luck"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:wish}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:wish}",
+            "name": "Wish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:specter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:specter}",
+            "name": "Specter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:fortune}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:fortune}",
+            "name": "Fortune"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:ghost}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:ghost}",
+            "name": "Ghost"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:phantom}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:phantom}",
+            "name": "Phantom"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:ghoul}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:ghoul}",
+            "name": "Ghoul"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:winter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:winter}",
+            "name": "Winter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:worm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:worm}",
+            "name": "Worm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:twilight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:twilight}",
+            "name": "Twilight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:moon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:moon}",
+            "name": "Moon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:mushmillion}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:mushmillion}",
+            "name": "Mushmillion"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:aurorae}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:aurorae}",
+            "name": "Aurorae"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:blood_rosette}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:blood_rosette}",
+            "name": "Blood Rosette"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:coffee_foam}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:coffee_foam}",
+            "name": "Coffee Foam"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:daybreaker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:daybreaker}",
+            "name": "Daybreaker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:east}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:east}",
+            "name": "East"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:embers}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:embers}",
+            "name": "Embers"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:evening}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:evening}",
+            "name": "Evening"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:glacia}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:glacia}",
+            "name": "Glacia"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:honeycomb}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:honeycomb}",
+            "name": "Honeycomb"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lavender}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:lavender}",
+            "name": "Lavender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:leaf}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:leaf}",
+            "name": "Leaf"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:mintwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:mintwing}",
+            "name": "Mintwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:nightmare}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:nightmare}",
+            "name": "Nightmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:north}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:north}",
+            "name": "North"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:prism}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:prism}",
+            "name": "Prism"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:red_velvet}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:red_velvet}",
+            "name": "Red Velvet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sakura}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sakura}",
+            "name": "Sakura"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:snowind}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:snowind}",
+            "name": "Snowind"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:south}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:south}",
+            "name": "South"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:specter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:specter}",
+            "name": "Specter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:suncatcher}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:suncatcher}",
+            "name": "Suncatcher"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:tideglaze}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:tideglaze}",
+            "name": "Tideglaze"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:west}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:west}",
+            "name": "West"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:astrella}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:astrella}",
+            "name": "Astrella"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:floral_petal}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:floral_petal}",
+            "name": "Floral Petal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:luminara}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:luminara}",
+            "name": "Luminara"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:frost}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:frost}",
+            "name": "Frost"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:burnt}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:burnt}",
+            "name": "Burnt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:icicle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:icicle}",
+            "name": "Icicle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:melanistic_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:melanistic_alpha}",
+            "name": "Melanistic Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:piebalddeer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:piebalddeer}",
+            "name": "Piebald Deer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:jadefrost}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:jadefrost}",
+            "name": "Jadefrost"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:crystalsands}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:crystalsands}",
+            "name": "Crystal Sands"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:tickledpink}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:tickledpink}",
+            "name": "Tickled Pink"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:albinopiebald}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:albinopiebald}",
+            "name": "Albino Piebald"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:bark}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:bark}",
+            "name": "Bark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:mossmare}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:mossmare}",
+            "name": "Mossmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:pinkwhisp}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:pinkwhisp}",
+            "name": "Pink Whisp"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:seawhisp}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:seawhisp}",
+            "name": "Sea Whisp"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:leopard_moth}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:leopard_moth}",
+            "name": "Leopard Moth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:blue_nebula}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:blue_nebula}",
+            "name": "Blue Nebula"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:green_nebula}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:green_nebula}",
+            "name": "Green Nebula"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:blue_metalmark}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:blue_metalmark}",
+            "name": "Blue Metalmark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:midnight_stars}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:midnight_stars}",
+            "name": "Midnight Stars"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:swallowtail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:swallowtail}",
+            "name": "Common Swallowtail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:last_unicorn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:last_unicorn}",
+            "name": "The Last Unicorn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:radiant_unicorn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:radiant_unicorn}",
+            "name": "Radiant Unicorn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:evergreen_unicorn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:evergreen_unicorn}",
+            "name": "Evergreen Unicorn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:final_unicorn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:final_unicorn}",
+            "name": "The Final Unicorn"
+        } 
+    ]
+}

@@ -1,0 +1,362 @@
+{
+    "name": "Gullet Gulper",
+    "icon": "isleofberk:nadder_egg{VariantName:gullet_gulper}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gullet_gulper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Gullet Gulper"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:gullet_gulper}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Salmon<br>- Raw Cod<br>$(6)Taming Requirements$():<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:gullet_gulper}",
+            "text": "$(4)Spawn Locations$():<br>- Beach<br>- Stony Shore<br><br>$(3)Variants$():<br>- Gullet Gulper has 42 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:abbott}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:abbott}",
+            "name": "Abbott"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:arctic_skua}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:arctic_skua}",
+            "name": "Arctic Skua"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:balearic_shearwater}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:balearic_shearwater}",
+            "name": "Balearic Shearwater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:black_headed_gull_summer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:black_headed_gull_summer}",
+            "name": "Black Headed Gull Summer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:bluetip}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:bluetip}",
+            "name": "Bluetip"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:corys_shearwater}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:corys_shearwater}",
+            "name": "Corys Shearwater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:dark_arctic_skua}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:dark_arctic_skua}",
+            "name": "Dark Arctic Skua"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:flying_dutchman}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:flying_dutchman}",
+            "name": "Flying Dutchman"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:fulmar}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:fulmar}",
+            "name": "Fulmar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gallinule}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gallinule}",
+            "name": "Gallinule"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gannet}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gannet}",
+            "name": "Gannet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:great_skua}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:great_skua}",
+            "name": "Great Skua"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gullet_gulper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gullet_gulper}",
+            "name": "Gullet Gulper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:herring_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:herring_gull}",
+            "name": "Herring Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:long_tailed_skua}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:long_tailed_skua}",
+            "name": "Long Tailed Skua"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:manx_shearwater}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:manx_shearwater}",
+            "name": "Manx Shearwater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:masillastega}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:masillastega}",
+            "name": "Masillastega"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mask}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mask}",
+            "name": "Mask"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mediterranean_gull_summer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mediterranean_gull_summer}",
+            "name": "Mediterranean Gull Summer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mediterranean_gull_winter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mediterranean_gull_winter}",
+            "name": "Mediterranean Gull Winter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:mitternacht_oz}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:mitternacht_oz}",
+            "name": "Mitternacht Oz"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:old_pearl}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:old_pearl}",
+            "name": "Old Pearl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:oriental}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:oriental}",
+            "name": "Oriental"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:pied_cormorant}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pied_cormorant}",
+            "name": "Pied Cormorant"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:pomarine_skua}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pomarine_skua}",
+            "name": "Pomarine Skua"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:sooty_shearwater}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:sooty_shearwater}",
+            "name": "Sooty Shearwater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:storm_petrel}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:storm_petrel}",
+            "name": "Storm Petrel"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:iceland_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:iceland_gull}",
+            "name": "Iceland Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:black_tern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:black_tern}",
+            "name": "Black Tern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:common_tern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:common_tern}",
+            "name": "Common Tern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:great_shearwater}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:great_shearwater}",
+            "name": "Great Shearwater"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:greater_black_backed_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:greater_black_backed_gull}",
+            "name": "Greater Black Backed Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:lesser_black_backed_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:lesser_black_backed_gull}",
+            "name": "Lesser Black Backed Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:little_tern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:little_tern}",
+            "name": "Little Tern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:ring_billed_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:ring_billed_gull}",
+            "name": "Ring Billed Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:roseate_tern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:roseate_tern}",
+            "name": "Roseate Tern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gullet_gulper_albino}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gullet_gulper_albino}",
+            "name": "Gullet Gulper Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gullet_gulper_melanistic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gullet_gulper_melanistic}",
+            "name": "Gullet Gulper Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:gullet_gulper_mistreated}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:gullet_gulper_mistreated}",
+            "name": "Gullet Gulper Mistreated"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:sandwich_tern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:sandwich_tern}",
+            "name": "Sandwich Tern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:yellow_legged_gull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:yellow_legged_gull}",
+            "name": "Yellow Legged Gull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:pelipper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:pelipper}",
+            "name": "Pelipper"
+        }
+    ]
+}

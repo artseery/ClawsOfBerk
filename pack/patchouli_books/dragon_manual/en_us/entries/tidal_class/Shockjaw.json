@@ -1,0 +1,194 @@
+{
+    "name": "Shockjaw",
+    "icon": "isleofberk:skrill_egg{VariantName:shockfall}",
+    "category": "patchouli:tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:shockfall}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Shockjaw"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:shockfall}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:shockfall}",
+            "text": "$(4)Spawn Locations$():<br>- Beach<br>- Snowy Beach<br>- Stony Shore<br><br>$(3)Variants$():<br>- Shockjaw has 22 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albinojaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albinojaw}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:anemone}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:anemone}",
+            "name": "Anemone"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bloodjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bloodjaw}",
+            "name": "Bloodjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:cheesejaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:cheesejaw}",
+            "name": "Cheesejaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:deepfreeze}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:deepfreeze}",
+            "name": "Deepfreeze"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:endjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:endjaw}",
+            "name": "Endjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:flamejaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:flamejaw}",
+            "name": "Flamejaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:heatjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:heatjaw}",
+            "name": "Heatjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:hurricane}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:hurricane}",
+            "name": "Hurricane"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:leucistjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:leucistjaw}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:limejaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:limejaw}",
+            "name": "Limejaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanjaw}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:netherjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:netherjaw}",
+            "name": "Netherjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:nightjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:nightjaw}",
+            "name": "Nightjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:orcajaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:orcajaw}",
+            "name": "Orcajaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:purplejaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:purplejaw}",
+            "name": "Purplejaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:shockfall}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:shockfall}",
+            "name": "Shockfall"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:shockwave}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:shockwave}",
+            "name": "Shockwave"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:sparkplug}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:sparkplug}",
+            "name": "Sparkplug"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:tempestjaw}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:tempestjaw}",
+            "name": "Tempestjaw"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:tsunami}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:tsunami}",
+            "name": "Tsunami"
+        } 
+    ]
+}

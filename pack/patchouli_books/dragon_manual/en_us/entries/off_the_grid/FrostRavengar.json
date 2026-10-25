@@ -1,0 +1,194 @@
+{
+    "name": "Frost Ravengar",
+    "icon": "isleofberk:skrill_egg{VariantName:albino_fr}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_fr}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Frost Ravengar"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:albino_fr}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Ice Tail Pike<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:albino_fr}",
+            "text": "$(4)Spawn Locations$():<br>- Snowy Beach<br>- Ice Spikes<br>- Frozen Ocean<br><br>$(3)Variants$():<br>- Frost Ravengar has 21 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_fr}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino_fr}",
+            "name": "Albino Fr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:black_knight}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:black_knight}",
+            "name": "Black Knight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bloom}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bloom}",
+            "name": "Bloom"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:frost_ravengar}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:frost_ravengar}",
+            "name": "Frost Ravengar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:frozen_treasure}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:frozen_treasure}",
+            "name": "Frozen Treasure"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:harp_seal}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:harp_seal}",
+            "name": "Harp Seal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:hunter}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:hunter}",
+            "name": "Hunter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:ice_pecker}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:ice_pecker}",
+            "name": "Ice Pecker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:laka}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:laka}",
+            "name": "Laka"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:leopard_seal}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:leopard_seal}",
+            "name": "Leopard Seal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_fr}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_fr}",
+            "name": "Melanistic Fr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:mesa}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:mesa}",
+            "name": "Mesa"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:moss}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:moss}",
+            "name": "Moss"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:northern_fr}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:northern_fr}",
+            "name": "Northern Fr"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:ribbon}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:ribbon}",
+            "name": "Ribbon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:rusty}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:rusty}",
+            "name": "Rusty"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:sharp_tooth}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:sharp_tooth}",
+            "name": "Sharp Tooth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:shooting_star}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:shooting_star}",
+            "name": "Shooting Star"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:soft_dream}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:soft_dream}",
+            "name": "Soft Dream"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:timber_moon}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:timber_moon}",
+            "name": "Timber Moon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:white_knight}",
+            "scale": "0.3",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:white_knight}",
+            "name": "White Knight"
+        }
+    ]
+}

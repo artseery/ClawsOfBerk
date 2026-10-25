@@ -1,0 +1,50 @@
+{
+    "name": "Bewilderbeast Companions",
+    "icon": "isleofberk:gronckle_egg{VariantName:valka_and_bewilderbeast}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:valka_and_bewilderbeast}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Bewilderbeast Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:valka_and_bewilderbeast}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br><br>$(2)Taming Food$():<br>- Runes",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:atari_and_ryria}",
+            "text": "$(4)Valka's Hideout$():<br>- Deep Lukerwarm Ocean<br><br>$(4)Eret Fort$():<br>- Deep Frozen Ocean<br><br>$(3)Variants$():<br>- Bewilderbeast Companion has 3 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:valka_and_bewilderbeast}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:valka_and_bewilderbeast}",
+            "name": "Valka & Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:drago_and_bewilderbeast}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:drago_and_bewilderbeast}",
+            "name": "Drago & Bewilderbeast"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:planetseth_and_shadow}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:planetseth_and_shadow}",
+            "name": "Planetseth & Shadow"
+        } 
+    ]
+}

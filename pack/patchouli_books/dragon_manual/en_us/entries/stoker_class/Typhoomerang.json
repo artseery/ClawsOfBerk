@@ -1,0 +1,331 @@
+{
+    "name": "Typhoomerang",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:typhoomerang}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:typhoomerang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Typhoomerang"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:typhoomerang}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Eels<br>$(6)Taming Requirements$():<br>- Fire resistance effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:typhoomerang}",
+            "text": "$(4)Spawn Locations$():<br>- Old Growth Birch Forest<br>- Old Growth Pine Taiga<br>- Old Growth Spruce Taiga<br><br>$(3)Variants$():<br>- Typhoomerang has 38 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:typhoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:typhoomerang}",
+            "name": "Typhoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:aer_lingus}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:aer_lingus}",
+            "name": "Aer Lingus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:ashphoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:ashphoomerang}",
+            "name": "Ashphoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:atala}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:atala}",
+            "name": "Atala"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:bacon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bacon}",
+            "name": "Bacon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:bad_apple}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bad_apple}",
+            "name": "Bad Apple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:baldface}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:baldface}",
+            "name": "Baldface"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:bloodstorm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:bloodstorm}",
+            "name": "Bloodstorm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:cinderoptera}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:cinderoptera}",
+            "name": "Cinderoptera"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:clouded_spiral}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:clouded_spiral}",
+            "name": "Clouded Spiral"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:firestorm}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:firestorm}",
+            "name": "Firestorm"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:forest_typhoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:forest_typhoomerang}",
+            "name": "Forest Typhoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:inkspot}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:inkspot}",
+            "name": "Inkspot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:kintsugi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:kintsugi}",
+            "name": "Kintsugi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:light_caster}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:light_caster}",
+            "name": "Light Caster"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:limephoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:limephoomerang}",
+            "name": "Limephoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:marooned_flambo}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:marooned_flambo}",
+            "name": "Marooned Flambo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:nubtooth}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:nubtooth}",
+            "name": "Nubtooth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:painted_typhoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:painted_typhoomerang}",
+            "name": "Painted Typhoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:primal}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:primal}",
+            "name": "Primal"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:prism}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:prism}",
+            "name": "Prism"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:pyreflier}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:pyreflier}",
+            "name": "Pyreflier"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:radiant_skyglow}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:radiant_skyglow}",
+            "name": "Radiant Skyglow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:sculkia}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:sculkia}",
+            "name": "Sculkia"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:shockrang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:shockrang}",
+            "name": "Shockrang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:shroudburst}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:shroudburst}",
+            "name": "Shroudburst"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:skyphoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:skyphoomerang}",
+            "name": "Skyphoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:skyprowler}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:skyprowler}",
+            "name": "Skyprowler"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:skywarden}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:skywarden}",
+            "name": "Skywarden"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:spitfire}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:spitfire}",
+            "name": "Spitfire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:sunfire}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:sunfire}",
+            "name": "Sunfire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:tense_typhoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:tense_typhoomerang}",
+            "name": "Tense Typhoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:that}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:that}",
+            "name": "That"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:the_weight_of_evidence}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:the_weight_of_evidence}",
+            "name": "The Weight Of Evidence"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:torch}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:torch}",
+            "name": "Torch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:trap_phoomerang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:trap_phoomerang}",
+            "name": "Trap Phoomerang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:vibrance}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:vibrance}",
+            "name": "Vibrance"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:vulture}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:vulture}",
+            "name": "Vulture"
+        } 
+    ]
+}
+

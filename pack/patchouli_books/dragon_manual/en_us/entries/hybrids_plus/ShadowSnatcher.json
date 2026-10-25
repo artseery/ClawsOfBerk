@@ -1,0 +1,178 @@
+{
+    "name": "ShadowSnatcher",
+    "icon": "isleofberk:night_fury_egg{VariantName:blood_clot}",
+    "category": "patchouli:hybrids_plus",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blood_clot}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "ShadowSnatcher"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:blood_clot}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:blood_clot}",
+            "text": "$(4)Spawn Locations$():<br>- Ice Spikes<br>- Swamp<br>- Stony Shore<br><br>$(3)Variants$():<br>- ShadowSnatcher has 19 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blood_clot}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:blood_clot}",
+            "name": "Blood Clot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bloody_wither}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bloody_wither}",
+            "name": "Bloody Wither"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bubbling_magic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bubbling_magic}",
+            "name": "Bubbling Magic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:crimson_dreams}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:crimson_dreams}",
+            "name": "Crimson Dreams"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:drowned_curse}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:drowned_curse}",
+            "name": "Drowned Curse"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:enchanted_calls}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:enchanted_calls}",
+            "name": "Enchanted Calls"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:flaming_bones}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:flaming_bones}",
+            "name": "Flaming Bones"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:floating_lanterns}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:floating_lanterns}",
+            "name": "Floating Lanterns"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:frosted_skies}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:frosted_skies}",
+            "name": "Frosted Skies"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:golden_bones}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:golden_bones}",
+            "name": "Golden Bones"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:graveyard}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:graveyard}",
+            "name": "Graveyard"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shadowed_nights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:shadowed_nights}",
+            "name": "Shadowed Nights"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:stained_bones}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:stained_bones}",
+            "name": "Stained Bones"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:withered}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:withered}",
+            "name": "Withered"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:basalt_protector}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:basalt_protector}",
+            "name": "Basalt Protector"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:piglin_bane}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:piglin_bane}",
+            "name": "Piglin Bane"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:soul_snatcher}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:soul_snatcher}",
+            "name": "Soul Snatcher"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:warped_fighter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:warped_fighter}",
+            "name": "Warped Fighter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:whispering_bones}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:whispering_bones}",
+            "name": "Whispering Bones"
+        } 
+    ]
+}

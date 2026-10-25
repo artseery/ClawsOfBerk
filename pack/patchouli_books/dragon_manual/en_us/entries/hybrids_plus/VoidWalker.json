@@ -1,0 +1,186 @@
+{
+    "name": "VoidWalker",
+    "icon": "isleofberk:light_fury_egg{VariantName:abyssalvoid}",
+    "category": "patchouli:hybrids_plus",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:abyssalvoid}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "VoidWalker"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:abyssalvoid}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:abyssalvoid}",
+            "text": "$(4)Spawn Locations$():<br>- Small End Island Structures<br><br>$(3)Variants$():<br>- VoidWalker has 20 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:abyssalvoid}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:abyssalvoid}",
+            "name": "Abyssalvoid"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:abyssdancer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:abyssdancer}",
+            "name": "Abyssdancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:bindingvoid}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:bindingvoid}",
+            "name": "Bindingvoid"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:enddust}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:enddust}",
+            "name": "Enddust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:forgottenspector}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:forgottenspector}",
+            "name": "Forgottenspector"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:hauntedsong}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:hauntedsong}",
+            "name": "Hauntedsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:nulled}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:nulled}",
+            "name": "Nulled"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:oblivious}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:oblivious}",
+            "name": "Oblivious"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:primordialdust}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:primordialdust}",
+            "name": "Primordialdust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:primordialwaves}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:primordialwaves}",
+            "name": "Primordialwaves"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:stolencall}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:stolencall}",
+            "name": "Stolencall"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:voidbath}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:voidbath}",
+            "name": "Voidbath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:voidsea}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:voidsea}",
+            "name": "Voidsea"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:gilded_dance}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:gilded_dance}",
+            "name": "Gilded Dance"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:gilded_song}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:gilded_song}",
+            "name": "Gilded Song"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lost_luna}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:lost_luna}",
+            "name": "Lost Luna"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sacrificed_love}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sacrificed_love}",
+            "name": "Sacrificed Love"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sacrificed_nature}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sacrificed_nature}",
+            "name": "Sacrificed Nature"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:sacrificed_space}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:sacrificed_space}",
+            "name": "Sacrificed Space"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:void_spill}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:void_spill}",
+            "name": "Void Spill"
+        } 
+    ]
+}

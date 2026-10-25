@@ -1,0 +1,187 @@
+{
+    "name": "Foreverwing",
+    "icon": "isleofberk:gronckle_egg{VariantName:foreverwing}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:foreverwing}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- Across the lands of HTTYD you can find these dragons in various structures",
+            "name": "Foreverwing"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:foreverwing}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Leafy Deer Venison<br>$(6)Taming Requirements$():<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:foreverwing}",
+            "text": "$(4)Titan Foreverwing Sanctuary$():<br>- Deep Lukewarm Ocean<br>- Deep Ocean<br><br>$(4)Foreverwing Nest$():<br>- Plains<br>- Taiga<br>- Old Growth Spruce Taiga<br>- Snowy Taiga<br>- Birch Forest<br><br>$(3)Variants$():<br>- Foreverwing has 20 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:foreverwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:foreverwing}",
+            "name": "Foreverwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:titan_foreverwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:titan_foreverwing}",
+            "name": "Titan Foreverwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:frostwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:frostwing}",
+            "name": "Frostwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:autumnwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:autumnwing}",
+            "name": "Autumnwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:Birchwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:Birchwing}",
+            "name": "Birchwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:sprucewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:sprucewing}",
+            "name": "Sprucewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:cherrywing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:cherrywing}",
+            "name": "Cherrywing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:Redwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:Redwing}",
+            "name": "Redwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:desertwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:desertwing}",
+            "name": "Desertwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:Aurorawing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:Aurorawing}",
+            "name": "Aurorawing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:palewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:palewing}",
+            "name": "Palewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:white_cherrywing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:white_cherrywing}",
+            "name": "White Cherrywing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:orchidwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:orchidwing}",
+            "name": "Orchidwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:aspenwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:aspenwing}",
+            "name": "Aspenwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:deadwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:deadwing}",
+            "name": "Deadwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:jacarandawing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:jacarandawing}",
+            "name": "Jacarandawing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:firewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:firewing}",
+            "name": "Firewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:orangewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:orangewing}",
+            "name": "Orangewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:seawing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:seawing}",
+            "name": "Seawing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:snifferwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:snifferwing}",
+            "name": "Snifferwing"
+        }
+    ]
+}

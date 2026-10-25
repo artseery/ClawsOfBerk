@@ -1,0 +1,146 @@
+{
+    "name": "Devilish Dervish",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:devilish_dervish}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:devilish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Devilish Dervish"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:devilish_dervish}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Chicken<br>- Raw Pork<br>$(6)Taming Requirements$():<br>- Fire resistance effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:devilish_dervish}",
+            "text": "$(4)Spawn Locations$():<br>- Savanna Plateau<br>- Windswept Savanna<br>- Savanna<br><br>$(3)Variants$():<br>- Devilish Dervish has 15 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:albinish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:albinish_dervish}",
+            "name": "Albinish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:angelic_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:angelic_dervish}",
+            "name": "Angelic Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:azurish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:azurish_dervish}",
+            "name": "Azurish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:devilish_alastor}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_alastor}",
+            "name": "Devilish Alastor"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:devilish_cheese}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_cheese}",
+            "name": "Devilish Cheese"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:devilish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_dervish}",
+            "name": "Devilish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:devilish_glow}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:devilish_glow}",
+            "name": "Devilish Glow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:ducky_feet}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:ducky_feet}",
+            "name": "Ducky Feet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:golden_devil}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:golden_devil}",
+            "name": "Golden Devil"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:greenish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:greenish_dervish}",
+            "name": "Greenish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:hellish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:hellish_dervish}",
+            "name": "Hellish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:icy_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:icy_dervish}",
+            "name": "Icy Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:leucistish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:leucistish_dervish}",
+            "name": "Leucistic Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:luminish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:luminish_dervish}",
+            "name": "Luminish Dervish"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:melanish_dervish}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:melanish_dervish}",
+            "name": "Melanish Dervish"
+        } 
+    ]
+}

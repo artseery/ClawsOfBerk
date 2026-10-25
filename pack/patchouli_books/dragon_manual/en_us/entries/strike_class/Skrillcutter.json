@@ -1,0 +1,35 @@
+{
+    "name": "Skrillcutter",
+    "icon": "isleofberk:skrill_egg{VariantName:skrillcutter}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skrillcutter}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Skrillcutter"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:skrillcutter}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:skrillcutter}",
+            "text": "$(4)Spawn Locations$():<br>- Frozen Ocean<br>- Deep Frozen Ocean<br>- Ice Spikes<br><br>$(3)Variants$():<br>- Skrillcutter has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skrillcutter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:skrillcutter}",
+            "name": "Skrillcutter"
+        } 
+    ]
+}
+

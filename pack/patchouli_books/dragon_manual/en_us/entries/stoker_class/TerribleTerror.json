@@ -1,0 +1,419 @@
+{
+    "name": "Terrible Terror",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:terrible_terror}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:terrible_terror}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Terrible Terror"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:terrible_terror}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:terrible_terror}",
+            "text": "$(4)Spawn Locations$():<br>- Beach<br>- Birch Forest<br>- Flower Forest<br>- Forest<br>- Meadow<br>- Plains<br>- Sunflower Plains<br><br>$(3)Variants$():<br>- Terrible Terror has 56 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:tt_albino}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:tt_albino}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bean}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bean}",
+            "name": "Bean"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:blar}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:blar}",
+            "name": "Blar"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:blue_frog}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:blue_frog}",
+            "name": "Blue Frog"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bork_jr}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bork_jr}",
+            "name": "Bork Jr."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bread}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bread}",
+            "name": "Bread"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:chomp}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:chomp}",
+            "name": "Chomp"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:compy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:compy}",
+            "name": "Compy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:cottoncandy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:cottoncandy}",
+            "name": "Cottoncandy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:dimorphodon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:dimorphodon}",
+            "name": "Dimorphodon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:ender}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ender}",
+            "name": "Ender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:ender_blue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ender_blue}",
+            "name": "Ender Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:head}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:head}",
+            "name": "Head"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:iggy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:iggy}",
+            "name": "Iggy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:jellybean}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:jellybean}",
+            "name": "Jellybean"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:love}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:love}",
+            "name": "Love"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:lystro}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lystro}",
+            "name": "Lystro"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:tt_melanistic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:tt_melanistic}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:micro_a}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:micro_a}",
+            "name": "Micro (A)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:micro_b}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:micro_b}",
+            "name": "Micro (B)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:moros}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:moros}",
+            "name": "Moros"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:ovi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ovi}",
+            "name": "Ovi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:pain}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:pain}",
+            "name": "Pain"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:rg_bread}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:rg_bread}",
+            "name": "RGBread"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:ripley}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:ripley}",
+            "name": "Ripley"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:seaglass}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:seaglass}",
+            "name": "Seaglass"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:sharpshot}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sharpshot}",
+            "name": "Sharpshot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:sneaky}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sneaky}",
+            "name": "Sneaky"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:terrible_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:terrible_terror}",
+            "name": "Terrible Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:terror}",
+            "name": "Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:meshi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:meshi}",
+            "name": "Meshi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:titan_wing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:titan_wing}",
+            "name": "Titanwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:treecko}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:treecko}",
+            "name": "Treecko"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:troodon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:troodon}",
+            "name": "Troodon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:yellow_frog}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:yellow_frog}",
+            "name": "Yellow Frog"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bush}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bush}",
+            "name": "Bush"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:flow}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:flow}",
+            "name": "Flow"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:glitter}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:glitter}",
+            "name": "Glitter"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:neon}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:neon}",
+            "name": "Neon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:strawberry}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:strawberry}",
+            "name": "Strawberry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:tropical_terror}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:tropical_terror}",
+            "name": "Tropical Terror"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:terror_bee}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:terror_bee}",
+            "name": "Terror Bee"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:candy}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:candy}",
+            "name": "Candy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:elfie}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:elfie}",
+            "name": "Elfie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:gumdrop}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:gumdrop}",
+            "name": "Gumdrop"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:neonblue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:neonblue}",
+            "name": "Neon Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:neongreen}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:neongreen}",
+            "name": "Neon Green"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:neonpink}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:neonpink}",
+            "name": "Neon Pink"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:sourz}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:sourz}",
+            "name": "Sourz"
+        } 
+    ]
+}
+

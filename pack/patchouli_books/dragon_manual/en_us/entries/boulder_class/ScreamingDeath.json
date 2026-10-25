@@ -1,0 +1,34 @@
+{
+    "name": "Screaming Death",
+    "icon": "isleofberk:nadder_egg{VariantName:screaming_death}",
+    "category": "patchouli:boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:screaming_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Screaming Death"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:screaming_death}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:screaming_death}",
+            "text": "$(4)Spawn Locations$():<br>- Whispering Death Nests with the Wild Aggression effect<br><br>$(3)Variants$():<br>- Screaming Death has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:screaming_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:screaming_death}",
+            "name": "Screaming Death"
+        } 
+    ]
+}

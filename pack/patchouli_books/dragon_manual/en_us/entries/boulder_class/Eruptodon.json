@@ -1,0 +1,90 @@
+{
+    "name": "Eruptodon",
+    "icon": "isleofberk:gronckle_egg{VariantName:eruptodon}",
+    "category": "patchouli:boulder_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Eruptodon"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:eruptodon}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Raw Beef<br>- Magma Block<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:eruptodon}",
+            "text": "$(4)Spawn Location$():<br>- Eruptodon Arena Nest can be found in the Badlands<br><br>$(3)Variants$():<br>- Eruptodon has 8 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon}",
+            "name": "Eruptodon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon_green}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon_green}",
+            "name": "Eruptodon Green"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon_kaiju}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon_kaiju}",
+            "name": "Eruptodon Kaiju"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:laboon}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:laboon}",
+            "name": "Laboon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon_moss}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon_moss}",
+            "name": "Eruptodon Moss"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon_radioactive}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon_radioactive}",
+            "name": "Eruptodon Radioactive"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:eruptodon_white}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:eruptodon_white}",
+            "name": "Eruptodon White"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:pikachu}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:pikachu}",
+            "name": "Pikachu"
+        } 
+    ]
+}

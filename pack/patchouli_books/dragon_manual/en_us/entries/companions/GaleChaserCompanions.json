@@ -1,0 +1,34 @@
+{
+    "name": "Gale Chaser Companions",
+    "icon": "isleofberk:night_fury_egg{VariantName:arcadia_and_waveweaver}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:arcadia_and_waveweaver}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "GaleChaser Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:arcadia_and_waveweaver}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:arcadia_and_waveweaver}",
+            "text": "$(4)Spawn Locations$():<br>- Biomes with Pillager outpost Structure<br><br>$(3)Variants$():<br>- Gale Chaser Companion has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:arcadia_and_waveweaver}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:arcadia_and_waveweaver}",
+            "name": "Arcadia & Waveweaver"
+        } 
+    ]
+}

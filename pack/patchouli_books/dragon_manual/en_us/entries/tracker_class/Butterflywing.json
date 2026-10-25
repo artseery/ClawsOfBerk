@@ -1,0 +1,178 @@
+{
+    "name": "Butterflywing",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:butterflywing}",
+    "category": "patchouli:tracker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:butterflywing}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Butterflywing"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:butterflywing}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Any flower item<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:butterflywing}",
+            "text": "$(4)Spawn Locations$():<br>- Flower Forest<br>- Meadow<br>- Sunflower Plains<br><br>$(3)Variants$():<br>- Butterflywing has 20 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:albinofly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:albinofly}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:atlaswing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:atlaswing}",
+            "name": "Atlaswing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:browntailwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:browntailwing}",
+            "name": "Browntailwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:butterfly_base}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butterfly_base}",
+            "name": "Butterfly Base"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:butterflywing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:butterflywing}",
+            "name": "Butterflywing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:camberwell}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:camberwell}",
+            "name": "Camberwell"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:crescentwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:crescentwing}",
+            "name": "Crescentwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:emperorwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:emperorwing}",
+            "name": "Emperorwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:harmtune}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:harmtune}",
+            "name": "Harmtune"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:lunarwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:lunarwing}",
+            "name": "Lunarwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:maplewing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:maplewing}",
+            "name": "Maplewing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:melanfly}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:melanfly}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:monarchwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:monarchwing}",
+            "name": "Monarchwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:peacock}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peacock}",
+            "name": "Peacock"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:postwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:postwing}",
+            "name": "Postwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:purple_edged_copper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:purple_edged_copper}",
+            "name": "Purple-Edged Copper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:radiance}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:radiance}",
+            "name": "Radiance"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:red_admiral}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:red_admiral}",
+            "name": "Red Admiral"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:swallowtail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:swallowtail}",
+            "name": "Swallowtail"
+        } 
+    ]
+}

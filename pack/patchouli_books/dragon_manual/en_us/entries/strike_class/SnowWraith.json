@@ -1,0 +1,242 @@
+{
+    "name": "Snow Wraith",
+    "icon": "isleofberk:night_fury_egg{VariantName:snow_wraith}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:snow_wraith}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Snow Wraith"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:snow_wraith}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Mutton<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:snow_wraith}",
+            "text": "$(4)Spawn Locations$():<br>- Frozen Peaks<br>- Snowy Slopes<br>- Snowy Taiga<br><br>$(3)Variants$():<br>- Snow Wraith has 29 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:albino_snow_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:albino_snow_wraith}",
+            "name": "Albino Snow Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:auroa}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:auroa}",
+            "name": "Auroa"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bbq_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bbq_wraith}",
+            "name": "BBQ Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:berger}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:berger}",
+            "name": "Berger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blue_ice}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:blue_ice}",
+            "name": "Blue Ice"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bluethroat_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bluethroat_wraith}",
+            "name": "Blue-Throat Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:cari_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:cari_wraith}",
+            "name": "Cari Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:frostfrights_big_bro}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:frostfrights_big_bro}",
+            "name": "Frostfrights Big Bro"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:frostfrights_lil_sis}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:frostfrights_lil_sis}",
+            "name": "Frostfrights Lil Sis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:glazier}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:glazier}",
+            "name": "Glazier"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:icicle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:icicle}",
+            "name": "Icicle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:jelloz}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:jelloz}",
+            "name": "Jelloz"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:melanistic_snow_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:melanistic_snow_wraith}",
+            "name": "Melanistic Snow Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:mist_stalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:mist_stalker}",
+            "name": "Mist Stalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:puffin}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:puffin}",
+            "name": "Puffin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:rob_snow_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:rob_snow_wraith}",
+            "name": "Rise of Berk Snow Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:spruce}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:spruce}",
+            "name": "Spruce"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:titan_snow_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:titan_snow_wraith}",
+            "name": "Titan Snow Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:wood_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:wood_wraith}",
+            "name": "Wood Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bbq_wraith}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bbq_wraith}",
+            "name": "BBQ Wraith"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:battle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:battle}",
+            "name": "Battle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:bites}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:bites}",
+            "name": "Bites"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:blink}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:blink}",
+            "name": "Blink"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:celest}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:celest}",
+            "name": "Celest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:moonlight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:moonlight}",
+            "name": "Moonlight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:pumpkin}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:pumpkin}",
+            "name": "Pumpkin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:sand}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:sand}",
+            "name": "Sand"
+        } 
+    ]
+}

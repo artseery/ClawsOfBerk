@@ -1,0 +1,154 @@
+{
+    "name": "Smothering Smokebreath",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:smokebreath}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:smokebreath}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Smothering Smokebreath"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:smokebreath}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Copper Ingot<br>- Dragon Proof Metal Ingot<br>- Dragon Proof Metal Scrap<br>- Gold Ingot<br>- Gronckle Iron<br>- Iron Ingot<br>- Raw Copper<br>- Raw Gold<br>- Raw Gronckle Iron<br>- Raw Iron<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:smokebreath}",
+            "text": "$(4)Spawn Locations$():<br>- Taiga<br>- Old Growth Pine Taiga<br>- Old Growth Spruce Taiga<br><br>$(3)Variants$():<br>- Smothering Smokebreath has 16 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:albino_smokebreath}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:albino_smokebreath}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:bushsmoker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:bushsmoker}",
+            "name": "Bushsmoker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:c_n_c_icecream}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:c_n_c_icecream}",
+            "name": "CnC Ice Cream"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:creamberry}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:creamberry}",
+            "name": "Creamberry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:glamourwing}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:glamourwing}",
+            "name": "Glamourwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:glittersmoke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:glittersmoke}",
+            "name": "Glittersmoke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:goldrush}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:goldrush}",
+            "name": "Goldrush"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:huginn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:huginn}",
+            "name": "Huginn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:hullchewer}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:hullchewer}",
+            "name": "Hullchewer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:juletre}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:juletre}",
+            "name": "Juletre"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:magmabreath}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:magmabreath}",
+            "name": "Magmabreath"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:melanistic_smoke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:melanistic_smoke}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:smoked_bbq}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:smoked_bbq}",
+            "name": "Metal Meddler"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:muninn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:muninn}",
+            "name": "Muninn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:huginn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:huginn}",
+            "name": "Smoked BBQ"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:smokebreath}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:smokebreath}",
+            "name": "Smothering Smokebreath"
+        }
+    ]
+}

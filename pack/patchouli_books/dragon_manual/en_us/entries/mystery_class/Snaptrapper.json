@@ -1,0 +1,130 @@
+{
+    "name": "Snaptrapper",
+    "icon": "isleofberk:zippleback_egg{VariantName:snaptrapper}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:snaptrapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Snaptrapper"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:snaptrapper}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Spider Eye<br>$(6)Taming Requirements$():<br>- Strength potion effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:snaptrapper}",
+            "text": "$(4)Spawn Locations$():<br>- Swamp<br>- Jungle<br>- Bamboo Jungle<br><br>$(3)Variants$():<br>- Snaptrapper has 12 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:snaptrapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:snaptrapper}",
+            "name": "Erythristic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:snaptrapper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:snaptrapper}",
+            "name": "Erythristic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:baron}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:baron}",
+            "name": "Baron"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:blight}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:blight}",
+            "name": "Blight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:peel}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:peel}",
+            "name": "Peel"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:lime}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:lime}",
+            "name": "Lime"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:molten}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:molten}",
+            "name": "Molten"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:nether}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:nether}",
+            "name": "Nether"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:pinked}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:pinked}",
+            "name": "Pinked"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:polker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:polker}",
+            "name": "Polker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:spearmint}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:spearmint}",
+            "name": "Spearmint"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:swamped}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:swamped}",
+            "name": "Swamped"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:troxler}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:troxler}",
+            "name": "Troxler"
+        } 
+    ]
+}

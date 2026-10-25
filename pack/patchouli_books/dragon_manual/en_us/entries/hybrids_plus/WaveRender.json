@@ -1,0 +1,170 @@
+{
+    "name": "WaveRender",
+    "icon": "isleofberk:night_fury_egg{VariantName:beach_sand}",
+    "category": "patchouli:hybrids_plus",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:beach_sand}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "WaveRender"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:beach_sand}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:beach_sand}",
+            "text": "$(4)Spawn Locations$():<br>- Frozen Ocean<br>- Ocean<br>- Cold Ocean<br>- Lukewarm Ocean<br>- Deep Frozen Ocean<br>- Deep Ocean<br>- Deep Cold Ocean<br>- Deep Lukewarm Ocean<br>- Beach<br><br>$(3)Variants$():<br>- WaveRender has 20 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:beach_sand}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:beach_sand}",
+            "name": "Beach Sand"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:deepsea_threat}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:deepsea_threat}",
+            "name": "Deepsea Threat"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:dreamsea}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:dreamsea}",
+            "name": "Dreamsea"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:mossy_waters}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:mossy_waters}",
+            "name": "Mossy Waters"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:obsidian_sand}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:obsidian_sand}",
+            "name": "Obsidian Sand"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:piecrust_blueberry}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:piecrust_blueberry}",
+            "name": "Piecrust Blueberry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:piecrust_cherry}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:piecrust_cherry}",
+            "name": "Piecrust Cherry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:piecrust_glowberry}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:piecrust_glowberry}",
+            "name": "Piecrust Glowberry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:sandsteps}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:sandsteps}",
+            "name": "Sandsteps"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shark}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:shark}",
+            "name": "Shark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:voidsand}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:voidsand}",
+            "name": "Voidsand"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:whitesand}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:whitesand}",
+            "name": "Whitesand"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:waveweaver}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:waveweaver}",
+            "name": "Waveweaver"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shork}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:shork}",
+            "name": "Shork"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:shimmeringwaves}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:shimmeringwaves}",
+            "name": "Shimmeringwaves"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:sharkattack}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:sharkattack}",
+            "name": "Sharkattack"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:kelp_forest}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:kelp_forest}",
+            "name": "Kelp Forest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:mythic_stars}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:mythic_stars}",
+            "name": "Mythic Stars"
+        } 
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Speed Stryke",
+    "icon": "isleofberk:speed_stinger_egg{VariantName:speed_stryke}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Speed Stryke"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:speed_stryke}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Beef<br>- Raw Rabbit<br>$(6)Taming Requirements$():<br>- Must be a baby",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:speed_stinger_egg{VariantName:speed_stryke}",
+            "text": "$(4)Spawn Locations$():<br>- Hunter Flagship Structure<br><br>$(3)Variants$():<br>- Speed Stryke has 13 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:speed_stryke}",
+            "name": "Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:albino_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:albino_speed_stryke}",
+            "name": "Albino Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:gingerbun}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:gingerbun}",
+            "name": "Bakery"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:blood_stalker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:blood_stalker}",
+            "name": "Blood Stalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:coleure}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:coleure}",
+            "name": "Coleure"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:cotton_candy}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:cotton_candy}",
+            "name": "Cotton Candy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:four_oh_four}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:four_oh_four}",
+            "name": "Error 404"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:bush}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:bush}",
+            "name": "Forest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:melanistic_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:melanistic_speed_stryke}",
+            "name": "Melanistic Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:conlectus}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:conlectus}",
+            "name": "Poseidon"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:scorpian}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:scorpian}",
+            "name": "Scorpian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:soulrunner}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:soulrunner}",
+            "name": "Soulrunner"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:speed_stinger{VariantName:white_stripes}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:speed_stinger ~ ~ ~ {VariantName:white_stripes}",
+            "name": "White Stripes"
+        } 
+    ]
+}

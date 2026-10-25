@@ -1,0 +1,34 @@
+{
+    "name": "Mushroom Hideous Zippleback",
+    "icon": "isleofberk:zippleback_egg{VariantName:mushback}",
+    "category": "patchouli:mushrooms",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:mushback}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Mushroom Hideous Zippleback"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:mushback}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Salmon<br>- Raw Cod<br>$(6)Taming Requirements$():<br>- Strength potion effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:zippleback_egg{VariantName:mushback}",
+            "text": "$(4)Spawn Locations$():<br>- Mushroom Island<br><br>$(3)Variants$():<br>- Mushroom Hideous Zippleback has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:zippleback{VariantName:mushback}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:zippleback ~ ~ ~ {VariantName:mushback}",
+            "name": "Mushback"
+        } 
+    ]
+}

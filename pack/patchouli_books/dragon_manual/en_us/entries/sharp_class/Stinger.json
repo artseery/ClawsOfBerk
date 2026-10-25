@@ -1,0 +1,290 @@
+{
+    "name": "Stinger",
+    "icon": "isleofberk:stinger_egg{VariantName:wildroar}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:wildroar}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Stinger"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:wildroar}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Mutton<br>$(6)Taming Requirements$():<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:stinger_egg{VariantName:wildroar}",
+            "text": "$(4)Spawn Locations$():<br>- Meadow<br>- Plains<br>- Savanna<br>- Savanna Plateau<br>- Windswept Savanna<br><br>$(3)Variants$():<br>- Stinger has 39 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:albino_stinger}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:albino_stinger}",
+            "name": "Albino Stinger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:allo}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:allo}",
+            "name": "Allo"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:austro}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:austro}",
+            "name": "Austro"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:badlands}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:badlands}",
+            "name": "Badlands"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:big_eatie}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:big_eatie}",
+            "name": "Big Eatie"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:bucky}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:bucky}",
+            "name": "Bucky"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:chaos}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:chaos}",
+            "name": "Chaos"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:coastal_predator}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:coastal_predator}",
+            "name": "Coastal Predator"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:demon_carno}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:demon_carno}",
+            "name": "Demon Carno"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:ed}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:ed}",
+            "name": "Ed"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:fang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:fang}",
+            "name": "Fang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:fire}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:fire}",
+            "name": "Fire"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:frog}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:frog}",
+            "name": "Frog"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:furnace_shell_mountain_weasel}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:furnace_shell_mountain_weasel}",
+            "name": "Furnace Shell Mountain Weasel"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:giga}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:giga}",
+            "name": "Giga"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:grim}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:grim}",
+            "name": "Grim"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:ice}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:ice}",
+            "name": "Ice"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:indominus}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:indominus}",
+            "name": "Indominus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:kingly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:kingly}",
+            "name": "Kingly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:koko}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:koko}",
+            "name": "Koko"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:lavender}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:lavender}",
+            "name": "Lavender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:borealis}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:borealis}",
+            "name": "Borealis"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:boreas}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:boreas}",
+            "name": "Boreas"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:bubblegum}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:bubblegum}",
+            "name": "Bubblegum"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:grapewhirl}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:grapewhirl}",
+            "name": "Grapewhirl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:mosshead}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:mosshead}",
+            "name": "Mosshead"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:nineties}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:nineties}",
+            "name": "Nineties"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:prince}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:prince}",
+            "name": "Prince"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:royalty}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:royalty}",
+            "name": "Royalty"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:scarlet}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:scarlet}",
+            "name": "Scarlet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:seiryu}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:seiryu}",
+            "name": "Seiryu"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:tyrianpurple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:tyrianpurple}",
+            "name": "Tyrian Purple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:stinger{VariantName:crimson_chaser}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:stinger ~ ~ ~ {VariantName:crimson_chaser}",
+            "name": "Crimson Chaser"
+        }
+    ]
+}

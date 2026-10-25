@@ -1,0 +1,178 @@
+{
+    "name": "Windwalker",
+    "icon": "isleofberk:skrill_egg{VariantName:windwalker}",
+    "category": "patchouli:tidal_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:windwalker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Windwalker"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:windwalker}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:windwalker}",
+            "text": "$(4)Spawn Locations$():<br>- Beach<br>- Snowy Beach<br>- Stony Shore<br><br>$(3)Variants$():<br>- Windwalker has 19 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino_windwalker}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:axanthic_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:axanthic_windwalker}",
+            "name": "Axanthic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:blazewind}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:blazewind}",
+            "name": "Blazewind"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bookwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bookwalker}",
+            "name": "Bookwalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:coralwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:coralwalker}",
+            "name": "Coralwalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:diluted_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:diluted_windwalker}",
+            "name": "Diluted"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:erythristic_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:erythristic_windwalker}",
+            "name": "Erythristic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:galeguard}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:galeguard}",
+            "name": "Galeguard"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:leucistic_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:leucistic_windwalker}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_windwalker}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:millenial_pearl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:millenial_pearl}",
+            "name": "Millenial Pearl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:mistroll}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:mistroll}",
+            "name": "Mistroll"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:schoolwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:schoolwalker}",
+            "name": "Schoolwalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:seasail}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:seasail}",
+            "name": "Seasail"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:skycarver}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:skycarver}",
+            "name": "Skycarver"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titanwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titanwalker}",
+            "name": "Titanwalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:wayflora}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:wayflora}",
+            "name": "Wayflora"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:windwalker}",
+            "name": "Windwalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:xanthochromic_windwalker}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:xanthochromic_windwalker}",
+            "name": "Xanthochromic"
+        } 
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Light Fury Companions",
+    "icon": "isleofberk:light_fury_egg{VariantName:winter_and_whisper}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:winter_and_whisper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Light Fury Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:winter_and_whisper}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>-Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:winter_and_whisper}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Light Fury Companion has 3 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:winter_and_whisper}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:winter_and_whisper}",
+            "name": "Winter & Whisper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lily_and_madeline}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:lily_and_madeline}",
+            "name": "Lily & Madeline"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:dat_and_rarqosqky}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:dat_and_rarqosqky}",
+            "name": "Dat & Rarqosqky"
+        } 
+    ]
+}

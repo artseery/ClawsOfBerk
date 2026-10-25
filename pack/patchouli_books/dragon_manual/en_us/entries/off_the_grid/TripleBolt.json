@@ -1,0 +1,146 @@
+{
+    "name": "Triple Bolt",
+    "icon": "isleofberk:skrill_egg{VariantName:triple_bolt}",
+    "category": "patchouli:off_the_grid",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:triple_bolt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Triple Bolt"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:triple_bolt}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Dragon Blood Marinated Feed<br>- Feed Bundle<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:triple_bolt}",
+            "text": "$(4)Spawn Locations$():<br>- Triple Bolt Berg Structure<br><br>$(3)Variants$():<br>- Triple Bolt has 15 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:triple_bolt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:triple_bolt}",
+            "name": "Triple Bolt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_triple_bolt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino_triple_bolt}",
+            "name": "Albino Triple Bolt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:bewitched}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:bewitched}",
+            "name": "Bewitched"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:dawn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:dawn}",
+            "name": "Dawn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:jellycoco}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:jellycoco}",
+            "name": "Jellycoco"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:kevin}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:kevin}",
+            "name": "Kevin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_triple_bolt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_triple_bolt}",
+            "name": "Melanistic Triple Bolt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:mistreated_triple_bolt}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:mistreated_triple_bolt}",
+            "name": "Mistreated Triple Bolt"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:northern}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:northern}",
+            "name": "Northern"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:one_who_is_many}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:one_who_is_many}",
+            "name": "One Who Is Many"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:prismarine}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:prismarine}",
+            "name": "Prismarine"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:sunset}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:sunset}",
+            "name": "Sunset"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:traffic}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:traffic}",
+            "name": "Traffic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:volca}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:volca}",
+            "name": "Volca"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:the_deafening_snap}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:the_deafening_snap}",
+            "name": "The Deafening Snap"
+        } 
+    ]
+}

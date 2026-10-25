@@ -1,0 +1,850 @@
+{
+    "name": "Night Light",
+    "icon": "isleofberk:night_light_egg{VariantName:dart}",
+    "category": "patchouli:strike_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dart}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Night Light"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_light_egg{VariantName:dart}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Unless baby, requires the below<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_light_egg{VariantName:dart}",
+            "text": "$(4)Obtained By$():<br>- Breeding a Nightfury and Lightfury (50% chance)<br><br>$(3)Variants$():<br>- Night Light has 109 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:appaloosa}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa}",
+            "name": "Appaloosa"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:appaloosa_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa_alpha}",
+            "name": "Appaloosa Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ashwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing}",
+            "name": "Ashwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ashwing_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing_alpha}",
+            "name": "Ashwing Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:color}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:color}",
+            "name": "Colour"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dart}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dart}",
+            "name": "Dart"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dart_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dart_alpha}",
+            "name": "Dart Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dusk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dusk}",
+            "name": "Dusk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dusk_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dusk_alpha}",
+            "name": "Dusk Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harlequeen}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen}",
+            "name": "Harlequeen"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harlequeen_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen_alpha}",
+            "name": "Harlequeen Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:iridescence}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence}",
+            "name": "Iridescence"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:iridescence_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence_alpha}",
+            "name": "Iridescence Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:leopard}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:leopard}",
+            "name": "Leopard"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:leopard_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:leopard_alpha}",
+            "name": "Leopard Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:nightdancer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer}",
+            "name": "Nightdancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:nightdancer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer_alpha}",
+            "name": "Nightdancer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:occasus}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:occasus}",
+            "name": "Occasus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:occasus_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:occasus_alpha}",
+            "name": "Occasus Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:orca}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:orca}",
+            "name": "Orca"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pouncer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer}",
+            "name": "Pouncer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pouncer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer_alpha}",
+            "name": "Pouncer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ruffrunner}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner}",
+            "name": "Ruffrunner"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ruffrunner_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner_alpha}",
+            "name": "Ruffrunner Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:skydancer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer}",
+            "name": "Skydancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:skydancer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer_alpha}",
+            "name": "Skydancer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:smores}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:smores}",
+            "name": "Smores"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snow_owl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl}",
+            "name": "Snow Owl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snow_owl_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl_alpha}",
+            "name": "Snow Owl Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tiger}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tiger}",
+            "name": "Tiger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tiger_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tiger_alpha}",
+            "name": "Tiger Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tigress}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tigress}",
+            "name": "Tigress"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tigress_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tigress_alpha}",
+            "name": "Tigress Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:finick}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:finick}",
+            "name": "Finick"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:cinderpot}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpot}",
+            "name": "Cinderpot"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:cinderpot_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:cinderpot_alpha}",
+            "name": "Cinderpot Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dawn}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dawn}",
+            "name": "Dawn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dawn_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dawn_alpha}",
+            "name": "Dawn Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:freckles}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:freckles}",
+            "name": "Freckles"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:freckles_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:freckles_alpha}",
+            "name": "Freckles Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:goggles}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:goggles}",
+            "name": "Goggles"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:goggles_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:goggles_alpha}",
+            "name": "Goggles Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harleking}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harleking}",
+            "name": "Harleking"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harleking_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harleking_alpha}",
+            "name": "Harleking Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:shimmer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer}",
+            "name": "Shimmer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:shimmer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:shimmer_alpha}",
+            "name": "Shimmer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snowflake}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snowflake}",
+            "name": "Snowflake"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snowflake_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snowflake_alpha}",
+            "name": "Snowflake Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:speckle}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:speckle}",
+            "name": "Speckle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:speckle_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:speckle_alpha}",
+            "name": "Speckle Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:yang}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:yang}",
+            "name": "Yang"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:yin}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:yin}",
+            "name": "Yin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:star_runner}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:star_runner}",
+            "name": "Star Runner"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:star_runner_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:star_runner_alpha}",
+            "name": "Star Runner Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:appaloosa}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa}",
+            "name": "Appaloosa"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:appaloosa_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:appaloosa_alpha}",
+            "name": "Appaloosa Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ashwing}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing}",
+            "name": "Ashwing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ashwing_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ashwing_alpha}",
+            "name": "Ashwing Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dart}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dart}",
+            "name": "Dart"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dart_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dart_alpha}",
+            "name": "Dart Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dusk}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dusk}",
+            "name": "Dusk"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dusk_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dusk_alpha}",
+            "name": "Dusk Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harlequeen}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen}",
+            "name": "Harlequeen"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:harlequeen_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:harlequeen_alpha}",
+            "name": "Harlequeen Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:iridescence}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence}",
+            "name": "Iridescence"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:iridescence_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:iridescence_alpha}",
+            "name": "Iridescence Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:leopard}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:leopard}",
+            "name": "Leopard"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:leopard_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:leopard_alpha}",
+            "name": "Leopard Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:nightdancer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer}",
+            "name": "Nightdancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:nightdancer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:nightdancer_alpha}",
+            "name": "Nightdancer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pouncer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer}",
+            "name": "Pouncer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pouncer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pouncer_alpha}",
+            "name": "Pouncer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ruffrunner}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner}",
+            "name": "Ruffrunner"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:ruffrunner_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:ruffrunner_alpha}",
+            "name": "Ruffrunner Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:skydancer}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer}",
+            "name": "Skydancer"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:skydancer_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:skydancer_alpha}",
+            "name": "Skydancer Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snow_owl}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl}",
+            "name": "Snow Owl"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:snow_owl_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:snow_owl_alpha}",
+            "name": "Snow Owl Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tiger}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tiger}",
+            "name": "Tiger"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tiger_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tiger_alpha}",
+            "name": "Tiger Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:wink}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:wink}",
+            "name": "Wink"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:wink_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:wink_alpha}",
+            "name": "Wink Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tigress}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tigress}",
+            "name": "Tigress"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:tigress_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:tigress_alpha}",
+            "name": "Tigress Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:occasus}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:occasus}",
+            "name": "Occasus"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:occasus_alpha}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:occasus_alpha}",
+            "name": "Occasus Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:orca}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:orca}",
+            "name": "Orca"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:smores}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:smores}",
+            "name": "Smores"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:day_night}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:day_night}",
+            "name": "Day Night"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pepper}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pepper}",
+            "name": "Pepper"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:kitty}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:kitty}",
+            "name": "Kitty"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:unique}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:unique}",
+            "name": "Unique"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:midnight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:midnight}",
+            "name": "Midnight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:dawn_df}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:dawn_df}",
+            "name": "Dawn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:stardust}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:stardust}",
+            "name": "Stardust"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:darklight}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:darklight}",
+            "name": "Darklight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:pyro}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:pyro}",
+            "name": "Pyro"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:lunar_actias}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:lunar_actias}",
+            "name": "Lunar Actias"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:emperor_monarch}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:emperor_monarch}",
+            "name": "Emperor Monarch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:starlight_oc}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:starlight_oc}",
+            "name": "Starlight oc"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:okapi}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:okapi}",
+            "name": "Okapi"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:doitsu}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:doitsu}",
+            "name": "Doitsu"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_light{VariantName:sanshoku}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_light ~ ~ ~ {VariantName:sanshoku}",
+            "name": "Sanshoku"
+        } 
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "name": "Eight-Legged Nadder",
+    "icon": "isleofberk:terrible_terror_egg{VariantName:eightleg_blue}",
+    "category": "patchouli:tracker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_blue}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Eight-Legged Nadder"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:eightleg_blue}",
+            "text": "$(4)Breeding Food$():<br>- Pufferfish<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:terrible_terror_egg{VariantName:eightleg_blue}",
+            "text": "$(4)Spawn Locations$():<br>- Flower Forest<br>- Meadow<br>- Sunflower Plains<br><br>$(3)Variants$():<br>- Eight-Legged Nadder has 11 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_albino}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_albino}",
+            "name": "Albino"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:beiged_blue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:beiged_blue}",
+            "name": "Beiged Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_blue}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_blue}",
+            "name": "Blue"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:deadlyflower}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:deadlyflower}",
+            "name": "Deadly Flower"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_erythristic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_erythristic}",
+            "name": "Erythristic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_leucistic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_leucistic}",
+            "name": "Leucistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_melanistic}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_melanistic}",
+            "name": "Melanistic"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:peril}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:peril}",
+            "name": "Peril"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:eightleg_purple}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:eightleg_purple}",
+            "name": "Purple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:stormflew}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:stormflew}",
+            "name": "Stormflew"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:terrible_terror{VariantName:taiga_river}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:terrible_terror ~ ~ ~ {VariantName:taiga_river}",
+            "name": "Taiga River"
+        } 
+    ]
+}

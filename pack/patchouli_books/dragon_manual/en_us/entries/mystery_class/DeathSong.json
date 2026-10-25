@@ -1,0 +1,162 @@
+{
+    "name": "Deathsong",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:deathsong}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Deathsong"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:deathsong}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Bone Feed Bundle<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:deathsong}",
+            "text": "$(4)Spawn Locations$():<br>- Forst<br>- Flower Forest<br>- Birch Forest<br>- Savanna<br>- Jungle<br>- Swamp<br>- Mountains<br>- Stony Peaks<br><br>$(3)Variants$():<br>- Deathsong has 17 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:avada_kedavra}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:avada_kedavra}",
+            "name": "Avada Kedavra"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong}",
+            "name": "Deathsong"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_black}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_black}",
+            "name": "Deathsong Black"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_bull}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_bull}",
+            "name": "Deathsong Bull"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_candy}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_candy}",
+            "name": "Deathsong Candy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_dg}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_dg}",
+            "name": "Deathsong DG"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_floral}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_floral}",
+            "name": "Deathsong Floral"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_green}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_green}",
+            "name": "Deathsong Green"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_kaidou}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_kaidou}",
+            "name": "Deathsong Kaidou"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_monarch}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_monarch}",
+            "name": "Deathsong Monarch"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_mosura}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_mosura}",
+            "name": "Deathsong Mosura"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_mosura_orange}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_mosura_orange}",
+            "name": "Deathsong Mosura Orange"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_nadder}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_nadder}",
+            "name": "Deathsong Nadder"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_pastel}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_pastel}",
+            "name": "Deathsong Pastel"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_purple}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_purple}",
+            "name": "Deathsong Purple"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_redfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_redfly}",
+            "name": "Deathsong Redfly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:deathsong_white}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:deathsong_white}",
+            "name": "Deathsong White"
+        }
+    ]
+}

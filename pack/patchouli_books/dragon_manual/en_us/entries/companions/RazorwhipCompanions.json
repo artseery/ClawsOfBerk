@@ -1,0 +1,34 @@
+{
+    "name": "Razorwhip Companions",
+    "icon": "isleofberk:nadder_egg{VariantName:tully_and_razor}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:tully_and_razor}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Razorwhip Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:tully_and_razor}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Sea Slugs<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:tully_and_razor}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Razorwhip Companion has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:tully_and_razor}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:tully_and_razor}",
+            "name": "Tully & Razor"
+        } 
+    ]
+}

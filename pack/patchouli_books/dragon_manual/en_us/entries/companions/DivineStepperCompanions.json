@@ -1,0 +1,34 @@
+{
+    "name": "Divine Stepper Companions",
+    "icon": "isleofberk:light_fury_egg{VariantName:atari_and_ryria}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:atari_and_ryria}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Divine Stepper Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:atari_and_ryria}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>-Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:atari_and_ryria}",
+            "text": "$(4)Spawn Locations$():<br>- Biomes with Pillager outpost Structure<br><br>$(3)Variants$():<br>- Divine Stepper Companion has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:atari_and_ryria}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:atari_and_ryria}",
+            "name": "Atari & Ryria"
+        } 
+    ]
+}

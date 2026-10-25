@@ -1,0 +1,195 @@
+{
+    "name": "Red Death",
+    "icon": "isleofberk:gronckle_egg{VariantName:red_death}",
+    "category": "patchouli:stoker_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:red_death}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- Across the lands of HTTYD you can find these dragons in various structures",
+            "name": "Red Death"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:red_death}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br>$(2)Taming Food$():<br>- Burned Yak Meat<br>$(6)Taming Requirements$():<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:red_death}",
+            "text": "$(4)Red Death Nest$():<br>- Badlands<br><br>$(4)Titan Red Death Sanctuary$():<br>- Badlands<br><br>$(4)Dragon Island$():<br>- Deep Ocean<br><br>$(3)Variants$():<br>- Red Death has 21 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:red_death}",
+            "name": "Red Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:albino_red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:albino_red_death}",
+            "name": "Albino Red Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:bloodberry}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:bloodberry}",
+            "name": "Blood Berry"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:coral_guardian}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:coral_guardian}",
+            "name": "Coral Guardian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:dark_violet}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:dark_violet}",
+            "name": "Dark Violet"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:dust_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:dust_death}",
+            "name": "Dust Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:frozen_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:frozen_death}",
+            "name": "Frozen Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:green_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:green_death}",
+            "name": "Green Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:live_action_red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:live_action_red_death}",
+            "name": "Live Action Red Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:magma_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:magma_death}",
+            "name": "Magma Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:mama_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:mama_death}",
+            "name": "Mama Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:mangrove_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:mangrove_death}",
+            "name": "Mangrove Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:melenastic_red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:melenastic_red_death}",
+            "name": "Melenastic Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:ocean_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:ocean_death}",
+            "name": "Ocean Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:pink_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:pink_death}",
+            "name": "Pink Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:prismarine_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:prismarine_death}",
+            "name": "Prismarine Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:pygmy_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:pygmy_death}",
+            "name": "Pygmy Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:titan_red_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:titan_red_death}",
+            "name": "Titan Red Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:violet_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:violet_death}",
+            "name": "Violet Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:zombie_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:zombie_death}",
+            "name": "Zombie Death"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:polar_death}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:polar_death}",
+            "name": "Polar Death"
+        }
+    ]
+}

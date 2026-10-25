@@ -1,0 +1,34 @@
+{
+    "name": "Monstrous Nightmare Companions",
+    "icon": "isleofberk:monstrous_nightmare_egg{VariantName:snotlout_and_hookfang}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:snotlout_and_hookfang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Monstrous Nightmare Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:snotlout_and_hookfang}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Pork<br>- Raw Mutton<br>$(6)Taming Requirements$():<br>- Fire Resistance effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:monstrous_nightmare_egg{VariantName:snotlout_and_hookfang}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Monstrous Nightmare Companion has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:monstrous_nightmare{VariantName:snotlout_and_hookfang}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:monstrous_nightmare ~ ~ ~ {VariantName:snotlout_and_hookfang}",
+            "name": "Snotlout & Hookfang"
+        } 
+    ]
+}

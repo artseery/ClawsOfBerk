@@ -1,0 +1,130 @@
+{
+    "name": "Alpha Speed Stryke",
+    "icon": "isleofberk:triple_stryke_egg{VariantName:alpha_speed_stryke}",
+    "category": "patchouli:sharp_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Alpha Speed Stryke"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:alpha_speed_stryke}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Beef<br>- Raw Rabbit<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:triple_stryke_egg{VariantName:alpha_speed_stryke}",
+            "text": "$(4)Spawn Locations$():<br>- Hunter Flagship Structure<br><br>$(3)Variants$():<br>- Alpha Speed Stryke has 13 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_speed_stryke}",
+            "name": "Alpha Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:albino_alpha_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:albino_alpha_speed_stryke}",
+            "name": "Albino Alpha Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:gingerbread}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:gingerbread}",
+            "name": "Bakery Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_blood_stalker}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_blood_stalker}",
+            "name": "Alpha Blood Stalker"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_coleure}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_coleure}",
+            "name": "Alpha Coleure"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_cotton_candy}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_cotton_candy}",
+            "name": "Alpha Cotton Candy"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:error}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:error}",
+            "name": "Error Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:timber}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:timber}",
+            "name": "Forest Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:melanistic_alpha_speed_stryke}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:melanistic_alpha_speed_stryke}",
+            "name": "Melanistic Alpha Speed Stryke"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:oceanus}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:oceanus}",
+            "name": "Poseidon Alpha"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_scorpian}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_scorpian}",
+            "name": "Alpha Scorpian"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_soulrunner}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_soulrunner}",
+            "name": "Alpha Soulrunner"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:triple_stryke{VariantName:alpha_white_stripes}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:triple_stryke ~ ~ ~ {VariantName:alpha_white_stripes}",
+            "name": "Alpha White Stripes"
+        } 
+    ]
+}

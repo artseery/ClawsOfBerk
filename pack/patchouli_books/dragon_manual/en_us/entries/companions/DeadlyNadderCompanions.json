@@ -1,0 +1,50 @@
+{
+    "name": "Deadly Nadder Companions",
+    "icon": "isleofberk:nadder_egg{VariantName:astrid_and_stormfly}", 
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:astrid_and_stormfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Deadly Nadder Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:astrid_and_stormfly}",
+            "text": "$(4)Breeding Food$():<br>- Suspicious Stew<br>- Sagefruit<br><br>$(2)Taming Food$():<br>- Raw Chicken<br>$(6)Taming Requirements$():<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:nadder_egg{VariantName:astrid_and_stormfly}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Deadly Nadder Companion has 3 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:astrid_and_stormfly}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:astrid_and_stormfly}",
+            "name": "Astrid & Stormfly"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:flux_and_toffee}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:flux_and_toffee}",
+            "name": "Flux & Toffee"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:deadly_nadder{VariantName:raider_and_rebecca}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:deadly_nadder ~ ~ ~ {VariantName:raider_and_rebecca}",
+            "name": "Raider & Rebecca"
+        } 
+    ]
+}

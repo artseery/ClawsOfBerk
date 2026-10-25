@@ -1,0 +1,58 @@
+{
+    "name": "Night Fury Companions",
+    "icon": "isleofberk:night_fury_egg{VariantName:hiccup_and_toothless}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:hiccup_and_toothless}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Night Fury Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:hiccup_and_toothless}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br><br>$(2)Befriending Gifts$():<br>- Rune<br>$(6)Taming Requirements$():<br>- Night Vision effect<br>- No armour equipped<br>- No held tools/weapons",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:night_fury_egg{VariantName:hiccup_and_toothless}",
+            "text": "$(4)Spawn Locations$():<br>- Dragon Hunter Banner Ship<br>- Dragon Hunter Flag Ship<br><br>$(3)Variants$():<br>- Night Fury Companion has 4 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:hiccup_and_toothless}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:hiccup_and_toothless}",
+            "name": "Hiccup & Toothless"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:alternate_hiccup}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:alternate_hiccup}",
+            "name": "Alternate Hiccup"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:darkk_and_giggle}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:darkk_and_giggle}",
+            "name": "Darkk & Giggle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:night_fury{VariantName:silent_and_blaze}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:night_fury ~ ~ ~ {VariantName:silent_and_blaze}",
+            "name": "Silent & Blaze"
+        } 
+    ]
+}

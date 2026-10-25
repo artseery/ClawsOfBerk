@@ -1,0 +1,178 @@
+{
+    "name": "Flightmare",
+    "icon": "isleofberk:skrill_egg{VariantName:flightmare}",
+    "category": "patchouli:mystery_class",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Flightmare"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:flightmare}",
+            "text": "$(4)Breeding Food$():<br>- Sagefruit<br>- Sagefruit<br>$(2)Taming Food$():<br>- Glowing Algae<br>$(6)Taming Requirements$():<br>- Violence, reduce dragon HP to under 25%<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:skrill_egg{VariantName:flightmare}",
+            "text": "$(4)Spawn Locations$():<br>- River<br>- Taiga<br>- Frozen River<br><br>$(3)Variants$():<br>- Flightmare has 19 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:flightmare}",
+            "name": "Flightmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:albino_aura}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:albino_aura}",
+            "name": "Albino Flightmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:brimstone}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:brimstone}",
+            "name": "Brimstone"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:ecto}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:ecto}",
+            "name": "Ecto"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:flaredawn}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:flaredawn}",
+            "name": "Flaredawn"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:jewel}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:jewel}",
+            "name": "Jewel"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:lux_divina}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:lux_divina}",
+            "name": "Lux Divina"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:melanistic_flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:melanistic_flightmare}",
+            "name": "Melanistic Flightmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:shockwave}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:shockwave}",
+            "name": "Shockwave"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:summershine}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:summershine}",
+            "name": "Summershine"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:trancemare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:trancemare}",
+            "name": "Trancemare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:firemare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:firemare}",
+            "name": "Firemare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_flightmare}",
+            "name": "Titan Flightmare"        
+	},
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_deepdark}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_deepdark}",
+            "name": "Titan Deepdark"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_pretty_pink}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_pretty_pink}",
+            "name": "Titan Pretty Pink"        
+	},
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_ghostly_lavender}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_ghostly_lavender}",
+            "name": "Titan Ghostly Lavender"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_radioactive}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_radioactive}",
+            "name": "Titan Radioactive"        
+	},
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_albino_flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_albino_flightmare}",
+            "name": "Titan Albino Flightmare"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:skrill{VariantName:titan_melanistic_flightmare}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:skrill ~ ~ ~ {VariantName:titan_melanistic_flightmare}",
+            "name": "Titan Melanistic Flightmare"
+        } 
+    ]
+}

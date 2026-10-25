@@ -1,0 +1,12 @@
+name = "ClawsOfBerk"
+version = "3.2.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e0114b4a1288eea990cd6d88b145b7e9418f35dd73514405df63096881ed5d6"
+
+[versions]
+forge = "40.3.12"
+minecraft = "1.18.2"

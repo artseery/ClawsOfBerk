@@ -1,0 +1,18 @@
+
+[slime]
+	#Slime Blobs Enabled
+	enabled = false
+
+[charge]
+	#Charge Particle Enabled
+	enabled = false
+
+[waterCircle]
+	#Water Circles Enabled
+	enabled = false
+	#Water Circles Colored
+	colored = false
+	#Water Circles Density
+	#Range: 0 ~ 64
+	density = 0
+

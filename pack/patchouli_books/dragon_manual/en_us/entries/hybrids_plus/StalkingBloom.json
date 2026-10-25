@@ -1,0 +1,170 @@
+{
+    "name": "StalkingBloom",
+    "icon": "isleofberk:light_fury_egg{VariantName:lush_sights}",
+    "category": "patchouli:hybrids_plus",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lush_sights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "StalkingBloom"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:lush_sights}",
+            "text": "$(4)Breeding Food$():<br>- Honeycomb<br>- Sagefruit<br>$(2)Taming Food$():<br>- Raw Cod<br>- Raw Salmon<br>$(6)Taming Requirements$():<br>- Invisibility or Night Vision effect<br>- No armour equipped<br>- No held tools/weapons<br>- Mounting required to tame adults",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:light_fury_egg{VariantName:lush_sights}",
+            "text": "$(4)Spawn Locations$():<br>- Flower Forest<br>- Dark Forest<br>- Jungle<br>- Meadow<br>- Sunflower Plains<br>- Sparse Jungle<br><br>$(3)Variants$():<br>- StalkingBloom has 18 variants",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:ancient_calls}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:ancient_calls}",
+            "name": "Ancient Calls"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:ancient_sights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:ancient_sights}",
+            "name": "Ancient Sights"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:dark_dreams}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:dark_dreams}",
+            "name": "Dark Dreams"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:dark_oversight}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:dark_oversight}",
+            "name": "Dark Oversight"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:desert_overgrowth}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:desert_overgrowth}",
+            "name": "Desert Overgrowth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:desert_sights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:desert_sights}",
+            "name": "Desert Sights"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:haunted_blooms}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:haunted_blooms}",
+            "name": "Haunted Blooms"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:haunted_light}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:haunted_light}",
+            "name": "Haunted Light"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lush_overgrowth}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:lush_overgrowth}",
+            "name": "Lush Overgrowth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:lush_sights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:lush_sights}",
+            "name": "Lush Sights"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:pale_overgrowth}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:pale_overgrowth}",
+            "name": "Pale Overgrowth"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:pale_sights}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:pale_sights}",
+            "name": "Pale Sights"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:aether_forest}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:aether_forest}",
+            "name": "Aether Forest"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:aster_thistle}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:aster_thistle}",
+            "name": "Aster Thistle"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:coneflower_fields}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:coneflower_fields}",
+            "name": "Coneflower Fields"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:cyan_rose_twin}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:cyan_rose_twin}",
+            "name": "Cyan Rose Twin"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:forest_blanket}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:forest_blanket}",
+            "name": "Forest Blanket"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:light_fury{VariantName:red_rose_twin}",
+            "scale": "0.4",
+            "rotate": "true",
+            "text": "- /summon isleofberk:light_fury ~ ~ ~ {VariantName:red_rose_twin}",
+            "name": "Red Rose Twin"
+        } 
+    ]
+}

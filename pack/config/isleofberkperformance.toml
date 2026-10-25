@@ -1,0 +1,41 @@
+
+#Isle of Berk Performance Patches common configuration.
+#These controls intentionally change gameplay timing or visual cadence.
+#For AI movement, set an interval to 1 to disable that cadence optimization and use every eligible request.
+#When throttling is enabled, the first eligible request after a goal starts runs immediately.
+#Later due decisions are computed once per goal tick: every configured interval, all intended calls on that tick run.
+#Damage cadence is not configurable and remains fixed at 20 ticks.
+[performance]
+	#Whether repeated AI navigation movement requests are throttled.
+	#Upstream/normal behavior: false (no throttle; movement requests may be issued every tick).
+	#Optimized default: true. Tradeoff: navigation requests are less frequent and movement response can be less immediate.
+	ai_move_throttling_enabled = true
+	#AI movement-request interval in goal ticks when throttling is enabled.
+	#Upstream/normal behavior: 1 tick. Optimized default: 4 ticks.
+	#The first eligible request after a goal starts runs immediately; later due ticks use this interval.
+	#On a due tick every intended movement/circle call may run; on a skip tick all of them are skipped.
+	#Tradeoff: larger intervals reduce AI/navigation work but can make following or flight corrections less responsive.
+	#1 disables cadence optimization for this control.
+	#Range: 1 ~ 20
+	ai_move_interval_ticks = 4
+	#Server-side egg temperature and hatch-progress check interval in ticks.
+	#Upstream/normal behavior in Isle of Berk 1.2.0: 20 ticks. Optimized default: 20 ticks.
+	#Upstream/normal behavior is already 20 ticks; retaining 20 preserves its hatch timing granularity.
+	#Lower values check more often and can change hatch timing while increasing server work.
+	#Range: 1 ~ 200
+	egg_hatch_check_interval_ticks = 20
+	#Shock-effect particle packet interval in ticks (visual cadence only).
+	#Upstream/normal behavior in Isle of Berk 1.2.0: 8 ticks. Optimized default: 8 ticks.
+	#Upstream/normal behavior is already 8 ticks; retaining 8 preserves its visual cadence.
+	#Lower values send more packets and make shock visuals denser at higher network/client cost.
+	#Damage remains fixed at the upstream 20-tick cadence and is not changed by this key.
+	#Range: 1 ~ 200
+	shock_particle_interval_ticks = 8
+	#Maximum number of parsed structure templates retained by the performance companion cache.
+	#The cache uses soft values so the JVM may reclaim templates under memory pressure.
+	#The 1.3.5 value of 64 can cause repeated eviction and reparsing in structure-heavy packs.
+	#Optimized test default: 512. Larger values retain more cache keys/templates; smaller values can increase parsing and CPU work.
+	#Set to the minimum value supported by this candidate only; changes take effect after a server restart.
+	#Range: 64 ~ 4096
+	structure_cache_max_entries = 512
+

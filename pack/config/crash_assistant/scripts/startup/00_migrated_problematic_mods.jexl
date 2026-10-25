@@ -1,0 +1,16 @@
+var mods = ModListUtils.getCurrentModListMappedToModId();
+
+var m_essential_container = mods.get("essential-container");
+if (m_essential_container != null) {
+    var warn = Startup.addCrashWarning("<strong>Essential Mod Not Supported</strong>\n\nEssential is not supported by Claws of Berk. It introduces countless issues, UI clashes, in-game issues, performance problems and more. Use the e4mc or Plug-n-Play Mod instead! If you want a proper Server, check the #create-a-server channel in our Discord for a complete guide to setup your own. LAN hosting in modded has many issues and drawbacks!");
+    warn.withModActions(m_essential_container);
+    Startup.markForCrash();
+}
+
+var m_celestial = mods.get("celestial_variants");
+if (m_celestial != null) {
+    var warn = Startup.addCrashWarning("<strong>Celestial Variants Not Supported</strong>\n\nCelestial Variants is not compatible with Claws of Berk. It contains stolen variants from various Authors, which have already been included in this Modpack by their original Authors.");
+    warn.withModActions(m_celestial);
+    Startup.markForCrash();
+}
+

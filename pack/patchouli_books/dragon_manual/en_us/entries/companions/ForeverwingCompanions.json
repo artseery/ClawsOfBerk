@@ -1,0 +1,34 @@
+{
+    "name": "Foreverwing Companions",
+    "icon": "isleofberk:gronckle_egg{VariantName:niek_and_tsuni}",
+    "category": "patchouli:companions",
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:niek_and_tsuni}",
+            "scale": "0.4",
+            "rotate": "true",
+            "name": "Foreverwing Companions"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:niek_and_tsuni}",
+            "text": "$(4)Breeding Food$():<br>- Unbreedable<br><br>$(2)Taming Food$():<br>- Leafy Deer Venison",
+            "title": "Information Page 1"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "isleofberk:gronckle_egg{VariantName:niek_and_tsuni}",
+            "text": "$(4)Tropical sanctuary$():<br>- Desert<br><br>$(3)Variants$():<br>- Foreverwing Companion has 1 variant",
+            "title": "Information Page 2"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "isleofberk:gronckle{VariantName:niek_and_tsuni}",
+            "scale": "0.5",
+            "rotate": "true",
+            "text": "- /summon isleofberk:gronckle ~ ~ ~ {VariantName:niek_and_tsuni}",
+            "name": "Niek & Tsuni"
+        } 
+    ]
+}
