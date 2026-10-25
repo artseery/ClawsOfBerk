@@ -100,7 +100,9 @@ UNIT_DIR="$HOME/.config/systemd/user"
 mkdir -p "$UNIT_DIR"
 ln -sfn "$ROOT/server/minecraft-clawsofberk.service" "$UNIT_DIR/minecraft-clawsofberk.service"
 systemctl --user daemon-reload
-systemctl --user reset-failed minecraft-clawsofberk.service
+# On first install systemd has not loaded this unit yet, so reset-failed can
+# return "Unit not loaded". Starting it below loads the unit normally.
+systemctl --user reset-failed minecraft-clawsofberk.service >/dev/null 2>&1 || true
 
 printf '%s\n' 'Starting test instance on 127.0.0.1:25566...'
 systemctl --user start minecraft-clawsofberk.service
