@@ -1,0 +1,8 @@
+name = "FastSuite-1.18.2-3.0.2"
+filename = "FastSuite-1.18.2-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FastSuite-1.18.2-3.0.2.jar"
+hash-format = "sha256"
+hash = "094877c11e159d155ef92be55f7fc5b9be59c6a9125b8f190ead1b2972ff6745"

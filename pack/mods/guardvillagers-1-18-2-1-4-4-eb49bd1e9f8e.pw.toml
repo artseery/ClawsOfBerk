@@ -1,0 +1,8 @@
+name = "guardvillagers-1.18.2.1.4.4"
+filename = "guardvillagers-1.18.2.1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/guardvillagers-1.18.2.1.4.4.jar"
+hash-format = "sha256"
+hash = "eb49bd1e9f8ea8666c06d28477284555d70413858a9eebc6626eee4d5fa5c0e6"

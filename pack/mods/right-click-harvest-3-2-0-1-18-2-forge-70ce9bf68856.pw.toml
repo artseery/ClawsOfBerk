@@ -1,0 +1,8 @@
+name = "right-click-harvest-3.2.0+1.18.2-forge"
+filename = "right-click-harvest-3.2.0+1.18.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/right-click-harvest-3.2.0%2B1.18.2-forge.jar"
+hash-format = "sha256"
+hash = "70ce9bf68856cb4fae00409ec091674f54c10fb5681873f29e987cd5ffa4e074"

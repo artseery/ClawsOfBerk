@@ -1,0 +1,8 @@
+name = "servercore-forge-1.3.5+1.18.2"
+filename = "servercore-forge-1.3.5+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/servercore-forge-1.3.5%2B1.18.2.jar"
+hash-format = "sha256"
+hash = "18084e053da000eb76ce6bd3b9a4ae185061a89bcc42450ee1eca1f7970097fb"

@@ -1,0 +1,8 @@
+name = "NightConfigFixes-v3.0.2-1.18.2-Forge"
+filename = "NightConfigFixes-v3.0.2-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/NightConfigFixes-v3.0.2-1.18.2-Forge.jar"
+hash-format = "sha256"
+hash = "5a2d15e77b2f6347e7cc2ab1d0f2ad4106d7ae4b7327787feb06709ae10f8f65"

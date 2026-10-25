@@ -1,0 +1,8 @@
+name = "Patchouli-1.18.2-71.1"
+filename = "Patchouli-1.18.2-71.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Patchouli-1.18.2-71.1.jar"
+hash-format = "sha256"
+hash = "1bcd352f81124b24832b536b62c138663682527886d4aaced595e7baa50e3ebb"

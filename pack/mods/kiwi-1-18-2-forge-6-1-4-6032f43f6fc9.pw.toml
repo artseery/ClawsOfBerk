@@ -1,0 +1,8 @@
+name = "Kiwi-1.18.2-forge-6.1.4"
+filename = "Kiwi-1.18.2-forge-6.1.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Kiwi-1.18.2-forge-6.1.4.jar"
+hash-format = "sha256"
+hash = "6032f43f6fc96ec3005e72da055d4804461bc4d244ccc3ad66daed569db2cc2c"

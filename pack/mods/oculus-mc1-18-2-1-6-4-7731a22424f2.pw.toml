@@ -1,0 +1,8 @@
+name = "oculus-mc1.18.2-1.6.4"
+filename = "oculus-mc1.18.2-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/oculus-mc1.18.2-1.6.4.jar"
+hash-format = "sha256"
+hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"

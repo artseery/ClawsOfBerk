@@ -1,0 +1,8 @@
+name = "ferritecore-4.2.2-forge"
+filename = "ferritecore-4.2.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/ferritecore-4.2.2-forge.jar"
+hash-format = "sha256"
+hash = "f8bf79f6eb2e31dc1e347697c18effdc87ac9d1c7e7060c50ffdef3ad41da139"

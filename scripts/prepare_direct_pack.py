@@ -11,8 +11,8 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "pack"
 ARTIFACTS = ROOT / "artifacts"
-EXPECTED = {"mods": (".jar", 143), "shaderpacks": (".zip", 6),
-            "resourcepacks": (".zip", 3)}
+SOURCE_FILES = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
+OPTIONAL = {"Fastquit-3.0.2+1.18.2forge.jar"}
 
 
 def main() -> None:
@@ -25,16 +25,21 @@ def main() -> None:
 
     planned = {}
     total_bytes = 0
-    for folder, (extension, count) in EXPECTED.items():
+    for folder, expected in SOURCE_FILES.items():
         directory = ARTIFACTS / folder
-        files = sorted(directory.glob("*")) if directory.is_dir() else []
-        files = [p for p in files if p.is_file() and p.suffix.lower() == extension]
-        if len(files) != count:
-            parser.error(f"{folder}: found {len(files)} {extension} files; expected {count} from source manifest")
+        files = sorted(p for p in directory.iterdir() if p.is_file() and p.suffix.lower() in {".jar", ".zip"})
+        actual = {p.name for p in files}
+        required = set(expected) - OPTIONAL
+        missing = required - actual
+        extra = actual - set(expected)
+        if missing or extra:
+            parser.error(f"{folder}: missing {sorted(missing)}, unexpected {sorted(extra)}")
         for file in files:
             if file.stat().st_size >= 100 * 1024 * 1024:
                 parser.error(f"{file} exceeds GitHub's 100 MiB file limit")
             data = file.read_bytes()
+            if hashlib.sha1(data).hexdigest() != expected[file.name]:
+                parser.error(f"{file}: SHA-1 differs from original modpack")
             total_bytes += len(data)
             digest = hashlib.sha256(data).hexdigest()
             safe_name = re.sub(r"[^a-z0-9]+", "-", file.stem.lower()).strip("-")[:80]

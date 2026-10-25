@@ -1,0 +1,8 @@
+name = "do-a-barrel-roll-2.5.3+1.18.2-forge"
+filename = "do-a-barrel-roll-2.5.3+1.18.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/do-a-barrel-roll-2.5.3%2B1.18.2-forge.jar"
+hash-format = "sha256"
+hash = "1de746a755cac634ecbba6bb3e6b7b65ac0bcbd224421074565deb9396ce1454"

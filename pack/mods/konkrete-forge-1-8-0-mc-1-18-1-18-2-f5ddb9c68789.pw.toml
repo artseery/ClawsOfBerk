@@ -1,0 +1,8 @@
+name = "konkrete_forge_1.8.0_MC_1.18-1.18.2"
+filename = "konkrete_forge_1.8.0_MC_1.18-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/konkrete_forge_1.8.0_MC_1.18-1.18.2.jar"
+hash-format = "sha256"
+hash = "f5ddb9c687890cf244e4a039a31fdf23d95eaadbc29a0a7bd1fd6a68af5a6d9d"

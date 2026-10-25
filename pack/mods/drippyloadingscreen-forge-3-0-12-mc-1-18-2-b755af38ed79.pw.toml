@@ -1,0 +1,8 @@
+name = "drippyloadingscreen_forge_3.0.12_MC_1.18.2"
+filename = "drippyloadingscreen_forge_3.0.12_MC_1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/drippyloadingscreen_forge_3.0.12_MC_1.18.2.jar"
+hash-format = "sha256"
+hash = "b755af38ed79c266dc28c237dbd6bae5efd63cb595e0856e414361287aff4aae"

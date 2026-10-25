@@ -1,0 +1,8 @@
+name = "iobvariantloader-2.7.0-all"
+filename = "iobvariantloader-2.7.0-all.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/iobvariantloader-2.7.0-all.jar"
+hash-format = "sha256"
+hash = "218f652a7edbed88346c847827cfcdb967aee754bc5f19a2bc6108c32f842df5"

@@ -1,0 +1,8 @@
+name = "nopackcompatcheck-0.1.0-forge-mc1.18.2-all"
+filename = "nopackcompatcheck-0.1.0-forge-mc1.18.2-all.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/nopackcompatcheck-0.1.0-forge-mc1.18.2-all.jar"
+hash-format = "sha256"
+hash = "28c75b5aded0dfbdb7064244a914c72832f280bfc513e907fe5e9b820c7b6967"

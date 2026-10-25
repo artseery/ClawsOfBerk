@@ -1,0 +1,8 @@
+name = "justzoom_forge_2.1.1_MC_1.18.2"
+filename = "justzoom_forge_2.1.1_MC_1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/justzoom_forge_2.1.1_MC_1.18.2.jar"
+hash-format = "sha256"
+hash = "372bd9258e701c6f80f2b6332770bb2b7b47bd4829743a0bd103f4c6786d42c8"

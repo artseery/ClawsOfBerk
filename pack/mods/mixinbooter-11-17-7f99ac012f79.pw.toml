@@ -1,0 +1,8 @@
+name = "!mixinbooter-11.17"
+filename = "!mixinbooter-11.17.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/%21mixinbooter-11.17.jar"
+hash-format = "sha256"
+hash = "7f99ac012f792a5effaea0733daf3d8df0ebd9a2ee9f65f678e927ddc073ec88"

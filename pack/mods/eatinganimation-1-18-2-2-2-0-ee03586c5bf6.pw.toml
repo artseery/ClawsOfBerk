@@ -1,0 +1,8 @@
+name = "eatinganimation-1.18.2-2.2.0"
+filename = "eatinganimation-1.18.2-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/eatinganimation-1.18.2-2.2.0.jar"
+hash-format = "sha256"
+hash = "ee03586c5bf628f1671eb60f02e105b098ae149adbbb654222b30ecb50fa0a31"

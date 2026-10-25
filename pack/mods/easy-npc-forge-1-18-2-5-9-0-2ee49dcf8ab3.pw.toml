@@ -1,0 +1,8 @@
+name = "easy_npc-forge-1.18.2-5.9.0"
+filename = "easy_npc-forge-1.18.2-5.9.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/easy_npc-forge-1.18.2-5.9.0.jar"
+hash-format = "sha256"
+hash = "2ee49dcf8ab3cfccb843b67afbed586dbdf4d310f9e5ebc88d52878548cd3142"

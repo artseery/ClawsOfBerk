@@ -1,0 +1,8 @@
+name = "entityculling-forge-1.6.1-mc1.18.2"
+filename = "entityculling-forge-1.6.1-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/entityculling-forge-1.6.1-mc1.18.2.jar"
+hash-format = "sha256"
+hash = "2a83b7a06c234bd68f0786d7c30b9f456dbf9a70fe272a10a5cd7a01bb6e09cb"

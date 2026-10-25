@@ -1,0 +1,8 @@
+name = "AI-Improvements-1.18.2-0.5.2"
+filename = "AI-Improvements-1.18.2-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/AI-Improvements-1.18.2-0.5.2.jar"
+hash-format = "sha256"
+hash = "89b85e51e9c18964246ccd9d10a3e5ea2e79dc18b95665586752e6afae7c852a"

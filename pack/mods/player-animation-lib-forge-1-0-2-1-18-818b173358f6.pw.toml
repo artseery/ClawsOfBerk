@@ -1,0 +1,8 @@
+name = "player-animation-lib-forge-1.0.2+1.18"
+filename = "player-animation-lib-forge-1.0.2+1.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/player-animation-lib-forge-1.0.2%2B1.18.jar"
+hash-format = "sha256"
+hash = "818b173358f6d8855217a43ee3701377a56d71a1c3d28b12d9238949f1610606"

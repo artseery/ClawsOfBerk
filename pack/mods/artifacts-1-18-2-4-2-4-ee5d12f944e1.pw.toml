@@ -1,0 +1,8 @@
+name = "artifacts-1.18.2-4.2.4"
+filename = "artifacts-1.18.2-4.2.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/artifacts-1.18.2-4.2.4.jar"
+hash-format = "sha256"
+hash = "ee5d12f944e1318ca8f949450b0a41eaf8495a07e500bcdaaaa2c72ea2526d9c"

@@ -1,0 +1,8 @@
+name = "corpse-1.18.2-1.0.1"
+filename = "corpse-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/corpse-1.18.2-1.0.1.jar"
+hash-format = "sha256"
+hash = "3e3ca61b420f8d1bc986c0dcbf95df2c4c8b03155b003843f4ca98505ec3bc80"

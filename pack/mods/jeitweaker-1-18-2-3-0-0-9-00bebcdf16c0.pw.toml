@@ -1,0 +1,8 @@
+name = "JEITweaker-1.18.2-3.0.0.9"
+filename = "JEITweaker-1.18.2-3.0.0.9.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/JEITweaker-1.18.2-3.0.0.9.jar"
+hash-format = "sha256"
+hash = "00bebcdf16c086504ce70422b066ae307083960313bbdb1d845d936281cebb7d"

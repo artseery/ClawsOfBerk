@@ -1,0 +1,8 @@
+name = "saturn-mc1.18.2-0.1.5"
+filename = "saturn-mc1.18.2-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/saturn-mc1.18.2-0.1.5.jar"
+hash-format = "sha256"
+hash = "5516235e8d80c94e458f7e927de24a59827c0ddee3cc32c2b3dceccf7ddf4f7f"

@@ -1,0 +1,8 @@
+name = "veinmining-forge-1.18.2-0.22"
+filename = "veinmining-forge-1.18.2-0.22.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/veinmining-forge-1.18.2-0.22.jar"
+hash-format = "sha256"
+hash = "812f394928d9399d82cd7aad9ebdb34cfb7fa0052b7de746618615cfe2b86a70"

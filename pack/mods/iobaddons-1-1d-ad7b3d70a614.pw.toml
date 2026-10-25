@@ -1,0 +1,8 @@
+name = "IoBAddons-1.1d"
+filename = "IoBAddons-1.1d.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/IoBAddons-1.1d.jar"
+hash-format = "sha256"
+hash = "ad7b3d70a6147c2e689e5c364be14394dd936352da0d452f0b9351b77363726b"

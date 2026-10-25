@@ -1,0 +1,8 @@
+name = "memoryleakfix-forge-1.17+-1.0.0"
+filename = "memoryleakfix-forge-1.17+-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/memoryleakfix-forge-1.17%2B-1.0.0.jar"
+hash-format = "sha256"
+hash = "27272de0683259d898c4141a86a1d08873ba86a72522fba94cb6331e955715d4"

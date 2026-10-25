@@ -1,0 +1,8 @@
+name = "DragonFeed-1.0.2"
+filename = "DragonFeed-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/DragonFeed-1.0.2.jar"
+hash-format = "sha256"
+hash = "9c2a5914671b134b60c4b6a2372c63bc05c7427f59721fdf3c152569898a2d70"

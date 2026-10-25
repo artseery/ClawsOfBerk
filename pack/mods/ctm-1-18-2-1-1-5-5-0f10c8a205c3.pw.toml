@@ -1,0 +1,8 @@
+name = "CTM-1.18.2-1.1.5+5"
+filename = "CTM-1.18.2-1.1.5+5.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/CTM-1.18.2-1.1.5%2B5.jar"
+hash-format = "sha256"
+hash = "0f10c8a205c3b9e2da0f61822f7f850e2593e3cf61845c1fc12d7213eab87fcc"

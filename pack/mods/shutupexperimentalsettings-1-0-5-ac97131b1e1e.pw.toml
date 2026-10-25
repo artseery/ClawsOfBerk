@@ -1,0 +1,8 @@
+name = "shutupexperimentalsettings-1.0.5"
+filename = "shutupexperimentalsettings-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/shutupexperimentalsettings-1.0.5.jar"
+hash-format = "sha256"
+hash = "ac97131b1e1e9e21e0f855d093ef96ce8ac0aa172c0399d65be95df03af6caab"

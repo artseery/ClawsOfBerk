@@ -1,0 +1,8 @@
+name = "archipelagoadditions-2.5.5-1.18.2"
+filename = "archipelagoadditions-2.5.5-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/archipelagoadditions-2.5.5-1.18.2.jar"
+hash-format = "sha256"
+hash = "78a4c090d18eacf0d13c44884e6309f990005b88fb401c8a6b7836319f6b3111"

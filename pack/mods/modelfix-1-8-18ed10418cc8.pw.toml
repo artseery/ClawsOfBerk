@@ -1,0 +1,8 @@
+name = "modelfix-1.8"
+filename = "modelfix-1.8.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/modelfix-1.8.jar"
+hash-format = "sha256"
+hash = "18ed10418cc81086dbfd43da8eff437ad38e425582376b0abd9ea600a22f136d"

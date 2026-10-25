@@ -1,0 +1,8 @@
+name = "Fallingleaves-1.18.2-1.3.2"
+filename = "Fallingleaves-1.18.2-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Fallingleaves-1.18.2-1.3.2.jar"
+hash-format = "sha256"
+hash = "fcfad5d6662d86bb0ef707603fa3ea611fa56a0f83e2ffd4480da67436be3153"

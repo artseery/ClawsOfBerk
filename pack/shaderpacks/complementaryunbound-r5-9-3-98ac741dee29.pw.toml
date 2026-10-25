@@ -1,0 +1,8 @@
+name = "ComplementaryUnbound_r5.9.3"
+filename = "ComplementaryUnbound_r5.9.3.zip"
+side = "client"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/shaderpacks/ComplementaryUnbound_r5.9.3.zip"
+hash-format = "sha256"
+hash = "98ac741dee294d2a3c82d153349148c3bb7fb688c30eb3b49c3b9ac37e968c5a"

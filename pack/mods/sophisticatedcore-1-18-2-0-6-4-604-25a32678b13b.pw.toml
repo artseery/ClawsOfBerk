@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1.18.2-0.6.4.604"
+filename = "sophisticatedcore-1.18.2-0.6.4.604.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/sophisticatedcore-1.18.2-0.6.4.604.jar"
+hash-format = "sha256"
+hash = "25a32678b13b06c1b1aa0ed9e9e244eb1b33d5095989758684e51dc014125627"

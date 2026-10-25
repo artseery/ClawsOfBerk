@@ -1,0 +1,8 @@
+name = "dragon_fire_variants-1.7.0"
+filename = "dragon_fire_variants-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/dragon_fire_variants-1.7.0.jar"
+hash-format = "sha256"
+hash = "ff72799c927fcb7779a5b608db35fad991d7c2044d3ad2ccd7bc4f2b9438b64c"

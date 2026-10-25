@@ -1,0 +1,8 @@
+name = "bettercombat-forge-1.6.2+1.18.2"
+filename = "bettercombat-forge-1.6.2+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/bettercombat-forge-1.6.2%2B1.18.2.jar"
+hash-format = "sha256"
+hash = "1d76dd2b54978941200873e8bd897e27de0506504d95bc309296f5a9557c75b4"

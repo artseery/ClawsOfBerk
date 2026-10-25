@@ -1,0 +1,8 @@
+name = "geckolib-forge-1.18-3.0.57"
+filename = "geckolib-forge-1.18-3.0.57.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/geckolib-forge-1.18-3.0.57.jar"
+hash-format = "sha256"
+hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"

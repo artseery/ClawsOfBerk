@@ -1,0 +1,8 @@
+name = "CrashAssistant-forge-1.18.2-1.11.12"
+filename = "CrashAssistant-forge-1.18.2-1.11.12.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/CrashAssistant-forge-1.18.2-1.11.12.jar"
+hash-format = "sha256"
+hash = "bee8d6dd98e4ff22adff933cfb8ff94adb48ad5321ee18019d277a18b046a04c"

@@ -1,0 +1,8 @@
+name = "libIPN-forge-1.18.2-4.0.2"
+filename = "libIPN-forge-1.18.2-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/libIPN-forge-1.18.2-4.0.2.jar"
+hash-format = "sha256"
+hash = "f3835354dbde85ad8a5523a0656a6f21546916abaf08eb96da79a9472cd22df9"

@@ -1,0 +1,8 @@
+name = "melody_forge_1.0.1_MC_1.18.2"
+filename = "melody_forge_1.0.1_MC_1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/melody_forge_1.0.1_MC_1.18.2.jar"
+hash-format = "sha256"
+hash = "5029f2936d858bbf776a9bdff61718ff09641a83247a1802d538bd367ecae7cf"

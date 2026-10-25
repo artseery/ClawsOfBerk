@@ -1,0 +1,8 @@
+name = "soundphysics-forge-1.18.2-1.0.6"
+filename = "soundphysics-forge-1.18.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/soundphysics-forge-1.18.2-1.0.6.jar"
+hash-format = "sha256"
+hash = "662237063838ec38d863b042121070525feb7897002d1e4cb74749761fe0898a"

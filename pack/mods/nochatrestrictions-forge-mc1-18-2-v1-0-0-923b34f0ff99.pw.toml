@@ -1,0 +1,8 @@
+name = "NoChatRestrictions-Forge-MC1.18.2-v1.0.0"
+filename = "NoChatRestrictions-Forge-MC1.18.2-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/NoChatRestrictions-Forge-MC1.18.2-v1.0.0.jar"
+hash-format = "sha256"
+hash = "923b34f0ff993dbb049b2a5036f3505096d6ed9899f2c2a1291a60173781f610"

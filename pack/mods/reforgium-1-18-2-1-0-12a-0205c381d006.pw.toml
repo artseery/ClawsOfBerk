@@ -1,0 +1,8 @@
+name = "reforgium-1.18.2-1.0.12a"
+filename = "reforgium-1.18.2-1.0.12a.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/reforgium-1.18.2-1.0.12a.jar"
+hash-format = "sha256"
+hash = "0205c381d00636d30ff07a135bea6d24e508d7714b2f1f3a654aced37cfc438d"

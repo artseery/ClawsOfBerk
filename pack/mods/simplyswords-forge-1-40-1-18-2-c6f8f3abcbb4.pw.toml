@@ -1,0 +1,8 @@
+name = "simplyswords-forge-1.40-1.18.2"
+filename = "simplyswords-forge-1.40-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/simplyswords-forge-1.40-1.18.2.jar"
+hash-format = "sha256"
+hash = "c6f8f3abcbb41198d7847d41c7046f54f11e7393007dabf2c6702543be60dc16"

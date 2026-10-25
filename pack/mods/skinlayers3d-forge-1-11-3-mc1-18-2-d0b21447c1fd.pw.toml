@@ -1,0 +1,8 @@
+name = "skinlayers3d-forge-1.11.3-mc1.18.2"
+filename = "skinlayers3d-forge-1.11.3-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/skinlayers3d-forge-1.11.3-mc1.18.2.jar"
+hash-format = "sha256"
+hash = "d0b21447c1fd8e67c18dc2dc20003bfbfdd6b0d86e5479a5c87332a0edca921e"

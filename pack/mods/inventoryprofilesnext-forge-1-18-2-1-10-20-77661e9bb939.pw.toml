@@ -1,0 +1,8 @@
+name = "InventoryProfilesNext-forge-1.18.2-1.10.20"
+filename = "InventoryProfilesNext-forge-1.18.2-1.10.20.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/InventoryProfilesNext-forge-1.18.2-1.10.20.jar"
+hash-format = "sha256"
+hash = "77661e9bb939ac691c25f772867f509e1be2a5fd8dac0b3c7408fb6093507420"

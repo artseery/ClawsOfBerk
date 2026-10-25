@@ -1,0 +1,8 @@
+name = "BHMenu-Forge-1.18.2-2.4.3"
+filename = "BHMenu-Forge-1.18.2-2.4.3.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/BHMenu-Forge-1.18.2-2.4.3.jar"
+hash-format = "sha256"
+hash = "54323ec4048cfb63fe493e0b7ec48e860fbd576238c6f630ed56e2648570ee96"

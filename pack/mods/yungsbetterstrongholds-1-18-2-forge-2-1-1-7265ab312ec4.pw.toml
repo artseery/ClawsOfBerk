@@ -1,0 +1,8 @@
+name = "YungsBetterStrongholds-1.18.2-Forge-2.1.1"
+filename = "YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar"
+hash-format = "sha256"
+hash = "7265ab312ec40a87edd3b150169f3a279eaa578b206db5c69bd139c7daa9138e"

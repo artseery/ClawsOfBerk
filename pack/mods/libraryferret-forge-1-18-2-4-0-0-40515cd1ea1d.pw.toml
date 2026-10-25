@@ -1,0 +1,8 @@
+name = "libraryferret-forge-1.18.2-4.0.0"
+filename = "libraryferret-forge-1.18.2-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/libraryferret-forge-1.18.2-4.0.0.jar"
+hash-format = "sha256"
+hash = "40515cd1ea1d5a7ec488ee8bed6479ff95a389f7db73044a5d5762c8031098fd"

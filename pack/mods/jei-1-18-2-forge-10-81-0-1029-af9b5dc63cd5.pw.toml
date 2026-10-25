@@ -1,0 +1,8 @@
+name = "jei-1.18.2-forge-10.81.0.1029"
+filename = "jei-1.18.2-forge-10.81.0.1029.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/jei-1.18.2-forge-10.81.0.1029.jar"
+hash-format = "sha256"
+hash = "af9b5dc63cd5305e21546d7704bf5917e8aa7631946b37c06dc1908cb2217864"

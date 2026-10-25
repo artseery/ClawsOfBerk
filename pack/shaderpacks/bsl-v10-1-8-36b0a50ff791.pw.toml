@@ -1,0 +1,8 @@
+name = "BSL_v10.1.8"
+filename = "BSL_v10.1.8.zip"
+side = "client"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/shaderpacks/BSL_v10.1.8.zip"
+hash-format = "sha256"
+hash = "36b0a50ff7918bf10e9422c401d93779f9d0088a26acea975b435243f96930b5"

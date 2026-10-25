@@ -1,0 +1,8 @@
+name = "trade-cycling-forge-1.18.2-1.0.2"
+filename = "trade-cycling-forge-1.18.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/trade-cycling-forge-1.18.2-1.0.2.jar"
+hash-format = "sha256"
+hash = "f850c3840106a7638f5efb0cc3514c8fdf954f1552e37769ff984e3b78651bda"

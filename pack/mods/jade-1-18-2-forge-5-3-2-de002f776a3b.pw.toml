@@ -1,0 +1,8 @@
+name = "Jade-1.18.2-forge-5.3.2"
+filename = "Jade-1.18.2-forge-5.3.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Jade-1.18.2-forge-5.3.2.jar"
+hash-format = "sha256"
+hash = "de002f776a3b5b0716c702233798a5f03867deba598c6b76c6ed77a3ec10bdce"

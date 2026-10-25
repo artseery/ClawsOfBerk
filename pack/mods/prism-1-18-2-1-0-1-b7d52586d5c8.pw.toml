@@ -1,0 +1,8 @@
+name = "Prism-1.18.2-1.0.1"
+filename = "Prism-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Prism-1.18.2-1.0.1.jar"
+hash-format = "sha256"
+hash = "b7d52586d5c8a8a86d6845711c916f4b3591d62aa19334dbf960c1352b68494b"

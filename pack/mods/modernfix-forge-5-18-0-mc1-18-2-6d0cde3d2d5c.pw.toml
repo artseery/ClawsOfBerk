@@ -1,0 +1,8 @@
+name = "modernfix-forge-5.18.0+mc1.18.2"
+filename = "modernfix-forge-5.18.0+mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/modernfix-forge-5.18.0%2Bmc1.18.2.jar"
+hash-format = "sha256"
+hash = "6d0cde3d2d5ccbffb2697a3ddd7994f00f070419e4b69e7edff5468fa6b95ffd"

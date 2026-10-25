@@ -1,0 +1,8 @@
+name = "FastEvent-1.18.2-1.1.1"
+filename = "FastEvent-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FastEvent-1.18.2-1.1.1.jar"
+hash-format = "sha256"
+hash = "f57a147bc339580faa66204f85ce8245c9af6b45cba3154c69bb3ef33a2bc92b"

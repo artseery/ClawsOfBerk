@@ -1,0 +1,8 @@
+name = "supplementaries-1.18.2-1.5.18"
+filename = "supplementaries-1.18.2-1.5.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/supplementaries-1.18.2-1.5.18.jar"
+hash-format = "sha256"
+hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"

@@ -1,0 +1,8 @@
+name = "infernos-HTTYD-1.7.2"
+filename = "infernos-HTTYD-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/infernos-HTTYD-1.7.2.jar"
+hash-format = "sha256"
+hash = "7084a996afef5780e9fcc939d6c8632f8e5a091f6070ebd4ac0f56d5e89909b2"

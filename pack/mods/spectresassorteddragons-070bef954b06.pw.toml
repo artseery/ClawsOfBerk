@@ -1,0 +1,8 @@
+name = "spectresassorteddragons"
+filename = "spectresassorteddragons.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/spectresassorteddragons.jar"
+hash-format = "sha256"
+hash = "070bef954b06db92c183a385b5faff4338d8ded6a0e0b35654f3ea696113bc27"

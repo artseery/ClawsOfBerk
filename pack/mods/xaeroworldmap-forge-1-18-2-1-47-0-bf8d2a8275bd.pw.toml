@@ -1,0 +1,8 @@
+name = "xaeroworldmap-forge-1.18.2-1.47.0"
+filename = "xaeroworldmap-forge-1.18.2-1.47.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/xaeroworldmap-forge-1.18.2-1.47.0.jar"
+hash-format = "sha256"
+hash = "bf8d2a8275bd36953b8b7fe7c722b4f7e8c71806f87da5e588527aaa6472a321"

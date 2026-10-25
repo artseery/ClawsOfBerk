@@ -1,0 +1,8 @@
+name = "IsleOfBerk_Nest_V3.5.0"
+filename = "IsleOfBerk_Nest_V3.5.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/IsleOfBerk_Nest_V3.5.0.jar"
+hash-format = "sha256"
+hash = "81709f897e0aa12243c76227fc20e93105a160799c48c1aa3d14d0012e122f55"

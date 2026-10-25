@@ -1,0 +1,8 @@
+name = "dynamiclightsreforged-1.18.2_v1.3.3"
+filename = "dynamiclightsreforged-1.18.2_v1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/dynamiclightsreforged-1.18.2_v1.3.3.jar"
+hash-format = "sha256"
+hash = "6443ac136868b0c56036efd2572cc3686429ad676c23c95ff8237fc031245c15"

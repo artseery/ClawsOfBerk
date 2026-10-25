@@ -1,0 +1,8 @@
+name = "Alpha's Rise V4.0.1"
+filename = "Alpha's Rise V4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Alpha%27s%20Rise%20V4.0.1.jar"
+hash-format = "sha256"
+hash = "2273b1ffdde90ec94198cbc4d614706c21d6e75e11fbf1e5761ebbb7d7babedd"

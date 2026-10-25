@@ -1,0 +1,8 @@
+name = "carryon-1.18.2-1.17.2.15"
+filename = "carryon-1.18.2-1.17.2.15.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/carryon-1.18.2-1.17.2.15.jar"
+hash-format = "sha256"
+hash = "1134bf092769f4f10a8f981c10ced52eeaf7d84475f9b48d8e644ce7956843f5"

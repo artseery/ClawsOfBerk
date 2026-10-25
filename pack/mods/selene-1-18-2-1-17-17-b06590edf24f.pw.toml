@@ -1,0 +1,8 @@
+name = "selene-1.18.2-1.17.17"
+filename = "selene-1.18.2-1.17.17.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/selene-1.18.2-1.17.17.jar"
+hash-format = "sha256"
+hash = "b06590edf24f91d655bb59f585950c11ef8c72c798b7d40dc6a4c16fbf2603a3"

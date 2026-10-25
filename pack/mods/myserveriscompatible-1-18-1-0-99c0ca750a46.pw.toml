@@ -1,0 +1,8 @@
+name = "MyServerIsCompatible-1.18-1.0"
+filename = "MyServerIsCompatible-1.18-1.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/MyServerIsCompatible-1.18-1.0.jar"
+hash-format = "sha256"
+hash = "99c0ca750a46742070258815b8ec539ae8442c2094601aaccb57571a381db3c8"

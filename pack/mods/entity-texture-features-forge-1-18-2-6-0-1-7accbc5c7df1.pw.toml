@@ -1,0 +1,8 @@
+name = "entity_texture_features_forge_1.18.2-6.0.1"
+filename = "entity_texture_features_forge_1.18.2-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/entity_texture_features_forge_1.18.2-6.0.1.jar"
+hash-format = "sha256"
+hash = "7accbc5c7df155493ff7574b0bab69f30e87a103f6c82d8f215b7e573133eedc"

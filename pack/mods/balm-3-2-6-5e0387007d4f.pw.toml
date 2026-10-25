@@ -1,0 +1,8 @@
+name = "balm-3.2.6"
+filename = "balm-3.2.6.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/balm-3.2.6.jar"
+hash-format = "sha256"
+hash = "5e0387007d4f5b5be03eb79f46abdb04a29caac881c8e92bcc4cafbcb1c0a118"

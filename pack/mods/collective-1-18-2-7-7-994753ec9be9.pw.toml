@@ -1,0 +1,8 @@
+name = "collective-1.18.2-7.7"
+filename = "collective-1.18.2-7.7.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/collective-1.18.2-7.7.jar"
+hash-format = "sha256"
+hash = "994753ec9be993bca4ec65342f842d00e4cfa9456875cba31e7b38963aff39aa"

@@ -1,0 +1,8 @@
+name = "durabilitytooltip-1.2.0-forge-mc1.18"
+filename = "durabilitytooltip-1.2.0-forge-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/durabilitytooltip-1.2.0-forge-mc1.18.jar"
+hash-format = "sha256"
+hash = "b0359fd0b637101a845f298f713787036c928a19a9ba16f8782654120681cbb6"

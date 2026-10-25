@@ -1,0 +1,8 @@
+name = "TextruesRubidiumOptions-1.0.8-mc1.18.2"
+filename = "TextruesRubidiumOptions-1.0.8-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/TextruesRubidiumOptions-1.0.8-mc1.18.2.jar"
+hash-format = "sha256"
+hash = "8ba7eaa72f85b98bc68fc2921799df1482cf3985c588286c25ddafb0465d6e5c"

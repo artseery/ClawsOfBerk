@@ -1,0 +1,8 @@
+name = "FarmersDelight-1.18.2-1.2.3"
+filename = "FarmersDelight-1.18.2-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FarmersDelight-1.18.2-1.2.3.jar"
+hash-format = "sha256"
+hash = "b192b64908d4fd963151b79329d6f0c5d5d1a1273f7e82849b3c08b720311028"

@@ -1,0 +1,8 @@
+name = "radium-0.7.10"
+filename = "radium-0.7.10.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/radium-0.7.10.jar"
+hash-format = "sha256"
+hash = "9ca8df3493f77714cc7e311d0c980738b680a76266a31abe0bf70ed80ac17ede"

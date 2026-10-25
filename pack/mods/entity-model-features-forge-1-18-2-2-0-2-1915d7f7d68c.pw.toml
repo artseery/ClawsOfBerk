@@ -1,0 +1,8 @@
+name = "entity_model_features_forge_1.18.2-2.0.2"
+filename = "entity_model_features_forge_1.18.2-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/entity_model_features_forge_1.18.2-2.0.2.jar"
+hash-format = "sha256"
+hash = "1915d7f7d68c59cf19ffa36420923251a843a1334625d8dfd91547e341aa8eaa"

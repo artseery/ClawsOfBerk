@@ -1,0 +1,8 @@
+name = "isleofberk-deadlockfix-1.2.0"
+filename = "isleofberk-deadlockfix-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/isleofberk-deadlockfix-1.2.0.jar"
+hash-format = "sha256"
+hash = "1e865d710d458d7fe6e516e1cb6436434c17ef911498303809a7b6c4e40034b0"

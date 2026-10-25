@@ -1,0 +1,8 @@
+name = "HTTYDFranchisePaintings-[1.0.1]"
+filename = "HTTYDFranchisePaintings-[1.0.1].zip"
+side = "client"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/resourcepacks/HTTYDFranchisePaintings-%5B1.0.1%5D.zip"
+hash-format = "sha256"
+hash = "688e2f8af5b289335fbdd789a3f4ee2998073acb1405dc514d1e4152e9b49e01"

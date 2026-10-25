@@ -1,0 +1,8 @@
+name = "Placebo-1.18.2-6.6.7"
+filename = "Placebo-1.18.2-6.6.7.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Placebo-1.18.2-6.6.7.jar"
+hash-format = "sha256"
+hash = "3ad270729e720fa745f0a044871fea22fd6853c83346b5685030f90458e4514a"

@@ -1,0 +1,8 @@
+name = "dragon_wars_variants-1.7.0"
+filename = "dragon_wars_variants-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/dragon_wars_variants-1.7.0.jar"
+hash-format = "sha256"
+hash = "a3fb25d5add348892f2b7be621db160d7203d0036ac9a1f6cfafd829b45e01a9"

@@ -1,0 +1,8 @@
+name = "YungsBridges-1.18.2-Forge-2.1.0"
+filename = "YungsBridges-1.18.2-Forge-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/YungsBridges-1.18.2-Forge-2.1.0.jar"
+hash-format = "sha256"
+hash = "5d9f3e8511c08a6cedb4e055c407a02b0b0f04b43b86a40d732c2ac064be97c1"

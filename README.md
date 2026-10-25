@@ -5,30 +5,26 @@
 and resource pack binary is served directly from the same Pages site under
 `artifacts/`; players do not download anything from CurseForge.
 
-## Supply the actual game files
+## Files in this repository
 
-The provided `ClawsOfBerk-[3.2.7].zip` is a CurseForge export with 153 file
-IDs and 552 overrides, but **zero JAR files**. To finish this repository,
-provide a ZIP of a fully installed ClawsOfBerk instance containing its
-`mods/`, `shaderpacks/`, and `resourcepacks/` directories. Then run:
+The source CurseForge export contains no mod JARs. `artifacts/` now contains
+142 exact mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. Their SHA-1
+values are checked against `scripts/source_files.json`, which records the
+original pack's file hashes. The map is already included under `pack/saves/`.
 
-```bash
-python3 scripts/extract_installed_instance.py /path/to/installed-instance.zip
-```
-
-This requires 143 mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. The
-source archive already includes the map under `pack/saves/`, so its separate
-CurseForge ZIP entry is unnecessary. Files are copied into `artifacts/` only
-when all three categories have the expected counts. Check the files before
-publishing to ensure they are the intended pack versions and may be shared.
+The original pack also lists `Fastquit-3.0.2+1.18.2forge.jar`. Chrome blocked
+that download as suspicious, so this optional client optimization is omitted
+from the current distribution. If you obtain and trust the exact file, place
+it in `artifacts/mods/`; the build will include it only when its SHA-1 matches
+the original pack.
 
 ## Publish
 
 Push the contents of this directory to `main` in
 `github.com/artseery/ClawsOfBerk`. GitHub Pages is configured to use GitHub
-Actions. The workflow hashes the binaries, writes direct-download Packwiz
+Actions. The workflow verifies the binaries, writes direct-download Packwiz
 metadata, builds `ClawsOfBerk-prism.zip`, and publishes the manifest and
-binary files together. It fails instead of publishing an incomplete build.
+binary files together. It fails if any required file is missing or changed.
 
 The public Packwiz URL is:
 

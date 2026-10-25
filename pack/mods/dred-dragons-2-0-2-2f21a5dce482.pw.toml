@@ -1,0 +1,8 @@
+name = "dred_dragons-2.0.2"
+filename = "dred_dragons-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/dred_dragons-2.0.2.jar"
+hash-format = "sha256"
+hash = "2f21a5dce4827aca6be922d15f100b8c0bf5f1a8eb7fc15c1a693978f2586bfa"

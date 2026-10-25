@@ -1,0 +1,8 @@
+name = "expandability-6.0.0"
+filename = "expandability-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/expandability-6.0.0.jar"
+hash-format = "sha256"
+hash = "641ff7f67c2f2beded4850cb75a2ea9a04351e0507d526c4611753512ff5702a"

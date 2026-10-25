@@ -1,0 +1,8 @@
+name = "YungsExtras-1.18.2-Forge-2.1.0"
+filename = "YungsExtras-1.18.2-Forge-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/YungsExtras-1.18.2-Forge-2.1.0.jar"
+hash-format = "sha256"
+hash = "7edae2633e5ec1737d3cd6ee842d12398000e9a5a0d754773652df01ea572d20"

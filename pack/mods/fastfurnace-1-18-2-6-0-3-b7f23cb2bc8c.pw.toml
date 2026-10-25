@@ -1,0 +1,8 @@
+name = "FastFurnace-1.18.2-6.0.3"
+filename = "FastFurnace-1.18.2-6.0.3.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FastFurnace-1.18.2-6.0.3.jar"
+hash-format = "sha256"
+hash = "b7f23cb2bc8c4f0f52a387aaf17b6d58c644b0d6a8c19b08475a914e7fc9a7a3"

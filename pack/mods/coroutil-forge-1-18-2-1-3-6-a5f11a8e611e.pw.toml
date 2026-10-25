@@ -1,0 +1,8 @@
+name = "coroutil-forge-1.18.2-1.3.6"
+filename = "coroutil-forge-1.18.2-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/coroutil-forge-1.18.2-1.3.6.jar"
+hash-format = "sha256"
+hash = "a5f11a8e611e94cd419144cf2d9b76713c53bcac396522003e0cad105c4bb79e"

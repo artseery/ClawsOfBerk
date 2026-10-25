@@ -1,0 +1,8 @@
+name = "alcocraft-1.0.0"
+filename = "alcocraft-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/alcocraft-1.0.0.jar"
+hash-format = "sha256"
+hash = "a55612f52a53254d2e3dac0da2950b5f6ab70eeec2818021f875e48c4126ee85"

@@ -1,0 +1,8 @@
+name = "SereneShrubbery-1.18.2-1.5.0"
+filename = "SereneShrubbery-1.18.2-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/SereneShrubbery-1.18.2-1.5.0.jar"
+hash-format = "sha256"
+hash = "56ae45c9c45a1e8e68adfd6bd7b21f3cf97934fbb6789259a71c2a6de5697981"

@@ -1,0 +1,8 @@
+name = "mobtimizations-forge-1.18.2-1.0.0"
+filename = "mobtimizations-forge-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/mobtimizations-forge-1.18.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "286a9b7c60607b7d21e260598aaaf945b2801c94d708ba6df19a533f8e828b9d"

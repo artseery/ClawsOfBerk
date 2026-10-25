@@ -1,0 +1,8 @@
+name = "starlight-1.0.2+forge.546ae87"
+filename = "starlight-1.0.2+forge.546ae87.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/starlight-1.0.2%2Bforge.546ae87.jar"
+hash-format = "sha256"
+hash = "df6e7be5f9b4c36b87cab76cc4422e846a665e1ae587807c231688fd447ff024"

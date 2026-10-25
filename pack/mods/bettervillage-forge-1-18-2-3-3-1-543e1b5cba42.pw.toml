@@ -1,0 +1,8 @@
+name = "bettervillage-forge-1.18.2-3.3.1"
+filename = "bettervillage-forge-1.18.2-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/bettervillage-forge-1.18.2-3.3.1.jar"
+hash-format = "sha256"
+hash = "543e1b5cba422a588c07a523ce06ab397d614ea2b8d1a695936d412962ed78cd"

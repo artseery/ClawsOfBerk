@@ -1,0 +1,8 @@
+name = "CullLessLeaves-Reforged-1.18.2-1.0.5"
+filename = "CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/CullLessLeaves-Reforged-1.18.2-1.0.5.jar"
+hash-format = "sha256"
+hash = "ffc18b1e180a64ce8367408320285bf34764d64aeb6ed7f4f781523fed079c48"

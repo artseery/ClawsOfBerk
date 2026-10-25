@@ -1,0 +1,8 @@
+name = "SnowRealMagic-1.18.2-forge-4.2.4"
+filename = "SnowRealMagic-1.18.2-forge-4.2.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/SnowRealMagic-1.18.2-forge-4.2.4.jar"
+hash-format = "sha256"
+hash = "1cd76fc1d9dd36645adc40c6cc03695db3afcae509c67a43657de6eaeed8245d"

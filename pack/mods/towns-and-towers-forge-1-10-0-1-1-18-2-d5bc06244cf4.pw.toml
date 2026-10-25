@@ -1,0 +1,8 @@
+name = "towns_and_towers_forge-1.10.0.1+1.18.2"
+filename = "towns_and_towers_forge-1.10.0.1+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/towns_and_towers_forge-1.10.0.1%2B1.18.2.jar"
+hash-format = "sha256"
+hash = "d5bc06244cf4d71076c0a9936f0503ef0b4b40246cb15b7928dcf128521ae0a8"

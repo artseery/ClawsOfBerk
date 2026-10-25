@@ -1,0 +1,8 @@
+name = "supermartijn642configlib-1.1.8-forge-mc1.18"
+filename = "supermartijn642configlib-1.1.8-forge-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/supermartijn642configlib-1.1.8-forge-mc1.18.jar"
+hash-format = "sha256"
+hash = "52f0dc54f277ce1153fe8512ed27256899927d01ff9b643e230df34735cc5ec7"

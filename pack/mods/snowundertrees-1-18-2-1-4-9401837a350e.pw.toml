@@ -1,0 +1,8 @@
+name = "snowundertrees-1.18.2-1.4"
+filename = "snowundertrees-1.18.2-1.4.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/snowundertrees-1.18.2-1.4.jar"
+hash-format = "sha256"
+hash = "9401837a350e722b3683b6b7709c19215c2f9686c66dcd4c0da6bd5c752f2c7d"

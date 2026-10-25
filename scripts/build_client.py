@@ -3,6 +3,7 @@
 
 import argparse
 import hashlib
+import json
 import tomllib
 import urllib.request
 import zipfile
@@ -25,7 +26,10 @@ def main() -> None:
     if not args.pack_url.startswith("https://") or not args.pack_url.endswith("/pack/pack.toml"):
         parser.error("--pack-url must be a public HTTPS URL ending in /pack/pack.toml")
     mods = list((ROOT / "pack").rglob("*.pw.toml"))
-    expected = {"mods": 143, "shaderpacks": 6, "resourcepacks": 3}
+    source_files = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
+    expected = {folder: len(files) for folder, files in source_files.items()}
+    if not (ROOT / "artifacts" / "mods" / "Fastquit-3.0.2+1.18.2forge.jar").is_file():
+        expected["mods"] -= 1
     found = {folder: 0 for folder in expected}
     base_url = args.pack_url.removesuffix("/pack/pack.toml")
     for path in mods:

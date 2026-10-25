@@ -1,0 +1,8 @@
+name = "isolated_journey-1.0.0"
+filename = "isolated_journey-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/isolated_journey-1.0.0.jar"
+hash-format = "sha256"
+hash = "0f58f4f47dfcd713ab5d74f6339459db834b95c88af03c1a9ffba85030ae025f"

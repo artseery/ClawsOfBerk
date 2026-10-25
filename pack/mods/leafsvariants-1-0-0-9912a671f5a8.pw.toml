@@ -1,0 +1,8 @@
+name = "leafsvariants-1.0.0"
+filename = "leafsvariants-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/leafsvariants-1.0.0.jar"
+hash-format = "sha256"
+hash = "9912a671f5a89e48a9345afbe1a85e423ee4cc76adfefc7e68f899ddb995d601"

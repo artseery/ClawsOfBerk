@@ -1,0 +1,8 @@
+name = "xaerominimap-forge-1.18.2-26.6.0"
+filename = "xaerominimap-forge-1.18.2-26.6.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/xaerominimap-forge-1.18.2-26.6.0.jar"
+hash-format = "sha256"
+hash = "1cb59f87f6f817b99357898dbd98e37cf21e55ce4afca32631b4e6cd1d519da3"

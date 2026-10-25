@@ -1,0 +1,8 @@
+name = "Connectible Chains-forge-1.18.2-2.1.1"
+filename = "Connectible Chains-forge-1.18.2-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Connectible%20Chains-forge-1.18.2-2.1.1.jar"
+hash-format = "sha256"
+hash = "c19f697969a9b180b33344396b0adf630ac7f48ab0cf4d27f9e6c2f9c1fc0532"

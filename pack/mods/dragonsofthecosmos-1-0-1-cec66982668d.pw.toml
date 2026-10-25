@@ -1,0 +1,8 @@
+name = "DragonsOfTheCosmos-[1.0.1]"
+filename = "DragonsOfTheCosmos-[1.0.1].jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/DragonsOfTheCosmos-%5B1.0.1%5D.jar"
+hash-format = "sha256"
+hash = "cec66982668d51e3bcfbcb0a5d2a3f25424d0c6b565d7ac8dfbfd132542c6ef3"

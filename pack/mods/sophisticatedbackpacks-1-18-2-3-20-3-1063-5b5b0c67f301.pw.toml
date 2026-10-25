@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-1.18.2-3.20.3.1063"
+filename = "sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/sophisticatedbackpacks-1.18.2-3.20.3.1063.jar"
+hash-format = "sha256"
+hash = "5b5b0c67f301b385e074ab6900930f4f6c3c3e0355c8611cd378bf27c023948d"

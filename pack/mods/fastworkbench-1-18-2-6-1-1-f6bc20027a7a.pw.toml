@@ -1,0 +1,8 @@
+name = "FastWorkbench-1.18.2-6.1.1"
+filename = "FastWorkbench-1.18.2-6.1.1.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FastWorkbench-1.18.2-6.1.1.jar"
+hash-format = "sha256"
+hash = "f6bc20027a7ae63cf5d29480dc20bcaa8a7b2a364cb5045994dd83c031a4ea88"

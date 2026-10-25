@@ -1,0 +1,8 @@
+name = "cloth-config-6.5.133-forge"
+filename = "cloth-config-6.5.133-forge.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/cloth-config-6.5.133-forge.jar"
+hash-format = "sha256"
+hash = "4806e7cff230dc7ccf653be1502a3d8a1fff1f259a07823bfc5ff7a2fbb489dc"

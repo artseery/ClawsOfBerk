@@ -1,0 +1,8 @@
+name = "DragonCompass-1.0.0"
+filename = "DragonCompass-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/DragonCompass-1.0.0.jar"
+hash-format = "sha256"
+hash = "5f7f865041f277205a885342108b184518d07ff7955a4124532b3b63c97d0eca"

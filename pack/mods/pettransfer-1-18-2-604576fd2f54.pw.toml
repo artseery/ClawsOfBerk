@@ -1,0 +1,8 @@
+name = "pettransfer-1.18.2"
+filename = "pettransfer-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/pettransfer-1.18.2.jar"
+hash-format = "sha256"
+hash = "604576fd2f54315064585ac8985c943700de61193431d93b93afc3206e0c290c"

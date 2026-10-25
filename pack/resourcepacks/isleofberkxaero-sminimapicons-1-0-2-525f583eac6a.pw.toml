@@ -1,0 +1,8 @@
+name = "IsleofBerkXaero'sMinimapIcons-[1.0.2]"
+filename = "IsleofBerkXaero'sMinimapIcons-[1.0.2].zip"
+side = "client"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/resourcepacks/IsleofBerkXaero%27sMinimapIcons-%5B1.0.2%5D.zip"
+hash-format = "sha256"
+hash = "525f583eac6a61896579445a8ac038e42696593a3f79b6cf96555d093e493afe"

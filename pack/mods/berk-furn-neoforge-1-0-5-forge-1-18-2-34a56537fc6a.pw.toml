@@ -1,0 +1,8 @@
+name = "berk_furn_neoforge-1.0.5-forge-1.18.2"
+filename = "berk_furn_neoforge-1.0.5-forge-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/berk_furn_neoforge-1.0.5-forge-1.18.2.jar"
+hash-format = "sha256"
+hash = "34a56537fc6a358ed1c9800ce7d43dc07cbeca868b13ad53e967de630ca1f841"
