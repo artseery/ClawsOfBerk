@@ -30,7 +30,7 @@ sed -i "s/^server-ip=.*/server-ip=/; s/^server-port=.*/server-port=$LIVE_PORT/" 
 
 systemctl --user stop "$NEW_UNIT"
 systemctl --user disable "$OLD_UNIT" >/dev/null 2>&1 || true
-systemctl --user reset-failed "$NEW_UNIT"
+systemctl --user reset-failed "$NEW_UNIT" >/dev/null 2>&1 || true
 if ! systemctl --user start "$NEW_UNIT"; then
   cp "$ORIGINAL_PROPERTIES" "$OLD_SERVER_PROPERTIES"
   systemctl --user enable --now "$OLD_UNIT"
