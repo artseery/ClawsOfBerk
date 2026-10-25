@@ -22,19 +22,6 @@ if systemctl --user is-active --quiet "$OLD_UNIT"; then
   systemctl --user stop "$OLD_UNIT"
 fi
 
-OLD_WORLD=$(sed -n 's/^level-name=//p' "$OLD_ROOT/server.properties" 2>/dev/null | head -1)
-if [[ -n "$OLD_WORLD" && -d "$OLD_ROOT/$OLD_WORLD" ]]; then
-  case "$OLD_WORLD" in /*|*..*) systemctl --user start "$OLD_UNIT"; fail 'Unsafe old world path; stopped before backup.' ;; esac
-  BACKUP_DIR="$HOME/minecraft/atfc-backups"
-  mkdir -p "$BACKUP_DIR"
-  BACKUP="$BACKUP_DIR/atfc-world-before-clawsofberk-$(date +%Y%m%d-%H%M%S).tar.gz"
-  if ! tar -C "$OLD_ROOT" -czf "$BACKUP" "$OLD_WORLD"; then
-    systemctl --user start "$OLD_UNIT"
-    fail 'World backup failed; old ATFC service restarted.'
-  fi
-  printf 'Saved old world backup: %s\n' "$BACKUP"
-fi
-
 OLD_SERVER_PROPERTIES="$RUNTIME/server.properties"
 ORIGINAL_PROPERTIES=$(mktemp)
 cp "$OLD_SERVER_PROPERTIES" "$ORIGINAL_PROPERTIES"
@@ -53,7 +40,7 @@ fi
 for _ in $(seq 1 90); do
   if systemctl --user is-active --quiet "$NEW_UNIT" && port_listening "$LIVE_PORT"; then
     systemctl --user enable "$NEW_UNIT" >/dev/null
-    printf '%s\n' 'ClawsOfBerk is running on port 25565. The old ATFC runtime and its world are retained.'
+    printf '%s\n' 'ClawsOfBerk is running on port 25565. The old ATFC runtime and its world remain in place.'
     exit 0
   fi
   if ! systemctl --user is-active --quiet "$NEW_UNIT"; then break; fi
