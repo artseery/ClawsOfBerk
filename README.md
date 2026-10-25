@@ -17,6 +17,35 @@ ClawsOfBerk 3.2.7 server archive. The generated metadata marks the other 29
 mods as client-side, so Packwiz `-s server` installs only the server set.
 The server needs Forge 40.3.12 for Minecraft 1.18.2 and Java 17.
 
+## Install the dedicated server
+
+The server scripts target `/home/seery/minecraft/clawsofberk`. They prepare a
+separate runtime and start it on loopback port 25566 while the existing ATFC
+server keeps running. The test runtime uses the Isle of Berk map included in
+this pack. After the test server reaches the Minecraft `Done` state, run
+`server/switch.sh` to back up the old ATFC world and move ClawsOfBerk to port
+25565. The old ATFC runtime remains in place for rollback.
+
+```bash
+cd ~/minecraft/clawsofberk
+./server/install.sh
+systemctl --user status minecraft-clawsofberk.service
+journalctl --user -u minecraft-clawsofberk.service -f
+```
+
+Once the test server has reached `Done`, stop following its live log with
+Ctrl+C and activate the new server:
+
+```bash
+./server/switch.sh
+```
+
+For later pack updates, pull the repository and run `./server/update.sh`. It
+stops the server before syncing and restarts it only after a successful sync.
+The old ATFC world was made for Minecraft 1.20.1; this pack is Minecraft
+1.18.2. The switch script backs up and retains the ATFC world, then starts the
+included Isle of Berk map as the ClawsOfBerk world.
+
 ## Publish
 
 Push the contents of this directory to `main` in
