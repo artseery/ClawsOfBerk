@@ -1,8 +1,0 @@
-name = "PuzzlesLib-v3.5.10-1.18.2-Forge"
-filename = "PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
-side = "both"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
-hash-format = "sha256"
-hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"

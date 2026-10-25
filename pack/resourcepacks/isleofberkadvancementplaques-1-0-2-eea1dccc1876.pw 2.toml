@@ -1,8 +1,0 @@
-name = "IsleofBerkAdvancementPlaques-[1.0.2]"
-filename = "IsleofBerkAdvancementPlaques-[1.0.2].zip"
-side = "client"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/resourcepacks/IsleofBerkAdvancementPlaques-%5B1.0.2%5D.zip"
-hash-format = "sha256"
-hash = "eea1dccc18764c09d66e27f11a6c8d75fa328261a55da011a81ebe0602547663"

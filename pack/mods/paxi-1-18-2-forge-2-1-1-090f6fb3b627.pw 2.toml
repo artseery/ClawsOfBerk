@@ -1,8 +1,0 @@
-name = "Paxi-1.18.2-Forge-2.1.1"
-filename = "Paxi-1.18.2-Forge-2.1.1.jar"
-side = "both"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Paxi-1.18.2-Forge-2.1.1.jar"
-hash-format = "sha256"
-hash = "090f6fb3b6270bbba22dac327b74c36dc7e60e49b7f2b09e7d134109441ea8b3"

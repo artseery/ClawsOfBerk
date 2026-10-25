@@ -1,8 +1,0 @@
-name = "ComplementaryReimagined_r5.9.3"
-filename = "ComplementaryReimagined_r5.9.3.zip"
-side = "client"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/shaderpacks/ComplementaryReimagined_r5.9.3.zip"
-hash-format = "sha256"
-hash = "fed6c879e732cf7fc7bc6570ebb1def43235aa7e96f62859fbdbdbfa0b484b38"

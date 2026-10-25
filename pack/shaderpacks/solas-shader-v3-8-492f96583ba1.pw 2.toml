@@ -1,8 +1,0 @@
-name = "Solas Shader V3.8"
-filename = "Solas Shader V3.8.zip"
-side = "client"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/shaderpacks/Solas%20Shader%20V3.8.zip"
-hash-format = "sha256"
-hash = "492f96583ba1061d67cb8337a6b37b7b8669533bb08fe0bfc22938d56670b8b9"

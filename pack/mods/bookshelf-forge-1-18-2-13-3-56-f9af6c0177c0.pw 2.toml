@@ -1,8 +1,0 @@
-name = "Bookshelf-Forge-1.18.2-13.3.56"
-filename = "Bookshelf-Forge-1.18.2-13.3.56.jar"
-side = "both"
-
-[download]
-url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Bookshelf-Forge-1.18.2-13.3.56.jar"
-hash-format = "sha256"
-hash = "f9af6c0177c0de060047a00435ca6f1057f694b3c5e3fe0cd0738aef4146c18f"
