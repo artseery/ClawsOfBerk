@@ -20,23 +20,17 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - uses: actions/setup-go@v6
-        with:
-          go-version: '1.24'
-      - name: Install Packwiz
-        run: |
-          go install github.com/packwiz/packwiz@latest
-          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
       - id: pages
         uses: actions/configure-pages@v5
       - name: Build Prism archive and Pages files
         env:
           PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: |
-          python3 scripts/import_with_packwiz.py
+          python3 scripts/prepare_direct_pack.py --base-url "${PAGES_BASE_URL%/}"
           python3 scripts/build_client.py --pack-url "${PAGES_BASE_URL%/}/pack/pack.toml"
           mkdir -p _site
           cp -R pack _site/pack
+          cp -R artifacts _site/artifacts
           cp dist/ClawsOfBerk-prism.zip _site/
           cp site-index.html _site/index.html
           touch _site/.nojekyll

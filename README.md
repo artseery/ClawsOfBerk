@@ -1,51 +1,45 @@
-# ClawsOfBerk 3.2.7 — Packwiz source
+# ClawsOfBerk 3.2.7 — GitHub-hosted Packwiz pack
 
-This is the client distribution layout adapted from `atfc-main`: `pack/` is
-hosted as static files, and a one-time Prism archive runs Packwiz Installer
-before every launch. The source is the provided CurseForge export
-`ClawsOfBerk-[3.2.7].zip` (Minecraft 1.18.2, Forge 40.3.12).
+`pack/` is the Packwiz manifest and configuration tree. GitHub Pages serves
+`pack/pack.toml` for the Prism prelaunch installer. Every mod, shader pack,
+and resource pack binary is served directly from the same Pages site under
+`artifacts/`; players do not download anything from CurseForge.
 
-## Import the 153 mod entries
+## Supply the actual game files
 
-The CurseForge export contains project/file IDs, but **not** the filenames or
-hashes Packwiz needs. The GitHub Actions workflow runs Packwiz's native
-`curseforge import` command to resolve these records. You do not need to
-provide a CurseForge API key. For a local import with Packwiz installed:
-
-```bash
-python3 scripts/import_with_packwiz.py
-```
-
-The wrapper checks every imported project/file ID and hash before copying the
-metafiles into `pack/`, then refreshes the index. It aborts without changing
-the pack if metadata is incomplete. The original export does not specify
-server/client sides, so use this as a client pack.
-
-## Publish on GitHub Pages
-
-Push the **contents of this directory** to the root of a GitHub repository on
-the `main` branch. In repository Settings → Pages, select **GitHub Actions**
-as the build and deployment source. The included `.github/workflows/pages.yml`
-installs Packwiz, imports all 153 files, publishes `pack/`, builds the Prism
-archive with the actual Pages URL, and places it at the Pages homepage. It
-refuses to deploy if mod metadata or Packwiz hashes are invalid.
-
-For a local build, provide the expected public URL manually:
+The provided `ClawsOfBerk-[3.2.7].zip` is a CurseForge export with 153 file
+IDs and 552 overrides, but **zero JAR files**. To finish this repository,
+provide a ZIP of a fully installed ClawsOfBerk instance containing its
+`mods/`, `shaderpacks/`, and `resourcepacks/` directories. Then run:
 
 ```bash
-python3 scripts/build_client.py \
-  --pack-url 'https://YOUR_NAME.github.io/YOUR_REPO/pack/pack.toml'
+python3 scripts/extract_installed_instance.py /path/to/installed-instance.zip
 ```
 
-Players download `ClawsOfBerk-prism.zip` from the Pages homepage and import it
-into Prism once. Subsequent launches read the hosted `pack.toml` and
-synchronize changes. The player needs Java 17 for Minecraft 1.18.2.
+This requires 143 mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. The
+source archive already includes the map under `pack/saves/`, so its separate
+CurseForge ZIP entry is unnecessary. Files are copied into `artifacts/` only
+when all three categories have the expected counts. Check the files before
+publishing to ensure they are the intended pack versions and may be shared.
 
-After editing files under `pack/`, run `python3 scripts/refresh.py`, then
-publish `pack/index.toml` and `pack/pack.toml` together with the changed
-files. The world under `pack/saves/` has `preserve = true` in the index so
-player progress is not overwritten on later launches.
+## Publish
 
-Some mod authors may block automatic third-party JAR downloads; those files
-can require manual download through Packwiz Installer. Do not republish their
-binaries without permission.
+Push the contents of this directory to `main` in
+`github.com/artseery/ClawsOfBerk`. GitHub Pages is configured to use GitHub
+Actions. The workflow hashes the binaries, writes direct-download Packwiz
+metadata, builds `ClawsOfBerk-prism.zip`, and publishes the manifest and
+binary files together. It fails instead of publishing an incomplete build.
+
+The public Packwiz URL is:
+
+```text
+https://artseery.github.io/ClawsOfBerk/pack/pack.toml
+```
+
+Players import the Prism ZIP once. Each launch synchronizes this URL. For
+Minecraft 1.18.2, select Java 17 in Prism.
+
+After changing configs or scripts under `pack/`, run
+`python3 scripts/refresh.py` and commit both `pack/index.toml` and
+`pack/pack.toml`. World files under `pack/saves/` are marked `preserve = true`
+so player progress is retained.

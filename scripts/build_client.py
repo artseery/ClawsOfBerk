@@ -3,12 +3,11 @@
 
 import argparse
 import hashlib
-import json
-import tempfile
 import tomllib
 import urllib.request
 import zipfile
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 BOOTSTRAP_URL = ("https://github.com/packwiz/packwiz-installer-bootstrap/releases/"
@@ -25,16 +24,28 @@ def main() -> None:
     args = parser.parse_args()
     if not args.pack_url.startswith("https://") or not args.pack_url.endswith("/pack/pack.toml"):
         parser.error("--pack-url must be a public HTTPS URL ending in /pack/pack.toml")
-    expected = json.loads((ROOT / "source-manifest.json").read_text())["files"]
     mods = list((ROOT / "pack").rglob("*.pw.toml"))
-    found = set()
+    expected = {"mods": 143, "shaderpacks": 6, "resourcepacks": 3}
+    found = {folder: 0 for folder in expected}
+    base_url = args.pack_url.removesuffix("/pack/pack.toml")
     for path in mods:
         entry = tomllib.loads(path.read_text(encoding="utf-8"))
-        cf = entry.get("update", {}).get("curseforge", {})
-        found.add((cf.get("project-id"), cf.get("file-id")))
-    wanted = {(f["projectID"], f["fileID"]) for f in expected}
-    if found != wanted or len(mods) != len(wanted):
-        parser.error(f"mod metadata incomplete: {len(found & wanted)}/{len(wanted)}; run scripts/import_with_packwiz.py")
+        folder = path.relative_to(ROOT / "pack").parts[0]
+        if folder not in found:
+            parser.error(f"unexpected metadata path: {path}")
+        found[folder] += 1
+        filename = entry.get("filename", "")
+        if not filename or Path(filename).name != filename:
+            parser.error(f"invalid asset filename in {path}")
+        binary = ROOT / "artifacts" / folder / filename
+        download = entry.get("download", {})
+        expected_url = f"{base_url}/artifacts/{folder}/{quote(binary.name)}"
+        if (not binary.is_file() or download.get("url") != expected_url
+                or download.get("hash-format") != "sha256"
+                or download.get("hash") != hashlib.sha256(binary.read_bytes()).hexdigest()):
+            parser.error(f"invalid direct download metadata: {path}; run scripts/prepare_direct_pack.py")
+    if found != expected:
+        parser.error(f"asset metadata incomplete: {found}; expected {expected}")
     pack = tomllib.loads((ROOT / "pack" / "pack.toml").read_text())
     index_data = (ROOT / "pack" / pack["index"]["file"]).read_bytes()
     if hashlib.sha256(index_data).hexdigest() != pack["index"]["hash"]:
