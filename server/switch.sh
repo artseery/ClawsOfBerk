@@ -10,9 +10,13 @@ OLD_UNIT=minecraft-atfc.service
 NEW_UNIT=minecraft-clawsofberk.service
 
 fail() { printf 'ClawsOfBerk: %s\n' "$*" >&2; exit 1; }
+port_listening() {
+  ss -ltnH | awk '{print $4}' | grep -Eq ":$1$"
+}
 [[ "$ROOT" == "$HOME/minecraft/clawsofberk" ]] || fail "Expected checkout at ~/minecraft/clawsofberk, got $ROOT"
 systemctl --user is-active --quiet "$NEW_UNIT" || fail 'Test service is not active; run install.sh first.'
-journalctl --user -u "$NEW_UNIT" -n 500 --no-pager | grep -q 'Done (' || fail 'Test service has not reached the Minecraft Done state.'
+command -v ss >/dev/null 2>&1 || fail 'Install iproute2 (ss is missing) to verify the test listener.'
+port_listening "$STAGE_PORT" || fail "Test server is not listening on port $STAGE_PORT yet."
 
 if systemctl --user is-active --quiet "$OLD_UNIT"; then
   systemctl --user stop "$OLD_UNIT"
@@ -40,7 +44,6 @@ sed -i "s/^server-ip=.*/server-ip=/; s/^server-port=.*/server-port=$LIVE_PORT/" 
 systemctl --user stop "$NEW_UNIT"
 systemctl --user disable "$OLD_UNIT" >/dev/null 2>&1 || true
 systemctl --user reset-failed "$NEW_UNIT"
-STARTED_AT=$(date --iso-8601=seconds)
 if ! systemctl --user start "$NEW_UNIT"; then
   cp "$ORIGINAL_PROPERTIES" "$OLD_SERVER_PROPERTIES"
   systemctl --user enable --now "$OLD_UNIT"
@@ -48,7 +51,7 @@ if ! systemctl --user start "$NEW_UNIT"; then
 fi
 
 for _ in $(seq 1 90); do
-  if journalctl --user -u "$NEW_UNIT" --since "$STARTED_AT" --no-pager | grep -q 'Done ('; then
+  if systemctl --user is-active --quiet "$NEW_UNIT" && port_listening "$LIVE_PORT"; then
     systemctl --user enable "$NEW_UNIT" >/dev/null
     printf '%s\n' 'ClawsOfBerk is running on port 25565. The old ATFC runtime and its world are retained.'
     exit 0
