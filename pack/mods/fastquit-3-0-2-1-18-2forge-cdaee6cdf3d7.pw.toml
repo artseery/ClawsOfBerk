@@ -1,6 +1,6 @@
 name = "Fastquit-3.0.2+1.18.2forge"
 filename = "Fastquit-3.0.2+1.18.2forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Fastquit-3.0.2%2B1.18.2forge.jar"

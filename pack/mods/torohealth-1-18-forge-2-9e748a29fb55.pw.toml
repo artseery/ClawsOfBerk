@@ -1,6 +1,6 @@
 name = "torohealth-1.18-forge-2"
 filename = "torohealth-1.18-forge-2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/torohealth-1.18-forge-2.jar"

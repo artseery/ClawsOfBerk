@@ -1,6 +1,6 @@
 name = "InventoryProfilesNext-forge-1.18.2-1.10.20"
 filename = "InventoryProfilesNext-forge-1.18.2-1.10.20.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/InventoryProfilesNext-forge-1.18.2-1.10.20.jar"

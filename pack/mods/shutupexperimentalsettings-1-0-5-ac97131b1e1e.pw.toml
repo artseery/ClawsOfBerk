@@ -1,6 +1,6 @@
 name = "shutupexperimentalsettings-1.0.5"
 filename = "shutupexperimentalsettings-1.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/shutupexperimentalsettings-1.0.5.jar"

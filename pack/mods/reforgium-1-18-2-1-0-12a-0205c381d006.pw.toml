@@ -1,6 +1,6 @@
 name = "reforgium-1.18.2-1.0.12a"
 filename = "reforgium-1.18.2-1.0.12a.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/reforgium-1.18.2-1.0.12a.jar"

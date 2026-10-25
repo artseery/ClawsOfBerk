@@ -1,6 +1,6 @@
 name = "justzoom_forge_2.1.1_MC_1.18.2"
 filename = "justzoom_forge_2.1.1_MC_1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/justzoom_forge_2.1.1_MC_1.18.2.jar"

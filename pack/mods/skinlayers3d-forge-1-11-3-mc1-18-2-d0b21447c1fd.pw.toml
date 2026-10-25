@@ -1,6 +1,6 @@
 name = "skinlayers3d-forge-1.11.3-mc1.18.2"
 filename = "skinlayers3d-forge-1.11.3-mc1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/skinlayers3d-forge-1.11.3-mc1.18.2.jar"

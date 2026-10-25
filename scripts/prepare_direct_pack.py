@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / "pack"
 ARTIFACTS = ROOT / "artifacts"
 SOURCE_FILES = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
+SERVER_MODS = set(json.loads((ROOT / "scripts" / "server_mods.json").read_text(encoding="utf-8")))
 
 
 def main() -> None:
@@ -21,6 +22,8 @@ def main() -> None:
     base_url = args.base_url.rstrip("/")
     if not base_url.startswith("https://"):
         parser.error("--base-url must be HTTPS")
+    if len(SERVER_MODS) != 114 or not SERVER_MODS <= set(SOURCE_FILES["mods"]):
+        parser.error("server_mods.json does not match the official server pack")
 
     planned = {}
     total_bytes = 0
@@ -46,7 +49,7 @@ def main() -> None:
             url = f"{base_url}/artifacts/{folder}/{quote(file.name)}"
             planned[relative] = (f"name = {json.dumps(file.stem, ensure_ascii=False)}\n"
                                  f"filename = {json.dumps(file.name, ensure_ascii=False)}\n"
-                                 f'side = "{"both" if folder == "mods" else "client"}"\n\n'
+                                 f'side = "{"both" if folder == "mods" and file.name in SERVER_MODS else "client"}"\n\n'
                                  "[download]\n"
                                  f"url = {json.dumps(url, ensure_ascii=False)}\n"
                                  'hash-format = "sha256"\n'

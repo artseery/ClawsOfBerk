@@ -1,0 +1,8 @@
+name = "Visuality-1.0+forge-mc1.18.2"
+filename = "Visuality-1.0+forge-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Visuality-1.0%2Bforge-mc1.18.2.jar"
+hash-format = "sha256"
+hash = "6bb74cb2c221bee3cd5c9722a6a6a41db776c4d8449a3c5213e387e84af6c6f2"

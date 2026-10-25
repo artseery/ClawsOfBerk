@@ -1,6 +1,6 @@
 name = "TextruesRubidiumOptions-1.0.8-mc1.18.2"
 filename = "TextruesRubidiumOptions-1.0.8-mc1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/TextruesRubidiumOptions-1.0.8-mc1.18.2.jar"

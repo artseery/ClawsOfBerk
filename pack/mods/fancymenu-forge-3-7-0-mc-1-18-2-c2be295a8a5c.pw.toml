@@ -1,6 +1,6 @@
 name = "fancymenu_forge_3.7.0_MC_1.18.2"
 filename = "fancymenu_forge_3.7.0_MC_1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/fancymenu_forge_3.7.0_MC_1.18.2.jar"

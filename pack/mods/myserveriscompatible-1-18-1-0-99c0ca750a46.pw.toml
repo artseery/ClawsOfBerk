@@ -1,6 +1,6 @@
 name = "MyServerIsCompatible-1.18-1.0"
 filename = "MyServerIsCompatible-1.18-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/MyServerIsCompatible-1.18-1.0.jar"

@@ -1,6 +1,6 @@
 name = "embeddium-0.3.18+mc1.18.2"
 filename = "embeddium-0.3.18+mc1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/embeddium-0.3.18%2Bmc1.18.2.jar"

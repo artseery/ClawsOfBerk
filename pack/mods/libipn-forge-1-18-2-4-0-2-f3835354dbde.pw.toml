@@ -1,6 +1,6 @@
 name = "libIPN-forge-1.18.2-4.0.2"
 filename = "libIPN-forge-1.18.2-4.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/libIPN-forge-1.18.2-4.0.2.jar"

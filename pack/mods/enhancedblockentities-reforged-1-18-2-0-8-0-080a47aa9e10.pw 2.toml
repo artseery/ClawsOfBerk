@@ -1,0 +1,8 @@
+name = "EnhancedBlockEntities-Reforged-1.18.2-0.8.0"
+filename = "EnhancedBlockEntities-Reforged-1.18.2-0.8.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/EnhancedBlockEntities-Reforged-1.18.2-0.8.0.jar"
+hash-format = "sha256"
+hash = "080a47aa9e10bdf702c1e3ee16ebb2c499fcdc6a89ec1ed4d739590707ab5d75"

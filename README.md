@@ -12,6 +12,11 @@ The source CurseForge export contains no mod JARs. `artifacts/` now contains
 values are checked against `scripts/source_files.json`, which records the
 original pack's file hashes. The map is already included under `pack/saves/`.
 
+`scripts/server_mods.json` records the 114 JARs in the matching official
+ClawsOfBerk 3.2.7 server archive. The generated metadata marks the other 29
+mods as client-side, so Packwiz `-s server` installs only the server set.
+The server needs Forge 40.3.12 for Minecraft 1.18.2 and Java 17.
+
 ## Publish
 
 Push the contents of this directory to `main` in

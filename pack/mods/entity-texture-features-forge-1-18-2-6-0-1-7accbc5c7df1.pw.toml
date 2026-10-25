@@ -1,6 +1,6 @@
 name = "entity_texture_features_forge_1.18.2-6.0.1"
 filename = "entity_texture_features_forge_1.18.2-6.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/entity_texture_features_forge_1.18.2-6.0.1.jar"

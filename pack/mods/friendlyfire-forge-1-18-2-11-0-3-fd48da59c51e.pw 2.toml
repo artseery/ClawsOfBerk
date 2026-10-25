@@ -1,0 +1,8 @@
+name = "FriendlyFire-Forge-1.18.2-11.0.3"
+filename = "FriendlyFire-Forge-1.18.2-11.0.3.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/FriendlyFire-Forge-1.18.2-11.0.3.jar"
+hash-format = "sha256"
+hash = "fd48da59c51ee4de372d8ec683596c930e4be3d1a1bab86aa2a75a06ac2297a7"
