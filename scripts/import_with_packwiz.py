@@ -48,6 +48,10 @@ def main() -> None:
             old.unlink()
         for source in metafiles:
             rel = source.relative_to(imported)
+            # Packwiz currently emits this manifest's shader projects at the
+            # pack root; Prism expects their ZIPs inside shaderpacks/.
+            if len(rel.parts) == 1:
+                rel = Path("shaderpacks") / rel
             target = pack / rel
             target.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(source, target)
