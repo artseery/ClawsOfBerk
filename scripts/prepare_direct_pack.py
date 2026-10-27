@@ -22,8 +22,8 @@ def main() -> None:
     base_url = args.base_url.rstrip("/")
     if not base_url.startswith("https://"):
         parser.error("--base-url must be HTTPS")
-    if len(SERVER_MODS) != 114 or not SERVER_MODS <= set(SOURCE_FILES["mods"]):
-        parser.error("server_mods.json does not match the official server pack")
+    if len(SERVER_MODS) != 116 or not SERVER_MODS <= set(SOURCE_FILES["mods"]):
+        parser.error("server_mods.json must contain the 114 official server mods and the two Quark dependencies")
 
     planned = {}
     total_bytes = 0

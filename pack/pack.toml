@@ -1,11 +1,11 @@
 name = "ClawsOfBerk"
-version = "3.2.7"
+version = "3.2.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "27666fa4bcf006ba1d97a8b35b5bc473e401d852bfa7556242d2cd7faddaeffe"
+hash = "cc6c95aed3b0060da6883c97a303d325786a6b498b579ce71c5bfc47a0e308f0"
 
 [versions]
 forge = "40.3.12"

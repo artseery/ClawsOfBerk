@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "COB",
-  "version": "",
+  "version": "3.2.8",
   "author": "",
   "overrides": "overrides",
   "files": [
@@ -930,6 +930,18 @@
     {
       "projectID": 418514,
       "fileID": 3934447,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 243121,
+      "fileID": 3840125,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3642382,
       "required": true,
       "isLocked": false
     }

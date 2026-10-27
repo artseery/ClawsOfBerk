@@ -1,4 +1,4 @@
-# ClawsOfBerk 3.2.7 — GitHub-hosted Packwiz pack
+# ClawsOfBerk 3.2.8 — GitHub-hosted Packwiz pack
 
 `pack/` is the Packwiz manifest and configuration tree. GitHub Pages serves
 `pack/pack.toml` for the Prism prelaunch installer. Every mod, shader pack,
@@ -8,13 +8,12 @@ and resource pack binary is served directly from the same Pages site under
 ## Files in this repository
 
 The source CurseForge export contains no mod JARs. `artifacts/` now contains
-143 exact mod JARs, 6 shader ZIPs, and 3 resource-pack ZIPs. Their SHA-1
-values are checked against `scripts/source_files.json`, which records the
-original pack's file hashes. The map is already included under `pack/saves/`.
+145 mod JARs, including Quark 3.2-358 and its AutoRegLib 1.7-53 dependency, plus 6 shader ZIPs and 3 resource-pack ZIPs. Their SHA-1 values are checked against `scripts/source_files.json`. The map is already included under `pack/saves/`.
 
-`scripts/server_mods.json` records the 114 JARs in the matching official
-ClawsOfBerk 3.2.7 server archive. The generated metadata marks the other 29
-mods as client-side, so Packwiz `-s server` installs only the server set.
+`scripts/server_mods.json` includes the 114 JARs in the official ClawsOfBerk
+3.2.7 server archive plus Quark and AutoRegLib. Generated metadata marks
+client-only mods accordingly, so Packwiz `-s server` installs server mods and
+their required dependencies.
 The server needs Forge 40.3.12 for Minecraft 1.18.2 and Java 17.
 
 ## Install the dedicated server

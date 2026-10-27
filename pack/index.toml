@@ -1252,6 +1252,11 @@ hash = "6206575828188862d54a8eb2181eba50277cedcf024b53130d71ce208d7c9880"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib-1-7-53-41ece668218c.pw.toml"
+hash = "f1ddcbfb1bccdadf0ff7261678f8f9de9caf6fcfabbcd2ed685e1a09374224a6"
+metafile = true
+
+[[files]]
 file = "mods/balm-3-2-6-5e0387007d4f.pw.toml"
 hash = "0bb8ea2d3496b1335fe1380d4f3498662976cf781f931320084609aecf299b35"
 metafile = true
@@ -1739,6 +1744,11 @@ metafile = true
 [[files]]
 file = "mods/puzzleslib-v3-5-10-1-18-2-forge-67fc0b05ca0f.pw.toml"
 hash = "f776ec424c98858a43d2d119092fe7120e7e63a66127b14fe0940e27664e3557"
+metafile = true
+
+[[files]]
+file = "mods/quark-3-2-358-046c5cbc3125.pw.toml"
+hash = "c39ce2e5be1771d8a0a43fde2d45833eb5d78f5bb4a177dc5f49388d7149cc35"
 metafile = true
 
 [[files]]

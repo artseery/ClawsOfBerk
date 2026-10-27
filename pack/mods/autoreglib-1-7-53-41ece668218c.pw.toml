@@ -1,0 +1,8 @@
+name = "AutoRegLib-1.7-53"
+filename = "AutoRegLib-1.7-53.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/AutoRegLib-1.7-53.jar"
+hash-format = "sha256"
+hash = "41ece668218c074bf2f30be5883cd90ad1a48dad6537a7fefca720230f688140"

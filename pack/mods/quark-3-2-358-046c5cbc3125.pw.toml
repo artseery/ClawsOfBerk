@@ -1,0 +1,8 @@
+name = "Quark-3.2-358"
+filename = "Quark-3.2-358.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Quark-3.2-358.jar"
+hash-format = "sha256"
+hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
