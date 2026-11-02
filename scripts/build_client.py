@@ -28,6 +28,9 @@ def main() -> None:
     mods = list((ROOT / "pack").rglob("*.pw.toml"))
     source_files = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
     expected = {folder: len(files) for folder, files in source_files.items()}
+    external_mods = json.loads((ROOT / "scripts" / "external_mods.json").read_text(encoding="utf-8"))
+    external_by_filename = {mod["filename"]: mod for mod in external_mods}
+    expected["mods"] += len(external_by_filename)
     found = {folder: 0 for folder in expected}
     base_url = args.pack_url.removesuffix("/pack/pack.toml")
     for path in mods:
@@ -41,6 +44,13 @@ def main() -> None:
             parser.error(f"invalid asset filename in {path}")
         binary = ROOT / "artifacts" / folder / filename
         download = entry.get("download", {})
+        external = external_by_filename.get(filename) if folder == "mods" else None
+        if external:
+            if (download.get("url") != external["url"]
+                    or download.get("hash-format") != "sha512"
+                    or download.get("hash") != external["hash"]):
+                parser.error(f"invalid external download metadata: {path}")
+            continue
         expected_url = f"{base_url}/artifacts/{folder}/{quote(binary.name)}"
         if (not binary.is_file() or download.get("url") != expected_url
                 or download.get("hash-format") != "sha256"
