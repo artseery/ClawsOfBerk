@@ -13,6 +13,7 @@ PACK = ROOT / "pack"
 ARTIFACTS = ROOT / "artifacts"
 SOURCE_FILES = json.loads((ROOT / "scripts" / "source_files.json").read_text(encoding="utf-8"))
 SERVER_MODS = set(json.loads((ROOT / "scripts" / "server_mods.json").read_text(encoding="utf-8")))
+EXTERNAL_MODS = json.loads((ROOT / "scripts" / "external_mods.json").read_text(encoding="utf-8"))
 
 
 def main() -> None:
@@ -22,8 +23,10 @@ def main() -> None:
     base_url = args.base_url.rstrip("/")
     if not base_url.startswith("https://"):
         parser.error("--base-url must be HTTPS")
-    if len(SERVER_MODS) != 116 or not SERVER_MODS <= set(SOURCE_FILES["mods"]):
-        parser.error("server_mods.json must contain the 114 official server mods and the two Quark dependencies")
+    source_mods = set(SOURCE_FILES["mods"])
+    external_names = {mod["filename"] for mod in EXTERNAL_MODS}
+    if len(SERVER_MODS) != 120 or not SERVER_MODS <= source_mods | external_names:
+        parser.error("server_mods.json must contain the 114 official server mods, Quark dependencies, and four added server mods")
 
     planned = {}
     total_bytes = 0
@@ -54,6 +57,21 @@ def main() -> None:
                                  f"url = {json.dumps(url, ensure_ascii=False)}\n"
                                  'hash-format = "sha256"\n'
                                  f'hash = "{digest}"\n')
+    for mod in EXTERNAL_MODS:
+        if mod["filename"] not in SERVER_MODS:
+            parser.error(f"external mod {mod['filename']} must be listed in server_mods.json")
+        digest = mod["hash"]
+        if not re.fullmatch(r"[0-9a-f]{128}", digest):
+            parser.error(f"external mod {mod['filename']} must have a SHA-512 hash")
+        safe_name = re.sub(r"[^a-z0-9]+", "-", mod["name"].lower()).strip("-")[:80]
+        relative = Path("mods") / f"{safe_name}-{digest[:12]}.pw.toml"
+        planned[relative] = (f"name = {json.dumps(mod['name'], ensure_ascii=False)}\n"
+                             f"filename = {json.dumps(mod['filename'], ensure_ascii=False)}\n"
+                             'side = "both"\n\n'
+                             "[download]\n"
+                             f"url = {json.dumps(mod['url'], ensure_ascii=False)}\n"
+                             'hash-format = "sha512"\n'
+                             f'hash = "{digest}"\n')
     if total_bytes + sum(p.stat().st_size for p in PACK.rglob("*") if p.is_file()) >= 1024 ** 3:
         parser.error("Pack plus artifacts exceeds GitHub Pages' 1 GiB site limit")
 

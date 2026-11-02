@@ -1,0 +1,8 @@
+name = "trashcans-1.1.2-forge-mc1.18"
+filename = "trashcans-1.1.2-forge-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/trashcans-1.1.2-forge-mc1.18.jar"
+hash-format = "sha256"
+hash = "bfe6a4a2cfed5e7b5ff659394534b57a40feac295fe72f65b541e3beba50101c"

@@ -144,7 +144,10 @@
     "xaerominimap-forge-1.18.2-26.6.0.jar": "6a34848f047d78f4d90b18acc4e9f305a66c5a5a",
     "xaeroworldmap-forge-1.18.2-1.47.0.jar": "0161874d2f58fb59d2dafe90fee1e270c873c163",
     "Quark-3.2-358.jar": "18919f757e7fd1b4d4b4e0e0de1ea978ead34179",
-    "AutoRegLib-1.7-53.jar": "3e8f5e0bbf90af2555394b2f9ff704142f979465"
+    "AutoRegLib-1.7-53.jar": "3e8f5e0bbf90af2555394b2f9ff704142f979465",
+    "trashcans-1.1.2-forge-mc1.18.jar": "1e35ee9a121ece669ae300da9b5e58ca58c36dbe",
+    "supermartijn642corelib-1.1.26-forge-mc1.18.jar": "273ddcd624cab8044a07e57a30946b0983a69587",
+    "enchantmenttransfer-0.0.4-1.18.2.jar": "53a06f96a18b2e2361dff10497603f0fde63dd8f"
   },
   "shaderpacks": {
     "BSL_v10.1.8.zip": "e89818c8827d0131c102fb480c3c3446624db0df",

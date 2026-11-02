@@ -1,0 +1,8 @@
+name = "enchantmenttransfer-0.0.4-1.18.2"
+filename = "enchantmenttransfer-0.0.4-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/enchantmenttransfer-0.0.4-1.18.2.jar"
+hash-format = "sha256"
+hash = "637ce7f181687b0799300b08a3a97d854faf579fa712fb18709b15942342bdcb"

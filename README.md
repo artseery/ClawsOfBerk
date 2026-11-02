@@ -1,19 +1,25 @@
-# ClawsOfBerk 3.2.8 — GitHub-hosted Packwiz pack
+# ClawsOfBerk 3.2.9 — GitHub-hosted Packwiz pack
 
 `pack/` is the Packwiz manifest and configuration tree. GitHub Pages serves
-`pack/pack.toml` for the Prism prelaunch installer. Every mod, shader pack,
-and resource pack binary is served directly from the same Pages site under
-`artifacts/`; players do not download anything from CurseForge.
+`pack/pack.toml` for the Prism prelaunch installer. Mod, shader pack, and
+resource pack binaries are served from `artifacts/` on GitHub Pages, except
+Tree Harvester, which Packwiz downloads directly from its official Modrinth
+CDN URL.
 
 ## Files in this repository
 
-The source CurseForge export contains no mod JARs. `artifacts/` now contains
-145 mod JARs, including Quark 3.2-358 and its AutoRegLib 1.7-53 dependency, plus 6 shader ZIPs and 3 resource-pack ZIPs. Their SHA-1 values are checked against `scripts/source_files.json`. The map is already included under `pack/saves/`.
+The source CurseForge export contains no mod JARs. `artifacts/` contains
+148 mod JARs, including Quark and AutoRegLib, Trash Cans and its Core Lib
+dependency, and Enchantment Transfer, plus 6 shader ZIPs and 3 resource-pack
+ZIPs. Tree Harvester is downloaded directly from Modrinth under its author’s
+modpack distribution terms. GitHub-hosted files are checked against
+`scripts/source_files.json`. The map is already included under `pack/saves/`.
 
 `scripts/server_mods.json` includes the 114 JARs in the official ClawsOfBerk
-3.2.7 server archive plus Quark and AutoRegLib. Generated metadata marks
-client-only mods accordingly, so Packwiz `-s server` installs server mods and
-their required dependencies.
+3.2.7 server archive plus Quark, AutoRegLib, Trash Cans, Core Lib,
+Enchantment Transfer, and Tree Harvester. Generated metadata marks client-only
+mods accordingly, so Packwiz `-s server` installs server mods and their
+required dependencies.
 The server needs Forge 40.3.12 for Minecraft 1.18.2 and Java 17.
 
 ## Install the dedicated server

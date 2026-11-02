@@ -1,0 +1,8 @@
+name = "supermartijn642corelib-1.1.26-forge-mc1.18"
+filename = "supermartijn642corelib-1.1.26-forge-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/supermartijn642corelib-1.1.26-forge-mc1.18.jar"
+hash-format = "sha256"
+hash = "beb088e53430836389271dd5db862043cd4b2205bb660492358129ecaa7332d4"

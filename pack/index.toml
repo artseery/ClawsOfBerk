@@ -1422,6 +1422,11 @@ hash = "b88ef465433a2e2d3d5ed680ef5b302f0cb0f91baedac8a0ab48029f174fe99d"
 metafile = true
 
 [[files]]
+file = "mods/enchantmenttransfer-0-0-4-1-18-2-637ce7f18168.pw.toml"
+hash = "e57ababe067400085352a12da36a47c1ba0faffe8244ea788b801294a5004363"
+metafile = true
+
+[[files]]
 file = "mods/enhancedblockentities-reforged-1-18-2-0-8-0-080a47aa9e10.pw.toml"
 hash = "fa3cbf4ed6c36619a0c90e89744b594286d4f53f346fa5d2908859b799dae9b9"
 metafile = true
@@ -1857,6 +1862,11 @@ hash = "4247d456380c596eeb13b38e693ac8b264b0ebe01a2c269f80b1ca9bd4eca90f"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642corelib-1-1-26-forge-mc1-18-beb088e53430.pw.toml"
+hash = "b80a269fc1d1606803ccf8e90da829976d53f3d1c12113eba6edd06a3d9e76c4"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-1-18-2-1-5-18-2ab0363daed6.pw.toml"
 hash = "d38308123c1115d79f186289ab5edbda7a00fb19cf5091b6715f1b56440aba2f"
 metafile = true
@@ -1879,6 +1889,16 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling-forge-1-18-2-1-0-2-f850c3840106.pw.toml"
 hash = "c4160fa1ba0d8ff36e7cd32090ab4abf2fe5db9eacac718227b449936d862cac"
+metafile = true
+
+[[files]]
+file = "mods/trashcans-1-1-2-forge-mc1-18-bfe6a4a2cfed.pw.toml"
+hash = "f9dff33f4bb748ea19c9f88eeca79ec36540076891933fd5e1fb4893a1440402"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester-1-18-2-8-2-f47bdff02fb6.pw.toml"
+hash = "84b8982bfdd7a8c9b2ff1fdd3c250903196ab16162664fb2dc33cb662968bf26"
 metafile = true
 
 [[files]]
