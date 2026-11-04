@@ -25,8 +25,8 @@ def main() -> None:
         parser.error("--base-url must be HTTPS")
     source_mods = set(SOURCE_FILES["mods"])
     external_names = {mod["filename"] for mod in EXTERNAL_MODS}
-    if len(SERVER_MODS) != 120 or not SERVER_MODS <= source_mods | external_names:
-        parser.error("server_mods.json must contain the 114 official server mods, Quark dependencies, and four added server mods")
+    if len(SERVER_MODS) != 125 or not SERVER_MODS <= source_mods | external_names:
+        parser.error("server_mods.json must contain the 114 official server mods, Quark dependencies, and nine added server mods")
 
     planned = {}
     total_bytes = 0

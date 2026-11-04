@@ -1,0 +1,8 @@
+name = "sliceanddice-forge-1.4.0"
+filename = "sliceanddice-forge-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/sliceanddice-forge-1.4.0.jar"
+hash-format = "sha256"
+hash = "6e1c8767aa3dcde785d57758157adb51ca1a51e04b72a6e35d3605df7bcd4f49"

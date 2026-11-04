@@ -1337,6 +1337,21 @@ hash = "984b75e99701c661bb561e66a4126fb25d879714b8e8392f255b891a5d04af29"
 metafile = true
 
 [[files]]
+file = "mods/create-1-18-2-0-5-1-f-d0c5b5a12071.pw.toml"
+hash = "52fd9766b8be2e02180e13d3a948d5fdebb976cd91fcc342a7c3064274cf2ec2"
+metafile = true
+
+[[files]]
+file = "mods/createaddition-1-18-2-1-0-0-359d3811abfc.pw.toml"
+hash = "d3660f07dd00591034e8578efe4ef576438d7c4b2c000b19b01d0124225deb12"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-1-3-3-1-18-2-397b8f0582c9.pw.toml"
+hash = "7fbc3bc202877014c20b97a5ce20565e28a28d57607d39841a2d46bf8323cac6"
+metafile = true
+
+[[files]]
 file = "mods/ctm-1-18-2-1-1-5-5-0f10c8a205c3.pw.toml"
 hash = "239a701cff1112ee650b1ba39c6bb21ceaa27d557a83a11be8c0d07ced250222"
 metafile = true
@@ -1812,6 +1827,11 @@ hash = "b5b81acab9a93bf181201229298f55c4b656d7bc4661a5ab3bf14e215d225858"
 metafile = true
 
 [[files]]
+file = "mods/sliceanddice-forge-1-4-0-6e1c8767aa3d.pw.toml"
+hash = "e24c3d9612b2c7cbeb37ddbd46dfc66d7cb950b144199784e7ba0009768a7790"
+metafile = true
+
+[[files]]
 file = "mods/snowrealmagic-1-18-2-forge-4-2-4-1cd76fc1d9dd.pw.toml"
 hash = "be6a05d7d2c3412e6c2e65a31184b4416d713138635655fd7856eeecc63ccbe8"
 metafile = true
@@ -1854,6 +1874,11 @@ metafile = true
 [[files]]
 file = "mods/starterkit-1-18-2-5-3-a809b1c15460.pw.toml"
 hash = "2e4e8b2d2a95a34d9b74b47b45b4470284eb508d9d6b599d2316021939880500"
+metafile = true
+
+[[files]]
+file = "mods/steam-rails-1-4-8-forge-mc1-18-2-build-23-84185cb19575.pw.toml"
+hash = "d72759a7c1e90fdd82cbae88397acbe4e233b1393198a87c8bb169df656dcfd8"
 metafile = true
 
 [[files]]

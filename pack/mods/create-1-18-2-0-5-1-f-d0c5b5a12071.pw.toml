@@ -1,0 +1,8 @@
+name = "create-1.18.2-0.5.1.f"
+filename = "create-1.18.2-0.5.1.f.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/create-1.18.2-0.5.1.f.jar"
+hash-format = "sha256"
+hash = "d0c5b5a12071559d9c8e6a8cb47649e3f8da84a510ee8a3d485409544f2bfdfd"

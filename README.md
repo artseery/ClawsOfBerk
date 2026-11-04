@@ -1,4 +1,4 @@
-# ClawsOfBerk 3.2.9 — GitHub-hosted Packwiz pack
+# ClawsOfBerk 3.3.0 — GitHub-hosted Packwiz pack
 
 `pack/` is the Packwiz manifest and configuration tree. GitHub Pages serves
 `pack/pack.toml` for the Prism prelaunch installer. Mod, shader pack, and
@@ -9,15 +9,18 @@ CDN URL.
 ## Files in this repository
 
 The source CurseForge export contains no mod JARs. `artifacts/` contains
-148 mod JARs, including Quark and AutoRegLib, Trash Cans and its Core Lib
-dependency, and Enchantment Transfer, plus 6 shader ZIPs and 3 resource-pack
-ZIPs. Tree Harvester is downloaded directly from Modrinth under its author’s
-modpack distribution terms. GitHub-hosted files are checked against
+153 mod JARs, including the Create base mod, Steam ’n’ Rails, Create Deco,
+Crafts & Additions, and Slice & Dice; Quark and AutoRegLib; Trash Cans and its
+Core Lib dependency; and Enchantment Transfer. There are also 6 shader ZIPs
+and 3 resource-pack ZIPs. Tree Harvester is downloaded directly from Modrinth
+under its author’s modpack distribution terms. GitHub-hosted files are checked
+against
 `scripts/source_files.json`. The map is already included under `pack/saves/`.
 
 `scripts/server_mods.json` includes the 114 JARs in the official ClawsOfBerk
 3.2.7 server archive plus Quark, AutoRegLib, Trash Cans, Core Lib,
-Enchantment Transfer, and Tree Harvester. Generated metadata marks client-only
+Enchantment Transfer, Tree Harvester, Create, Steam ’n’ Rails, Create Deco,
+Crafts & Additions, and Slice & Dice. Generated metadata marks client-only
 mods accordingly, so Packwiz `-s server` installs server mods and their
 required dependencies.
 The server needs Forge 40.3.12 for Minecraft 1.18.2 and Java 17.

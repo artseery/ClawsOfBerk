@@ -1,0 +1,8 @@
+name = "createaddition-1.18.2-1.0.0"
+filename = "createaddition-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/createaddition-1.18.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "359d3811abfcc775822b758a575649dee3c14660dab03f16ce1235687d2b330f"

@@ -1,0 +1,8 @@
+name = "Steam_Rails-1.4.8+forge-mc1.18.2-build.23"
+filename = "Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar"
+side = "both"
+
+[download]
+url = "https://artseery.github.io/ClawsOfBerk/artifacts/mods/Steam_Rails-1.4.8%2Bforge-mc1.18.2-build.23.jar"
+hash-format = "sha256"
+hash = "84185cb19575d9d436e1b78d98e74f0dbc48b9bcf6653ac392b8dc79798bcc24"
